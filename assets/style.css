@@ -27,7 +27,8 @@ header.top{position:sticky;top:0;z-index:10;background:var(--navbg);backdrop-fil
 .path{display:flex;flex-direction:column;gap:6px;text-decoration:none;color:var(--ink)}.path .go{font-size:13px;color:var(--acc);font-weight:600}
 .chk{list-style:none;padding:0;margin:0}.chk li{padding:4px 0 4px 22px;position:relative;color:var(--mute);font-size:14.5px}.chk li:before{content:"✓";position:absolute;left:0;color:var(--acc);font-weight:700}
 .viewall{display:block;margin:16px auto 0;background:transparent;border:1.5px solid var(--acc);color:var(--acc);border-radius:10px;padding:10px 20px;font:600 14px system-ui,sans-serif;cursor:pointer}.more-pubs{margin-top:10px}
-@media (prefers-reduced-motion: no-preference){.reveal{opacity:0;transform:translateY(18px);transition:opacity .6s ease-out,transform .6s ease-out}.reveal.in{opacity:1;transform:none}.hero h1,.hero .eyebrow,.hero>.w>div>p,.hero .chips,.hero-sec,.hero .btn{animation:fadeUp .7s ease-out both}.hero .frame{animation:fadeUp .8s .15s ease-out both}@keyframes fadeUp{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}}
+@keyframes fadeUp{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion: no-preference){.reveal{animation:fadeUp .6s ease-out both}.hero h1,.hero .eyebrow,.hero>.w>div>p,.hero .chips,.hero-sec,.hero .btn{animation:fadeUp .7s ease-out both}.hero .frame{animation:fadeUp .8s .15s ease-out both}}
 .frame{position:relative;max-width:380px;margin:0 auto}.frame:before{content:"";position:absolute;inset:14px -14px -14px 14px;border:2px solid #e0b95f;border-radius:22px}
 .frame img{position:relative;width:100%;display:block;border-radius:22px;box-shadow:0 18px 40px rgba(0,0,0,.35)}
 .stats{margin-top:-28px;position:relative}.stats .w{display:grid;grid-template-columns:repeat(2,1fr);gap:1px;background:var(--line);border:1px solid var(--line);border-radius:14px;box-shadow:var(--sh);overflow:hidden;padding:0;max-width:920px}
@@ -58,3 +59,6 @@ html[lang=bn] .en{display:none}
 html:not([lang=bn]) .bn{display:none}
 .bn{letter-spacing:0;text-transform:none;font-family:"Noto Sans Bengali","Kalpurush","Siyam Rupali",system-ui,sans-serif;font-style:normal}
 .lt{background:transparent;border:1.5px solid var(--acc);color:var(--acc);border-radius:8px;padding:6px 12px;font:600 14px system-ui,sans-serif;cursor:pointer}
+.cond-head{display:flex;align-items:center;gap:18px}
+.cond-badge{flex:none;width:84px;height:84px;border-radius:50%;background:linear-gradient(135deg,#0e7c86,#0a5a61);display:flex;align-items:center;justify-content:center;box-shadow:0 6px 18px rgba(14,124,134,.25)}
+@media(max-width:480px){.cond-head{gap:12px}.cond-badge{width:60px;height:60px}.cond-badge svg{width:32px;height:32px}}
