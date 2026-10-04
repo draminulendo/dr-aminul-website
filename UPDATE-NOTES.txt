@@ -1,0 +1,15 @@
+Dr. Aminul website update
+Date: 2026-10-04
+
+Main changes:
+- Updated SEO description and Physician structured data.
+- Updated chamber address details and retained current appointment numbers.
+- Added Patiya to structured contact/location data.
+- Improved mobile conversion with fixed Call / WhatsApp / Appointment actions.
+- Added accessibility skip links to the main pages.
+- Added descriptive alt text to the main doctor image.
+- Added a clearer patient-centered "diagnose properly before treatment" message.
+- Corrected the PCOS typo (PMOS).
+- Fixed the malformed search placeholder on the Patient Education Library.
+- Updated the downloadable contact card address.
+- Preserved the existing design, bilingual system, media, pages, and GitHub Pages-friendly static architecture.
