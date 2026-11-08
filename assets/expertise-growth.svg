@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220" role="img" aria-label="Medical illustration">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5D8C6A" stop-opacity=".10"/><stop offset="1" stop-color="#5D8C6A" stop-opacity=".02"/></linearGradient></defs>
+  <rect width="320" height="220" rx="18" fill="url(#bg)"/>
+  <circle cx="160" cy="116" r="88" fill="#fff" fill-opacity=".76"/>
+  <circle cx="160" cy="116" r="88" fill="none" stroke="#5D8C6A" stroke-opacity=".12" stroke-width="2"/>
+  <path d="M104 188V82m0 0-18 18m18-18 18 18" fill="none" stroke="#5D8C6A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/><path d="M143 188h88" stroke="#5D8C6A" stroke-width="8" stroke-linecap="round"/><path d="M151 188v-35h25v35m17 0v-62h25v62" fill="#fff" stroke="#5D8C6A" stroke-width="7"/>
+  <circle cx="245" cy="48" r="8" fill="#5D8C6A" opacity=".22"/>
+  <circle cx="76" cy="174" r="6" fill="#5D8C6A" opacity=".28"/>
+</svg>
