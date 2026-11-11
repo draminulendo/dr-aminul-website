@@ -160,3 +160,52 @@ body{background:linear-gradient(180deg,#f7fbff 0%,#fff 24%,#f7fcfb 100%)}
 .learning-step p{margin:0;line-height:1.55;font-weight:600;color:#27465d;font-size:.93rem}.learning-disclaimer{margin:1rem 0 0;font-size:.79rem;color:#657588;line-height:1.5}
 @media(max-width:650px){.learning-flow{grid-template-columns:1fr;gap:.8rem}.learning-step{display:flex;align-items:center;text-align:left;gap:.9rem;padding:.9rem}.learning-symbol{flex:none;margin:0}.learning-step:not(:last-child):after{content:'⌄';top:auto;bottom:-1.12rem;left:50%;right:auto;transform:translateX(-50%)}.trust-section{border-radius:18px}}
 @media(prefers-reduced-motion:reduce){.expertise-card{transition:none}}
+
+/* November 2026: accessible booking and patient education enhancements */
+.brac-chamber{border:1px solid #b5dfe3!important;background:linear-gradient(145deg,var(--card),color-mix(in srgb,var(--acc) 7%,var(--card)))!important}
+.brac-chamber h3{color:var(--acc)}
+.mobile-appointment-bar{display:none}
+.patient-guide-hub{margin:2rem 0;padding:clamp(1.1rem,3vw,2rem);border:1px solid var(--line);border-radius:20px;background:linear-gradient(125deg,color-mix(in srgb,var(--acc) 8%,var(--card)),var(--card))}
+.patient-guide-hub .section-heading{max-width:800px;margin-bottom:1.2rem}
+.patient-guide-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+.patient-guide{display:flex;flex-direction:column;gap:7px;padding:18px;border:1px solid var(--line);border-radius:14px;background:var(--card);color:var(--ink);text-decoration:none;line-height:1.55}
+.patient-guide strong{color:var(--acc);font-size:1.05rem}
+.patient-guide:hover,.related-care-links a:hover{border-color:var(--acc);transform:translateY(-2px)}
+.patient-guide,.related-care-links a{transition:transform .18s ease,border-color .18s ease}
+.editorial-review{font-size:.87rem;line-height:1.65;color:var(--mute);padding:12px 16px;border-left:3px solid var(--acc);margin:22px 0;background:color-mix(in srgb,var(--acc) 5%,var(--card));border-radius:7px}
+.related-care-links{margin:25px 0;padding:18px;border-radius:16px;border:1px solid var(--line);background:var(--card)}
+.related-care-links h2{font-size:1.2rem;margin:0 0 12px}
+.related-care-links>div{display:flex;flex-wrap:wrap;gap:10px}
+.related-care-links a{display:inline-block;text-decoration:none;padding:10px 14px;border:1px solid var(--line);border-radius:10px;color:var(--acc);font-weight:650}
+@media(max-width:600px){.patient-guide-grid{grid-template-columns:1fr}}
+@media(max-width:760px){
+ .mobile-appointment-bar{position:fixed;z-index:9998;bottom:0;left:0;right:0;display:grid;grid-template-columns:1fr 1.2fr 1.2fr;gap:5px;padding:8px 10px calc(8px + env(safe-area-inset-bottom,0px));background:var(--card);border-top:1px solid var(--line);box-shadow:0 -6px 22px rgba(0,0,0,.12)}
+ .mobile-appointment-bar a{display:flex;align-items:center;justify-content:center;gap:6px;min-height:45px;border-radius:10px;border:1px solid var(--line);font-size:13px;font-weight:750;text-decoration:none;color:var(--acc)}
+ .mobile-appointment-bar a.book-action{background:var(--acc);color:#fff;border-color:var(--acc)}
+ body{padding-bottom:calc(75px + env(safe-area-inset-bottom,0px))!important}
+}
+@media(prefers-reduced-motion:reduce){.patient-guide,.related-care-links a{transition:none}}
+
+
+/* Educational photo gallery: preserves the original supplied poster images */
+.photo-gallery-section{margin:3rem auto;padding:clamp(1.1rem,3vw,2.3rem);border-radius:24px;background:linear-gradient(135deg,#eef9fa,#f5f8ff 55%,#fff8ef);border:1px solid #dbe9ef}
+.photo-gallery-section .gallery-intro{max-width:780px;line-height:1.7;color:#415e6e}
+.poster-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:1rem;margin-top:1.25rem}
+.poster-card{display:flex;flex-direction:column;min-width:0;text-decoration:none!important;border-radius:16px;overflow:hidden;background:#fff;border:1px solid #dbe7ee;box-shadow:0 5px 18px rgba(12,55,84,.08);transition:transform .18s ease,box-shadow .18s ease}
+.poster-card:hover,.poster-card:focus-visible{transform:translateY(-3px);box-shadow:0 10px 28px rgba(12,55,84,.15)}
+.poster-card img{width:100%;height:260px;object-fit:contain;background:#f6fafc;display:block}
+.poster-caption{display:flex;gap:.4rem;align-items:center;justify-content:space-between;padding:.8rem .9rem;color:#183d59;font-weight:700;font-size:.91rem;line-height:1.4;min-height:65px}
+.poster-zoom{color:#087e8b;font-size:1.2rem}
+.gallery-action{display:inline-block;margin-top:1.2rem;background:#087e8b;color:white!important;border-radius:12px;padding:.8rem 1.15rem;font-weight:700;text-decoration:none!important}
+.gallery-action:hover{background:#08636e}
+.gallery-note{color:#4c6171;font-size:.9rem;line-height:1.65;margin-top:1rem}
+@media(max-width:960px){.poster-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(max-width:700px){.poster-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:.7rem}.poster-card img{height:210px}.poster-caption{font-size:.82rem;padding:.65rem}}
+@media(max-width:380px){.poster-grid{grid-template-columns:1fr}.poster-card img{height:300px}}
+@media(prefers-reduced-motion:reduce){.poster-card{transition:none}}
+
+/* Expertise, trust visuals and FAQ refinements */
+.expertise-card{transition:transform .22s ease,box-shadow .22s ease}.expertise-card:hover{transform:translateY(-3px);box-shadow:0 12px 30px rgba(12,70,85,.12)}
+.expertise-card h3{font-size:clamp(1rem,1.5vw,1.14rem);line-height:1.38}.expertise-card p{font-size:.94rem;line-height:1.75}
+.trust-card{overflow:hidden}.trust-visual{width:58px;height:58px;display:grid;place-items:center;border-radius:18px;background:linear-gradient(135deg,#e1f5f3,#dbeafe);color:#087f8c;box-shadow:inset 0 0 0 1px rgba(6,106,121,.1);margin-bottom:12px}.trust-visual svg{width:32px;height:32px}.trust-visual-2{background:linear-gradient(135deg,#e8f6e9,#def5e6);color:#17804e}.trust-visual-3{background:linear-gradient(135deg,#e9edff,#e6f3ff);color:#3158a8}.trust-visual-4{background:linear-gradient(135deg,#ffe9eb,#fff1e7);color:#b74865}.trust-visual-5{background:linear-gradient(135deg,#fff4d9,#fff2e8);color:#a56a1a}.trust-visual-6{background:linear-gradient(135deg,#e8e7ff,#f1eaff);color:#6652a9}
+.faq-upgraded{padding-block:clamp(30px,5vw,65px)}.faq-upgraded h2{margin-bottom:8px}.faq-intro{max-width:760px;color:var(--mute);margin:0 0 22px;line-height:1.75}.faq-list{display:grid;gap:11px}.faq-item{border:1px solid var(--line);background:var(--card);border-radius:16px;overflow:hidden;box-shadow:0 3px 14px rgba(20,66,75,.04)}.faq-item summary{list-style:none;cursor:pointer;display:flex;align-items:center;gap:14px;padding:16px 18px;font-weight:700;line-height:1.5;color:var(--ink)}.faq-item summary::-webkit-details-marker{display:none}.faq-index{font-size:12px;letter-spacing:.03em;color:#087f8c;background:#e4f4f4;border-radius:9px;min-width:35px;height:35px;display:grid;place-items:center}.faq-question{flex:1}.faq-chevron{font-size:26px;color:var(--acc);line-height:1;transition:transform .2s}.faq-item[open] .faq-chevron{transform:rotate(180deg)}.faq-item[open]{border-color:#9cced2}.faq-answer{padding:0 22px 17px 67px}.faq-answer p{margin:0;color:var(--mute);line-height:1.8}.faq-footnote{font-size:.9rem;color:var(--mute);margin-top:15px}@media(max-width:600px){.faq-item summary{padding:13px 12px;gap:10px}.faq-answer{padding:0 15px 15px 56px}.trust-visual{width:52px;height:52px}}@media(prefers-reduced-motion:reduce){.expertise-card,.faq-chevron{transition:none}}
