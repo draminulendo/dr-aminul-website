@@ -209,3 +209,31 @@ body{background:linear-gradient(180deg,#f7fbff 0%,#fff 24%,#f7fcfb 100%)}
 .expertise-card h3{font-size:clamp(1rem,1.5vw,1.14rem);line-height:1.38}.expertise-card p{font-size:.94rem;line-height:1.75}
 .trust-card{overflow:hidden}.trust-visual{width:58px;height:58px;display:grid;place-items:center;border-radius:18px;background:linear-gradient(135deg,#e1f5f3,#dbeafe);color:#087f8c;box-shadow:inset 0 0 0 1px rgba(6,106,121,.1);margin-bottom:12px}.trust-visual svg{width:32px;height:32px}.trust-visual-2{background:linear-gradient(135deg,#e8f6e9,#def5e6);color:#17804e}.trust-visual-3{background:linear-gradient(135deg,#e9edff,#e6f3ff);color:#3158a8}.trust-visual-4{background:linear-gradient(135deg,#ffe9eb,#fff1e7);color:#b74865}.trust-visual-5{background:linear-gradient(135deg,#fff4d9,#fff2e8);color:#a56a1a}.trust-visual-6{background:linear-gradient(135deg,#e8e7ff,#f1eaff);color:#6652a9}
 .faq-upgraded{padding-block:clamp(30px,5vw,65px)}.faq-upgraded h2{margin-bottom:8px}.faq-intro{max-width:760px;color:var(--mute);margin:0 0 22px;line-height:1.75}.faq-list{display:grid;gap:11px}.faq-item{border:1px solid var(--line);background:var(--card);border-radius:16px;overflow:hidden;box-shadow:0 3px 14px rgba(20,66,75,.04)}.faq-item summary{list-style:none;cursor:pointer;display:flex;align-items:center;gap:14px;padding:16px 18px;font-weight:700;line-height:1.5;color:var(--ink)}.faq-item summary::-webkit-details-marker{display:none}.faq-index{font-size:12px;letter-spacing:.03em;color:#087f8c;background:#e4f4f4;border-radius:9px;min-width:35px;height:35px;display:grid;place-items:center}.faq-question{flex:1}.faq-chevron{font-size:26px;color:var(--acc);line-height:1;transition:transform .2s}.faq-item[open] .faq-chevron{transform:rotate(180deg)}.faq-item[open]{border-color:#9cced2}.faq-answer{padding:0 22px 17px 67px}.faq-answer p{margin:0;color:var(--mute);line-height:1.8}.faq-footnote{font-size:.9rem;color:var(--mute);margin-top:15px}@media(max-width:600px){.faq-item summary{padding:13px 12px;gap:10px}.faq-answer{padding:0 15px 15px 56px}.trust-visual{width:52px;height:52px}}@media(prefers-reduced-motion:reduce){.expertise-card,.faq-chevron{transition:none}}
+
+
+/* Trust section redesign: exactly three cards per desktop row */
+.trust-redesign{isolation:isolate;padding:clamp(44px,6vw,80px) 0}
+.trust-redesign .section-heading{max-width:760px;margin:0 auto 30px;text-align:center}
+.trust-redesign .section-heading h2{font-size:clamp(1.65rem,3vw,2.5rem);line-height:1.25}
+.trust-redesign .section-heading p{line-height:1.7}
+.trust-redesign .trust-grid-new{display:grid!important;grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:20px;align-items:stretch}
+.trust-redesign .trust-card-new{position:relative;min-width:0;min-height:252px;display:flex;flex-direction:column;align-items:center;text-align:center;padding:30px 22px 26px;border-radius:24px;background:linear-gradient(160deg,var(--tone-bg),#fff 78%);border:1px solid var(--tone-border);box-shadow:0 8px 22px rgba(22,51,74,.07);transition:transform .2s ease,box-shadow .2s ease}
+.trust-redesign .trust-card-new:hover{transform:translateY(-4px);box-shadow:0 14px 28px rgba(22,51,74,.12)}
+.trust-redesign .trust-icon-new{display:grid;place-items:center;width:76px;height:76px;flex:0 0 76px;margin:0 auto 17px;border-radius:23px;background:var(--tone-icon);box-shadow:0 6px 16px rgba(18,48,68,.09);font-size:42px;line-height:1;font-family:"Apple Color Emoji","Segoe UI Emoji","Noto Color Emoji",sans-serif}
+.trust-redesign .trust-count-new{position:absolute;top:17px;right:18px;font-size:13px;font-weight:800;letter-spacing:.04em;color:var(--tone-text);opacity:.7}
+.trust-redesign .trust-card-new h3{font-size:clamp(1.04rem,1.55vw,1.24rem);line-height:1.4;color:#17334a;margin:0 0 10px;overflow-wrap:anywhere}
+.trust-redesign .trust-card-new p{font-size:.94rem;line-height:1.75;color:#425b6c;margin:0;max-width:34ch;overflow-wrap:anywhere}
+.trust-tone-1{--tone-bg:#e8f8fb;--tone-border:#bde9f0;--tone-icon:#cff1f7;--tone-text:#087b95}
+.trust-tone-2{--tone-bg:#ecfaed;--tone-border:#c7eecf;--tone-icon:#d8f5dc;--tone-text:#25834a}
+.trust-tone-3{--tone-bg:#eff0ff;--tone-border:#d5d8ff;--tone-icon:#dfe2ff;--tone-text:#5853ac}
+.trust-tone-4{--tone-bg:#fff0f2;--tone-border:#ffd6df;--tone-icon:#ffe0e6;--tone-text:#bc456b}
+.trust-tone-5{--tone-bg:#fff7e7;--tone-border:#f8e5bb;--tone-icon:#ffebc2;--tone-text:#a66d1c}
+.trust-tone-6{--tone-bg:#f2edff;--tone-border:#e0d5fa;--tone-icon:#e8ddff;--tone-text:#7951ae}
+@media(max-width:950px){.trust-redesign .trust-grid-new{grid-template-columns:repeat(2,minmax(0,1fr))!important}}
+@media(max-width:620px){.trust-redesign .trust-grid-new{grid-template-columns:1fr!important;gap:14px}.trust-redesign .trust-card-new{min-height:0;padding:24px 20px}.trust-redesign .trust-icon-new{width:68px;height:68px;flex-basis:68px;font-size:38px}}
+@media(prefers-reduced-motion:reduce){.trust-redesign .trust-card-new{transition:none}}
+
+/* Compact expertise illustrations, preserving all nine topics */
+.expertise-card>img{width:100%!important;height:96px!important;object-fit:contain!important;object-position:center;background:linear-gradient(135deg,#f3fafb,#f8fbff);padding:9px 18px;box-sizing:border-box}
+.expertise-card h3{padding-top:11px}
+@media(max-width:560px){.expertise-card>img{height:76px!important;padding:8px 12px}.expertise-card h3{padding-top:9px}}
