@@ -237,3 +237,18 @@ body{background:linear-gradient(180deg,#f7fbff 0%,#fff 24%,#f7fcfb 100%)}
 .expertise-card>img{width:100%!important;height:96px!important;object-fit:contain!important;object-position:center;background:linear-gradient(135deg,#f3fafb,#f8fbff);padding:9px 18px;box-sizing:border-box}
 .expertise-card h3{padding-top:11px}
 @media(max-width:560px){.expertise-card>img{height:76px!important;padding:8px 12px}.expertise-card h3{padding-top:9px}}
+
+
+/* November 2026: compact expertise illustrations and uniform trust layout */
+.expertise-grid .expertise-card>img{height:58px!important;width:100%!important;object-fit:contain!important;padding:5px 22px!important;box-sizing:border-box!important;background:linear-gradient(135deg,#f5fafc,#fbfcff)!important}
+.expertise-grid .expertise-card h3{padding-top:8px!important}
+.expertise-grid .expertise-card p{line-height:1.55!important}
+.expertise-grid .expertise-card{border-radius:16px}
+.trust-redesign .trust-grid-new{display:grid!important;grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:16px!important;align-items:stretch!important}
+.trust-redesign .trust-card-new{min-height:0!important;padding:22px 17px 20px!important;border-radius:18px!important;justify-content:flex-start}
+.trust-redesign .trust-icon-new{width:58px!important;height:58px!important;flex:0 0 58px!important;font-size:33px!important;border-radius:16px!important;margin-bottom:12px!important}
+.trust-redesign .trust-card-new h3{margin:0 0 7px!important;font-size:1.06rem!important}
+.trust-redesign .trust-card-new p{font-size:.88rem!important;line-height:1.6!important}
+@media (min-width:701px) and (max-width:900px){.trust-redesign .trust-grid-new{grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:10px!important}.trust-redesign .trust-card-new{padding:18px 10px!important}}
+@media (max-width:700px){.trust-redesign .trust-grid-new{grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:12px!important}.trust-redesign .trust-card-new{padding:18px 12px!important}.expertise-grid .expertise-card>img{height:50px!important;padding:4px 14px!important}}
+@media (max-width:440px){.trust-redesign .trust-grid-new{grid-template-columns:1fr!important}.trust-redesign .trust-card-new{padding:18px 16px!important}.trust-redesign .trust-icon-new{width:54px!important;height:54px!important;flex-basis:54px!important;font-size:31px!important}}
