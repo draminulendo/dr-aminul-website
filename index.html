@@ -72,7 +72,39 @@ h2{font-size:clamp(26px,5vw,34px);margin:4px 0 18px}
 details{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px;margin-bottom:10px}summary{cursor:pointer;font-weight:600}details p{color:var(--mute);margin:8px 0 0}
 .ref{background:var(--card);border:1px solid var(--line);border-left:4px solid var(--acc);border-radius:12px;padding:18px}
 footer{margin-top:56px;background:#082830;color:#a9c8ca;font-size:13px;padding:28px 0 36px}footer a{color:#e0b95f}footer b{color:#fff}
-html[lang=bn] .en{display:none}html:not([lang=bn]) .bn{display:none}.bn{letter-spacing:0;text-transform:none;font-family:"Noto Sans Bengali","Kalpurush","Siyam Rupali",system-ui,sans-serif;font-style:normal}.lt{background:transparent;border:1.5px solid var(--acc);color:var(--acc);border-radius:8px;padding:6px 12px;font:600 14px system-ui,sans-serif;cursor:pointer}</style><meta content="https://draminulislam.com/" property="og:url"/><meta content="https://draminulislam.com/social-preview.png" property="og:image"/><meta content="1200" property="og:image:width"/><meta content="630" property="og:image:height"/></head><body>
+html[lang=bn] .en{display:none}html:not([lang=bn]) .bn{display:none}.bn{letter-spacing:0;text-transform:none;font-family:"Noto Sans Bengali","Kalpurush","Siyam Rupali",system-ui,sans-serif;font-style:normal}.lt{background:transparent;border:1.5px solid var(--acc);color:var(--acc);border-radius:8px;padding:6px 12px;font:600 14px system-ui,sans-serif;cursor:pointer}
+
+/* 2026-11-11: live homepage fixes (inline because this page uses embedded CSS) */
+#trust.trust-redesign{padding:34px 0 42px}
+#trust .section-heading{max-width:760px;margin:0 auto 24px;text-align:center}
+#trust .trust-grid-new{display:grid!important;grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:15px!important;align-items:stretch!important}
+#trust .trust-card-new{box-sizing:border-box;display:flex!important;flex-direction:column!important;align-items:center!important;text-align:center!important;position:relative;min-width:0;min-height:0!important;margin:0!important;padding:22px 17px 20px!important;border:1px solid var(--trust-border,#d7e8e8)!important;border-radius:17px!important;background:linear-gradient(145deg,var(--trust-bg,#eef9f9),#fff 78%)!important;box-shadow:0 6px 18px rgba(15,55,68,.08)!important}
+#trust .trust-icon-new{box-sizing:border-box;display:grid!important;place-items:center!important;width:58px!important;height:58px!important;flex:0 0 58px!important;border-radius:17px!important;background:var(--trust-icon,#e1f5f5)!important;font-family:"Apple Color Emoji","Segoe UI Emoji","Noto Color Emoji",sans-serif!important;font-size:31px!important;line-height:1!important;margin:0 auto 12px!important}
+#trust .trust-count-new{position:absolute;right:14px;top:13px;font:700 12px system-ui,sans-serif;color:#607986}
+#trust .trust-card-new h3{font-size:clamp(15px,1.55vw,19px)!important;line-height:1.35!important;margin:0 0 9px!important;padding:0!important}
+#trust .trust-card-new p{font-size:14px!important;line-height:1.6!important;margin:0!important;padding:0!important;color:#526575;max-width:36ch}
+#trust .trust-tone-1{--trust-bg:#e8f8fb;--trust-border:#c2e9ef;--trust-icon:#d0f0f7}
+#trust .trust-tone-2{--trust-bg:#eefaee;--trust-border:#ccecd2;--trust-icon:#dbf4df}
+#trust .trust-tone-3{--trust-bg:#f0f0ff;--trust-border:#d6d7fb;--trust-icon:#e1e1ff}
+#trust .trust-tone-4{--trust-bg:#fff0f3;--trust-border:#f9d7e0;--trust-icon:#ffe0e7}
+#trust .trust-tone-5{--trust-bg:#fff7e8;--trust-border:#f2e1c2;--trust-icon:#ffedc9}
+#trust .trust-tone-6{--trust-bg:#f4efff;--trust-border:#e2d7f8;--trust-icon:#e9dfff}
+.expertise-grid .expertise-card{padding:0!important;overflow:hidden!important;display:flex!important;flex-direction:column!important;min-height:0!important}
+.expertise-grid .expertise-card>img{display:block!important;box-sizing:border-box!important;width:100%!important;height:72px!important;object-fit:contain!important;object-position:center!important;padding:6px 20px!important;margin:0!important;background:#f5fafb!important}
+.expertise-grid .expertise-card h3{font-size:clamp(15px,1.3vw,18px)!important;line-height:1.32!important;margin:0!important;padding:10px 14px 0!important}
+.expertise-grid .expertise-card p{font-size:13px!important;line-height:1.5!important;margin:6px 0 0!important;padding:0 14px!important;flex:1}
+.expertise-grid .expertise-card .expertise-link{margin:8px 14px 14px!important;font-size:13px!important}
+@media(max-width:700px){
+ #trust .trust-grid-new{grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:12px!important}
+ #trust .trust-card-new{padding:19px 12px!important}
+ .expertise-grid .expertise-card>img{height:60px!important;padding:5px 12px!important}
+ .expertise-grid .expertise-card h3{padding:9px 11px 0!important}
+ .expertise-grid .expertise-card p{padding:0 11px!important}
+ .expertise-grid .expertise-card .expertise-link{margin:7px 11px 12px!important}
+}
+@media(max-width:440px){#trust .trust-grid-new{grid-template-columns:1fr!important}}
+
+</style><meta content="https://draminulislam.com/" property="og:url"/><meta content="https://draminulislam.com/social-preview.png" property="og:image"/><meta content="1200" property="og:image:width"/><meta content="630" property="og:image:height"/></head><body>
 <header class="top"><div class="w"><span class="brand">🩺 Dr. Aminul</span><nav><button class="lt" id="lt" type="button">বাংলা</button><a href="#about"><span class="en">About</span><span class="bn">আমার সম্পর্কে</span></a><a href="#care">Conditions</a><a href="#book"><span class="en">Chambers</span><span class="bn">চেম্বার</span></a><a href="#learn"><span class="en">Learn</span><span class="bn">জানুন</span></a><a href="#faq">FAQ</a><a href="#research"><span class="en">Research</span><span class="bn">গবেষণা</span></a><a href="#reviews"><span class="en">Reviews</span><span class="bn">রিভিউ</span></a><a class="bk" href="#book"><span class="en">Appointment</span><span class="bn">অ্যাপয়েন্টমেন্ট</span></a></nav></div></header>
 <div class="hero"><div class="w"><div><span class="eyebrow"><span class="en">Endocrinologist · Diabetes, Thyroid &amp; Hormone Specialist</span><span class="bn">এন্ডোক্রাইনোলজিস্ট · ডায়াবেটিস, থাইরয়েড ও হরমোন বিশেষজ্ঞ</span></span><h1><span class="en">Dr. Mohammad Aminul Islam</span><span class="bn">ডা. মোহাম্মদ আমিনুল ইসলাম</span></h1>
 <div class="chips"><span class="chip">MBBS</span><span class="chip">BCS (Health)</span><span class="chip">MD (Endocrinology &amp; Metabolism)</span><span class="chip">MRCP-SCE (UK)</span><span class="chip">BMDC A68623</span><span class="chip"><span class="en">★ 5.0 on Google</span><span class="bn">★ গুগলে ৫.০</span></span></div>
