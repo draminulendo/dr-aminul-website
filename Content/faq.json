@@ -1,0 +1,94 @@
+{
+  "faq": [
+    {
+      "question": {
+        "en": "When should I see an endocrinologist?",
+        "bn": "কখন হরমোন বিশেষজ্ঞ দেখানো উচিত?"
+      },
+      "answer": {
+        "en": "Consider an assessment for diabetes that is difficult to control, repeated low glucose, thyroid problems, unexplained weight change, irregular periods, suspected hormonal disorders or concerns about a child’s growth or puberty.",
+        "bn": "ডায়াবেটিস নিয়ন্ত্রণে সমস্যা, বারবার সুগার কমে যাওয়া, থাইরয়েডের রোগ, অকারণে ওজন পরিবর্তন, অনিয়মিত মাসিক, হরমোনজনিত সমস্যা কিংবা শিশুর বৃদ্ধি ও বয়ঃসন্ধি নিয়ে উদ্বেগ থাকলে পরামর্শ নিন।"
+      }
+    },
+    {
+      "question": {
+        "en": "Do I need tests before my first appointment?",
+        "bn": "প্রথমবার দেখানোর আগে কি পরীক্ষা করাতে হবে?"
+      },
+      "answer": {
+        "en": "Not necessarily. Bring any existing reports; further investigations are chosen after reviewing your history, examination and clinical needs.",
+        "bn": "সবসময় নয়। আগের রিপোর্ট থাকলে সঙ্গে আনুন। আপনার উপসর্গ, ইতিহাস ও শারীরিক পরীক্ষার ভিত্তিতে প্রয়োজনীয় পরীক্ষা নির্ধারণ করা হবে।"
+      }
+    },
+    {
+      "question": {
+        "en": "What should I bring to the consultation?",
+        "bn": "ডাক্তার দেখাতে কী কী সঙ্গে আনব?"
+      },
+      "answer": {
+        "en": "Bring previous prescriptions, laboratory and imaging reports, a list or photos of current medicines and, if available, home glucose or blood-pressure records.",
+        "bn": "আগের প্রেসক্রিপশন, রক্ত ও ইমেজিং পরীক্ষার রিপোর্ট, বর্তমানে ব্যবহৃত ওষুধের নাম বা ছবি এবং থাকলে বাসায় মাপা সুগার বা রক্তচাপের রেকর্ড আনুন।"
+      }
+    },
+    {
+      "question": {
+        "en": "Should I come fasting or stop my medicines?",
+        "bn": "খালি পেটে আসব বা ওষুধ বন্ধ করব কি?"
+      },
+      "answer": {
+        "en": "A routine consultation usually does not require fasting. Do not stop prescribed medicines or insulin on your own. Some planned tests have special preparation; confirm instructions beforehand.",
+        "bn": "সাধারণ পরামর্শের জন্য সাধারণত খালি পেটে আসতে হয় না। নিজে থেকে ইনসুলিন বা অন্য ওষুধ বন্ধ করবেন না। বিশেষ পরীক্ষার আগে প্রস্তুতি লাগলে আগেই জেনে নিন।"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I consult about diabetes during pregnancy or thyroid problems in pregnancy?",
+        "bn": "গর্ভকালীন ডায়াবেটিস বা থাইরয়েডের জন্য কি পরামর্শ নিতে পারি?"
+      },
+      "answer": {
+        "en": "Yes. Diabetes and thyroid conditions in pregnancy need individualised monitoring and coordination with your obstetric team. Seek timely care rather than changing medication yourself.",
+        "bn": "হ্যাঁ। গর্ভাবস্থায় ডায়াবেটিস ও থাইরয়েডের জন্য ব্যক্তিভিত্তিক পর্যবেক্ষণ এবং প্রসূতি বিশেষজ্ঞের সঙ্গে সমন্বিত চিকিৎসা গুরুত্বপূর্ণ। নিজে ওষুধ পরিবর্তন করবেন না।"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I consult online, and when is an in-person visit better?",
+        "bn": "অনলাইনে পরামর্শ নেওয়া যাবে? কখন সরাসরি দেখা জরুরি?"
+      },
+      "answer": {
+        "en": "Online consultation may suit follow-up, report review and selected stable conditions. A new complex problem, examination needs or urgent symptoms may require an in-person assessment.",
+        "bn": "ফলো-আপ, রিপোর্ট দেখা এবং কিছু স্থিতিশীল রোগের ক্ষেত্রে অনলাইন পরামর্শ উপযোগী। নতুন জটিল সমস্যা, শারীরিক পরীক্ষার প্রয়োজন বা জরুরি উপসর্গ থাকলে সরাসরি দেখানো ভালো।"
+      }
+    },
+    {
+      "question": {
+        "en": "Where are the chambers and how do I book?",
+        "bn": "চেম্বার কোথায় এবং সিরিয়াল কীভাবে নেব?"
+      },
+      "answer": {
+        "en": "See the Chambers section for Omnicare, BRAC Kazipara, Chattogram and Patiya addresses, hours, telephone numbers and directions. Call the relevant chamber to confirm availability.",
+        "bn": "Omnicare, BRAC কাজীপাড়া, চট্টগ্রাম ও পটিয়ার ঠিকানা, সময়, ফোন নম্বর এবং দিকনির্দেশ চেম্বার অংশে দেওয়া আছে। সিরিয়ালের জন্য সংশ্লিষ্ট চেম্বারে ফোন করে নিশ্চিত করুন।"
+      }
+    },
+    {
+      "question": {
+        "en": "How often should I follow up?",
+        "bn": "কতদিন পরপর ফলো-আপ করা উচিত?"
+      },
+      "answer": {
+        "en": "Follow-up timing depends on the condition, treatment changes, glucose or hormone results and complications. Follow the interval given in your individual treatment plan.",
+        "bn": "রোগের ধরন, ওষুধ পরিবর্তন, সুগার বা হরমোনের রিপোর্ট এবং জটিলতার ওপর ফলো-আপের সময় নির্ভর করে। আপনার চিকিৎসা পরিকল্পনায় নির্ধারিত সময় মেনে চলুন।"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use WhatsApp for urgent medical problems?",
+        "bn": "জরুরি চিকিৎসার জন্য কি WhatsApp ব্যবহার করা যাবে?"
+      },
+      "answer": {
+        "en": "No. WhatsApp is for appointment-related communication, not emergency assessment. For unconsciousness, severe hypoglycaemia, chest pain, breathing difficulty or other emergencies, seek immediate emergency care.",
+        "bn": "না। WhatsApp মূলত অ্যাপয়েন্টমেন্ট-সংক্রান্ত যোগাযোগের জন্য, জরুরি চিকিৎসার বিকল্প নয়। অজ্ঞান হওয়া, তীব্র হাইপোগ্লাইসেমিয়া, বুকে ব্যথা, শ্বাসকষ্ট বা অন্য জরুরি সমস্যায় দ্রুত জরুরি বিভাগে যান।"
+      }
+    }
+  ]
+}
