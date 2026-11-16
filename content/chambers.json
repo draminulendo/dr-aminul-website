@@ -1,0 +1,124 @@
+{
+  "chambers": [
+    {
+      "area": {
+        "en": "Dhaka",
+        "bn": "ঢাকা"
+      },
+      "name": "Omnicare Diagnostic Limited",
+      "address": "Room - 804, 220/A, Begum Rokeya Swarani, Shewrapara (near Shewrapara Metro station), Dhaka 1207",
+      "hours": {
+        "en": "Sun – Thu, 7–9 PM",
+        "bn": "রবি – বৃহস্পতি, সন্ধ্যা ৭–৯টা"
+      },
+      "links": [
+        {
+          "label": "📞 09666642273",
+          "url": "tel:+8809666642273"
+        },
+        {
+          "label": "📞 01761901900",
+          "url": "tel:+8801761901900"
+        },
+        {
+          "label": "💬 WhatsApp",
+          "url": "https://wa.me/8801871550536"
+        },
+        {
+          "label": "🗺️ Directions দিকনির্দেশ",
+          "url": "https://maps.app.goo.gl/3rnXfdzpfa1wr9QW8"
+        },
+        {
+          "label": "🌐 Omnicare page",
+          "url": "https://omnicarebd.com/doctors/dr-mohammad-aminul-islam"
+        }
+      ]
+    },
+    {
+      "area": {
+        "en": "Dhaka · Kazipara",
+        "bn": "ঢাকা · কাজীপাড়া"
+      },
+      "name": "BRAC Healthcare",
+      "address": "840 Kazipara, Begum Rokeya Shoroni, Mirpur, Dhaka - 1216, Bangladesh",
+      "hours": {
+        "en": "Sunday – Thursday, 6:00–7:00 PM",
+        "bn": "রবিবার – বৃহস্পতিবার, সন্ধ্যা ৬টা–৭টা"
+      },
+      "links": [
+        {
+          "label": "📞 Appointment: অ্যাপয়েন্টমেন্ট: +8801335083990",
+          "url": "tel:+8801335083990"
+        },
+        {
+          "label": "🗺️ Google Maps directions গুগল ম্যাপে দিকনির্দেশ",
+          "url": "https://www.google.com/maps/dir/?api=1&destination=840%20Kazipara%2C%20Begum%20Rokeya%20Shoroni%2C%20Mirpur%2C%20Dhaka%20-%201216%2C%20Bangladesh"
+        }
+      ]
+    },
+    {
+      "area": {
+        "en": "Chattogram",
+        "bn": "চট্টগ্রাম"
+      },
+      "name": "Epic Healthcare Limited",
+      "address": "Room - 404, Epic Centre, 19, K.B. Fazlul Kader Road, Panchlaish, Chattogram (in front of Chattogram Medical College)",
+      "hours": {
+        "en": "Friday, 8–11 AM",
+        "bn": "শুক্রবার, সকাল ৮–১১টা"
+      },
+      "links": [
+        {
+          "label": "📞 01635183389",
+          "url": "tel:+8801635183389"
+        },
+        {
+          "label": "📞 01847005346",
+          "url": "tel:+8801847005346"
+        },
+        {
+          "label": "💬 WhatsApp",
+          "url": "https://wa.me/8801871550536"
+        },
+        {
+          "label": "🗺️ Directions দিকনির্দেশ",
+          "url": "https://maps.app.goo.gl/MYxQtJg4tuNJkc8X6"
+        },
+        {
+          "label": "🌐 Epic page",
+          "url": "https://www.epichcl.com/doctors/dr-mohammad-aminul-islam"
+        }
+      ]
+    },
+    {
+      "area": {
+        "en": "Patiya",
+        "bn": "পটিয়া"
+      },
+      "name": "Patiya General Hospital and Diagnostic",
+      "address": "Rafa Plaza, Hospital Road, Patiya, Chattogram",
+      "hours": {
+        "en": "Fri & Sat, 2–10 PM",
+        "bn": "শুক্র ও শনি, দুপুর ২–রাত ১০টা"
+      },
+      "links": [
+        {
+          "label": "📞 01889302691",
+          "url": "tel:+8801889302691"
+        },
+        {
+          "label": "📞 01886900052",
+          "url": "tel:+8801886900052"
+        },
+        {
+          "label": "💬 WhatsApp",
+          "url": "https://wa.me/8801871550536"
+        },
+        {
+          "label": "🗺️ Directions দিকনির্দেশ",
+          "url": "https://maps.app.goo.gl/xMk2jbu3uLonwim27"
+        }
+      ]
+    }
+  ]
+}
