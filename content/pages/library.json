@@ -1,0 +1,562 @@
+{
+  "items": [
+    {
+      "id": "edit-001",
+      "label": "About",
+      "kind": "text",
+      "value": "About"
+    },
+    {
+      "id": "edit-001",
+      "label": "Link: About",
+      "kind": "link",
+      "value": "index.html#about"
+    },
+    {
+      "id": "edit-002",
+      "label": "Conditions",
+      "kind": "text",
+      "value": "Conditions"
+    },
+    {
+      "id": "edit-002",
+      "label": "Link: Conditions",
+      "kind": "link",
+      "value": "index.html#care"
+    },
+    {
+      "id": "edit-003",
+      "label": "Chambers",
+      "kind": "text",
+      "value": "Chambers"
+    },
+    {
+      "id": "edit-003",
+      "label": "Link: Chambers",
+      "kind": "link",
+      "value": "index.html#book"
+    },
+    {
+      "id": "edit-004",
+      "label": "Learn",
+      "kind": "text",
+      "value": "Learn"
+    },
+    {
+      "id": "edit-004",
+      "label": "Link: Learn",
+      "kind": "link",
+      "value": "index.html#learn"
+    },
+    {
+      "id": "edit-005",
+      "label": "FAQ",
+      "kind": "text",
+      "value": "FAQ"
+    },
+    {
+      "id": "edit-005",
+      "label": "Link: FAQ",
+      "kind": "link",
+      "value": "index.html#faq"
+    },
+    {
+      "id": "edit-006",
+      "label": "Research",
+      "kind": "text",
+      "value": "Research"
+    },
+    {
+      "id": "edit-006",
+      "label": "Link: Research",
+      "kind": "link",
+      "value": "index.html#research"
+    },
+    {
+      "id": "edit-007",
+      "label": "Reviews",
+      "kind": "text",
+      "value": "Reviews"
+    },
+    {
+      "id": "edit-007",
+      "label": "Link: Reviews",
+      "kind": "link",
+      "value": "index.html#reviews"
+    },
+    {
+      "id": "edit-008",
+      "label": "Appointment",
+      "kind": "text",
+      "value": "Appointment"
+    },
+    {
+      "id": "edit-008",
+      "label": "Link: Appointment",
+      "kind": "link",
+      "value": "index.html#book"
+    },
+    {
+      "id": "edit-009",
+      "label": "Home",
+      "kind": "text",
+      "value": "Home"
+    },
+    {
+      "id": "edit-009",
+      "label": "Link: Home",
+      "kind": "link",
+      "value": "index.html"
+    },
+    {
+      "id": "edit-010",
+      "label": "Patient Education Library",
+      "kind": "text",
+      "value": "Patient Education Library"
+    },
+    {
+      "id": "edit-011",
+      "label": "রোগী শিক্ষা লাইব্রেরি",
+      "kind": "text",
+      "value": "রোগী শিক্ষা লাইব্রেরি"
+    },
+    {
+      "id": "edit-012",
+      "label": "Patient Education Library",
+      "kind": "text",
+      "value": "Patient Education Library"
+    },
+    {
+      "id": "edit-013",
+      "label": "রোগী শিক্ষা লাইব্রেরি",
+      "kind": "text",
+      "value": "রোগী শিক্ষা লাইব্রেরি"
+    },
+    {
+      "id": "edit-014",
+      "label": "Search or filter to find information on a condition.",
+      "kind": "text",
+      "value": "Search or filter to find information on a condition."
+    },
+    {
+      "id": "edit-015",
+      "label": "কোনো রোগ সম্পর্কে তথ্য খুঁজতে সার্চ বা ফিল্টার করুন।",
+      "kind": "text",
+      "value": "কোনো রোগ সম্পর্কে তথ্য খুঁজতে সার্চ বা ফিল্টার করুন।"
+    },
+    {
+      "id": "edit-016",
+      "label": "রোগ খুঁজুন…",
+      "kind": "text",
+      "value": "রোগ খুঁজুন…"
+    },
+    {
+      "id": "edit-017",
+      "label": "Diabetes Care",
+      "kind": "text",
+      "value": "Diabetes Care"
+    },
+    {
+      "id": "edit-018",
+      "label": "ডায়াবেটিস চিকিৎসা",
+      "kind": "text",
+      "value": "ডায়াবেটিস চিকিৎসা"
+    },
+    {
+      "id": "edit-019",
+      "label": "Type 1, type 2, gestational diabetes, and complications.",
+      "kind": "text",
+      "value": "Type 1, type 2, gestational diabetes, and complications."
+    },
+    {
+      "id": "edit-020",
+      "label": "টাইপ ১, টাইপ ২, গর্ভকালীন ডায়াবেটিস ও জটিলতা।",
+      "kind": "text",
+      "value": "টাইপ ১, টাইপ ২, গর্ভকালীন ডায়াবেটিস ও জটিলতা।"
+    },
+    {
+      "id": "edit-021",
+      "label": "Thyroid Care",
+      "kind": "text",
+      "value": "Thyroid Care"
+    },
+    {
+      "id": "edit-022",
+      "label": "থাইরয়েড চিকিৎসা",
+      "kind": "text",
+      "value": "থাইরয়েড চিকিৎসা"
+    },
+    {
+      "id": "edit-023",
+      "label": "Hypothyroidism, hyperthyroidism, nodules, and thyroid in pregnancy.",
+      "kind": "text",
+      "value": "Hypothyroidism, hyperthyroidism, nodules, and thyroid in pregnancy."
+    },
+    {
+      "id": "edit-024",
+      "label": "হাইপো/হাইপারথাইরয়েডিজম, নডিউল ও গর্ভাবস্থায় থাইরয়েড।",
+      "kind": "text",
+      "value": "হাইপো/হাইপারথাইরয়েডিজম, নডিউল ও গর্ভাবস্থায় থাইরয়েড।"
+    },
+    {
+      "id": "edit-025",
+      "label": "PCOS & Reproductive Endocrinology",
+      "kind": "text",
+      "value": "PCOS & Reproductive Endocrinology"
+    },
+    {
+      "id": "edit-026",
+      "label": "পিসিওএস ও প্রজনন এন্ডোক্রাইনোলজি",
+      "kind": "text",
+      "value": "পিসিওএস ও প্রজনন এন্ডোক্রাইনোলজি"
+    },
+    {
+      "id": "edit-027",
+      "label": "PCOS, irregular periods, and hormone-related fertility issues.",
+      "kind": "text",
+      "value": "PCOS, irregular periods, and hormone-related fertility issues."
+    },
+    {
+      "id": "edit-028",
+      "label": "পিসিওএস, অনিয়মিত মাসিক ও হরমোনজনিত বন্ধ্যাত্ব।",
+      "kind": "text",
+      "value": "পিসিওএস, অনিয়মিত মাসিক ও হরমোনজনিত বন্ধ্যাত্ব।"
+    },
+    {
+      "id": "edit-029",
+      "label": "Obesity & Metabolic Health",
+      "kind": "text",
+      "value": "Obesity & Metabolic Health"
+    },
+    {
+      "id": "edit-030",
+      "label": "স্থূলতা ও মেটাবলিক স্বাস্থ্য",
+      "kind": "text",
+      "value": "স্থূলতা ও মেটাবলিক স্বাস্থ্য"
+    },
+    {
+      "id": "edit-031",
+      "label": "Weight management, metabolic syndrome, and fatty liver.",
+      "kind": "text",
+      "value": "Weight management, metabolic syndrome, and fatty liver."
+    },
+    {
+      "id": "edit-032",
+      "label": "ওজন নিয়ন্ত্রণ, মেটাবলিক সিনড্রোম ও ফ্যাটি লিভার।",
+      "kind": "text",
+      "value": "ওজন নিয়ন্ত্রণ, মেটাবলিক সিনড্রোম ও ফ্যাটি লিভার।"
+    },
+    {
+      "id": "edit-033",
+      "label": "Men's Hormonal Health",
+      "kind": "text",
+      "value": "Men's Hormonal Health"
+    },
+    {
+      "id": "edit-034",
+      "label": "পুরুষদের হরমোন স্বাস্থ্য",
+      "kind": "text",
+      "value": "পুরুষদের হরমোন স্বাস্থ্য"
+    },
+    {
+      "id": "edit-035",
+      "label": "Testosterone disorders, gynecomastia, and related sexual health.",
+      "kind": "text",
+      "value": "Testosterone disorders, gynecomastia, and related sexual health."
+    },
+    {
+      "id": "edit-036",
+      "label": "টেস্টোস্টেরন সমস্যা, গাইনোকোমাস্টিয়া ও যৌন স্বাস্থ্য।",
+      "kind": "text",
+      "value": "টেস্টোস্টেরন সমস্যা, গাইনোকোমাস্টিয়া ও যৌন স্বাস্থ্য।"
+    },
+    {
+      "id": "edit-037",
+      "label": "Bone, Calcium & Vitamin D",
+      "kind": "text",
+      "value": "Bone, Calcium & Vitamin D"
+    },
+    {
+      "id": "edit-038",
+      "label": "হাড়, ক্যালসিয়াম ও ভিটামিন ডি",
+      "kind": "text",
+      "value": "হাড়, ক্যালসিয়াম ও ভিটামিন ডি"
+    },
+    {
+      "id": "edit-039",
+      "label": "Osteoporosis, vitamin D, calcium, and parathyroid disorders.",
+      "kind": "text",
+      "value": "Osteoporosis, vitamin D, calcium, and parathyroid disorders."
+    },
+    {
+      "id": "edit-040",
+      "label": "অস্টিওপরোসিস, ভিটামিন ডি, ক্যালসিয়াম ও প্যারাথাইরয়েড।",
+      "kind": "text",
+      "value": "অস্টিওপরোসিস, ভিটামিন ডি, ক্যালসিয়াম ও প্যারাথাইরয়েড।"
+    },
+    {
+      "id": "edit-041",
+      "label": "Adrenal & Pituitary Disorders",
+      "kind": "text",
+      "value": "Adrenal & Pituitary Disorders"
+    },
+    {
+      "id": "edit-042",
+      "label": "অ্যাড্রিনাল ও পিটুইটারি রোগ",
+      "kind": "text",
+      "value": "অ্যাড্রিনাল ও পিটুইটারি রোগ"
+    },
+    {
+      "id": "edit-043",
+      "label": "Cushing's syndrome, adrenal insufficiency, and pituitary disease.",
+      "kind": "text",
+      "value": "Cushing's syndrome, adrenal insufficiency, and pituitary disease."
+    },
+    {
+      "id": "edit-044",
+      "label": "কুশিং সিনড্রোম, অ্যাড্রিনাল অপ্রতুলতা ও পিটুইটারি রোগ।",
+      "kind": "text",
+      "value": "কুশিং সিনড্রোম, অ্যাড্রিনাল অপ্রতুলতা ও পিটুইটারি রোগ।"
+    },
+    {
+      "id": "edit-045",
+      "label": "Growth & Puberty Disorders",
+      "kind": "text",
+      "value": "Growth & Puberty Disorders"
+    },
+    {
+      "id": "edit-046",
+      "label": "বৃদ্ধি ও বয়ঃসন্ধি সমস্যা",
+      "kind": "text",
+      "value": "বৃদ্ধি ও বয়ঃসন্ধি সমস্যা"
+    },
+    {
+      "id": "edit-047",
+      "label": "Short stature, growth concerns, and early or delayed puberty.",
+      "kind": "text",
+      "value": "Short stature, growth concerns, and early or delayed puberty."
+    },
+    {
+      "id": "edit-048",
+      "label": "খর্বতা, বৃদ্ধি সংক্রান্ত উদ্বেগ ও বয়ঃসন্ধির সমস্যা।",
+      "kind": "text",
+      "value": "খর্বতা, বৃদ্ধি সংক্রান্ত উদ্বেগ ও বয়ঃসন্ধির সমস্যা।"
+    },
+    {
+      "id": "edit-049",
+      "label": "Menopause & Women's Endocrine Health",
+      "kind": "text",
+      "value": "Menopause & Women's Endocrine Health"
+    },
+    {
+      "id": "edit-050",
+      "label": "মেনোপজ ও নারীদের এন্ডোক্রাইন স্বাস্থ্য",
+      "kind": "text",
+      "value": "মেনোপজ ও নারীদের এন্ডোক্রাইন স্বাস্থ্য"
+    },
+    {
+      "id": "edit-051",
+      "label": "Menopausal symptoms and related bone and metabolic changes.",
+      "kind": "text",
+      "value": "Menopausal symptoms and related bone and metabolic changes."
+    },
+    {
+      "id": "edit-052",
+      "label": "মেনোপজের লক্ষণ ও হাড়-মেটাবলিক পরিবর্তন।",
+      "kind": "text",
+      "value": "মেনোপজের লক্ষণ ও হাড়-মেটাবলিক পরিবর্তন।"
+    },
+    {
+      "id": "edit-053",
+      "label": "Learn at your own pace",
+      "kind": "text",
+      "value": "Learn at your own pace"
+    },
+    {
+      "id": "edit-054",
+      "label": "সহজ ভাষায় স্বাস্থ্যতথ্য",
+      "kind": "text",
+      "value": "সহজ ভাষায় স্বাস্থ্যতথ্য"
+    },
+    {
+      "id": "edit-055",
+      "label": "Start with a practical guide",
+      "kind": "text",
+      "value": "Start with a practical guide"
+    },
+    {
+      "id": "edit-056",
+      "label": "প্রয়োজনীয় স্বাস্থ্যবিষয়ক গাইড",
+      "kind": "text",
+      "value": "প্রয়োজনীয় স্বাস্থ্যবিষয়ক গাইড"
+    },
+    {
+      "id": "edit-057",
+      "label": "Understand common symptoms, assessment, treatment options and when spe",
+      "kind": "text",
+      "value": "Understand common symptoms, assessment, treatment options and when specialist advice is needed."
+    },
+    {
+      "id": "edit-058",
+      "label": "লক্ষণ, প্রয়োজনীয় পরীক্ষা, চিকিৎসার ধরন এবং কখন বিশেষজ্ঞের পরামর্শ নি",
+      "kind": "text",
+      "value": "লক্ষণ, প্রয়োজনীয় পরীক্ষা, চিকিৎসার ধরন এবং কখন বিশেষজ্ঞের পরামর্শ নিতে হবে তা জানুন।"
+    },
+    {
+      "id": "edit-059",
+      "label": "Diabetes questions",
+      "kind": "text",
+      "value": "Diabetes questions"
+    },
+    {
+      "id": "edit-060",
+      "label": "ডায়াবেটিস নিয়ে প্রশ্ন",
+      "kind": "text",
+      "value": "ডায়াবেটিস নিয়ে প্রশ্ন"
+    },
+    {
+      "id": "edit-061",
+      "label": "Screening, glucose control and follow-up",
+      "kind": "text",
+      "value": "Screening, glucose control and follow-up"
+    },
+    {
+      "id": "edit-062",
+      "label": "পরীক্ষা, গ্লুকোজ নিয়ন্ত্রণ ও ফলোআপ",
+      "kind": "text",
+      "value": "পরীক্ষা, গ্লুকোজ নিয়ন্ত্রণ ও ফলোআপ"
+    },
+    {
+      "id": "edit-063",
+      "label": "Thyroid questions",
+      "kind": "text",
+      "value": "Thyroid questions"
+    },
+    {
+      "id": "edit-064",
+      "label": "থাইরয়েড নিয়ে প্রশ্ন",
+      "kind": "text",
+      "value": "থাইরয়েড নিয়ে প্রশ্ন"
+    },
+    {
+      "id": "edit-065",
+      "label": "Thyroid function, nodules and pregnancy",
+      "kind": "text",
+      "value": "Thyroid function, nodules and pregnancy"
+    },
+    {
+      "id": "edit-066",
+      "label": "থাইরয়েড পরীক্ষা, নডিউল ও গর্ভাবস্থা",
+      "kind": "text",
+      "value": "থাইরয়েড পরীক্ষা, নডিউল ও গর্ভাবস্থা"
+    },
+    {
+      "id": "edit-067",
+      "label": "PCOS and periods",
+      "kind": "text",
+      "value": "PCOS and periods"
+    },
+    {
+      "id": "edit-068",
+      "label": "পিসিওএস ও মাসিক",
+      "kind": "text",
+      "value": "পিসিওএস ও মাসিক"
+    },
+    {
+      "id": "edit-069",
+      "label": "Hormonal evaluation and long-term care",
+      "kind": "text",
+      "value": "Hormonal evaluation and long-term care"
+    },
+    {
+      "id": "edit-070",
+      "label": "হরমোন মূল্যায়ন ও দীর্ঘমেয়াদি যত্ন",
+      "kind": "text",
+      "value": "হরমোন মূল্যায়ন ও দীর্ঘমেয়াদি যত্ন"
+    },
+    {
+      "id": "edit-071",
+      "label": "Bone health",
+      "kind": "text",
+      "value": "Bone health"
+    },
+    {
+      "id": "edit-072",
+      "label": "হাড়ের স্বাস্থ্য",
+      "kind": "text",
+      "value": "হাড়ের স্বাস্থ্য"
+    },
+    {
+      "id": "edit-073",
+      "label": "Osteoporosis, calcium and vitamin D",
+      "kind": "text",
+      "value": "Osteoporosis, calcium and vitamin D"
+    },
+    {
+      "id": "edit-074",
+      "label": "অস্টিওপরোসিস, ক্যালসিয়াম ও ভিটামিন ডি",
+      "kind": "text",
+      "value": "অস্টিওপরোসিস, ক্যালসিয়াম ও ভিটামিন ডি"
+    },
+    {
+      "id": "edit-075",
+      "label": "Facebook",
+      "kind": "text",
+      "value": "Facebook"
+    },
+    {
+      "id": "edit-075",
+      "label": "Link: Facebook",
+      "kind": "link",
+      "value": "https://www.facebook.com/share/16Ec8BLWMN2/"
+    },
+    {
+      "id": "edit-076",
+      "label": "LinkedIn",
+      "kind": "text",
+      "value": "LinkedIn"
+    },
+    {
+      "id": "edit-076",
+      "label": "Link: LinkedIn",
+      "kind": "link",
+      "value": "https://www.linkedin.com/in/mohammad-aminul-islam-686091294"
+    },
+    {
+      "id": "edit-077",
+      "label": "Google reviews",
+      "kind": "text",
+      "value": "Google reviews"
+    },
+    {
+      "id": "edit-077",
+      "label": "Link: Google reviews",
+      "kind": "link",
+      "value": "https://share.google/inh2LFFBDtszWjzEe"
+    },
+    {
+      "id": "edit-078",
+      "label": "Call",
+      "kind": "text",
+      "value": "Call"
+    },
+    {
+      "id": "edit-079",
+      "label": "কল",
+      "kind": "text",
+      "value": "কল"
+    },
+    {
+      "id": "edit-080",
+      "label": "Chambers",
+      "kind": "text",
+      "value": "Chambers"
+    },
+    {
+      "id": "edit-081",
+      "label": "চেম্বার",
+      "kind": "text",
+      "value": "চেম্বার"
+    }
+  ]
+}

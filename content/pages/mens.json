@@ -1,0 +1,1060 @@
+{
+  "items": [
+    {
+      "id": "edit-001",
+      "label": "About",
+      "kind": "text",
+      "value": "About"
+    },
+    {
+      "id": "edit-001",
+      "label": "Link: About",
+      "kind": "link",
+      "value": "index.html#about"
+    },
+    {
+      "id": "edit-002",
+      "label": "Conditions",
+      "kind": "text",
+      "value": "Conditions"
+    },
+    {
+      "id": "edit-002",
+      "label": "Link: Conditions",
+      "kind": "link",
+      "value": "index.html#care"
+    },
+    {
+      "id": "edit-003",
+      "label": "Chambers",
+      "kind": "text",
+      "value": "Chambers"
+    },
+    {
+      "id": "edit-003",
+      "label": "Link: Chambers",
+      "kind": "link",
+      "value": "index.html#book"
+    },
+    {
+      "id": "edit-004",
+      "label": "Learn",
+      "kind": "text",
+      "value": "Learn"
+    },
+    {
+      "id": "edit-004",
+      "label": "Link: Learn",
+      "kind": "link",
+      "value": "index.html#learn"
+    },
+    {
+      "id": "edit-005",
+      "label": "FAQ",
+      "kind": "text",
+      "value": "FAQ"
+    },
+    {
+      "id": "edit-005",
+      "label": "Link: FAQ",
+      "kind": "link",
+      "value": "index.html#faq"
+    },
+    {
+      "id": "edit-006",
+      "label": "Research",
+      "kind": "text",
+      "value": "Research"
+    },
+    {
+      "id": "edit-006",
+      "label": "Link: Research",
+      "kind": "link",
+      "value": "index.html#research"
+    },
+    {
+      "id": "edit-007",
+      "label": "Reviews",
+      "kind": "text",
+      "value": "Reviews"
+    },
+    {
+      "id": "edit-007",
+      "label": "Link: Reviews",
+      "kind": "link",
+      "value": "index.html#reviews"
+    },
+    {
+      "id": "edit-008",
+      "label": "Appointment",
+      "kind": "text",
+      "value": "Appointment"
+    },
+    {
+      "id": "edit-008",
+      "label": "Link: Appointment",
+      "kind": "link",
+      "value": "index.html#book"
+    },
+    {
+      "id": "edit-009",
+      "label": "Home",
+      "kind": "text",
+      "value": "Home"
+    },
+    {
+      "id": "edit-009",
+      "label": "Link: Home",
+      "kind": "link",
+      "value": "index.html"
+    },
+    {
+      "id": "edit-010",
+      "label": "Conditions & Services",
+      "kind": "text",
+      "value": "Conditions & Services"
+    },
+    {
+      "id": "edit-010",
+      "label": "Link: Conditions & Services",
+      "kind": "link",
+      "value": "index.html#care"
+    },
+    {
+      "id": "edit-011",
+      "label": "Men's Hormonal Health",
+      "kind": "text",
+      "value": "Men's Hormonal Health"
+    },
+    {
+      "id": "edit-012",
+      "label": "পুরুষদের হরমোন স্বাস্থ্য",
+      "kind": "text",
+      "value": "পুরুষদের হরমোন স্বাস্থ্য"
+    },
+    {
+      "id": "edit-013",
+      "label": "Evaluation of testosterone disorders, gynecomastia, high prolactin, an",
+      "kind": "text",
+      "value": "Evaluation of testosterone disorders, gynecomastia, high prolactin, and hormone-related aspects of men's sexual health."
+    },
+    {
+      "id": "edit-014",
+      "label": "টেস্টোস্টেরন সমস্যা, গাইনোকোমাস্টিয়া, উচ্চ প্রোল্যাকটিন এবং পুরুষদের ",
+      "kind": "text",
+      "value": "টেস্টোস্টেরন সমস্যা, গাইনোকোমাস্টিয়া, উচ্চ প্রোল্যাকটিন এবং পুরুষদের যৌন স্বাস্থ্যের হরমোনজনিত দিকগুলোর মূল্যায়ন।"
+    },
+    {
+      "id": "edit-015",
+      "label": "Male reproductive and hormonal health",
+      "kind": "image",
+      "value": "assets/medical-mens.svg"
+    },
+    {
+      "id": "edit-016",
+      "label": "Male reproductive and hormonal health · Erectile and sexual symptoms c",
+      "kind": "text",
+      "value": "Male reproductive and hormonal health · Erectile and sexual symptoms can have vascular, metabolic, psychological, medication-related or hormonal causes. A careful assessment helps identify the right treatment."
+    },
+    {
+      "id": "edit-017",
+      "label": "পুরুষের প্রজনন ও হরমোনের স্বাস্থ্য · উত্থান ও যৌন সমস্যার পেছনে রক্তনা",
+      "kind": "text",
+      "value": "পুরুষের প্রজনন ও হরমোনের স্বাস্থ্য · উত্থান ও যৌন সমস্যার পেছনে রক্তনালি, মেটাবলিক, মানসিক, ওষুধজনিত বা হরমোনজনিত কারণ থাকতে পারে। সঠিক মূল্যায়ন চিকিৎসা নির্ধারণে সাহায্য করে।"
+    },
+    {
+      "id": "edit-018",
+      "label": "What it is",
+      "kind": "text",
+      "value": "What it is"
+    },
+    {
+      "id": "edit-019",
+      "label": "এটি কী",
+      "kind": "text",
+      "value": "এটি কী"
+    },
+    {
+      "id": "edit-020",
+      "label": "Men's hormonal health covers conditions affecting testosterone and rel",
+      "kind": "text",
+      "value": "Men's hormonal health covers conditions affecting testosterone and related hormones, which influence energy, mood, muscle, bone health, and sexual function."
+    },
+    {
+      "id": "edit-021",
+      "label": "পুরুষদের হরমোন স্বাস্থ্য টেস্টোস্টেরন ও সম্পর্কিত হরমোনকে প্রভাবিত করে",
+      "kind": "text",
+      "value": "পুরুষদের হরমোন স্বাস্থ্য টেস্টোস্টেরন ও সম্পর্কিত হরমোনকে প্রভাবিত করে এমন সমস্যা নিয়ে কাজ করে, যা শক্তি, মেজাজ, পেশি, হাড়ের স্বাস্থ্য ও যৌন কার্যক্ষমতাকে প্রভাবিত করে।"
+    },
+    {
+      "id": "edit-022",
+      "label": "Many of these symptoms have several possible causes, so a hormonal eva",
+      "kind": "text",
+      "value": "Many of these symptoms have several possible causes, so a hormonal evaluation is only one part of a broader assessment — not every case is hormonal."
+    },
+    {
+      "id": "edit-023",
+      "label": "এই লক্ষণগুলোর অনেক সম্ভাব্য কারণ থাকতে পারে, তাই হরমোন মূল্যায়ন বৃহত্",
+      "kind": "text",
+      "value": "এই লক্ষণগুলোর অনেক সম্ভাব্য কারণ থাকতে পারে, তাই হরমোন মূল্যায়ন বৃহত্তর মূল্যায়নের একটি অংশ মাত্র — প্রতিটি ক্ষেত্রেই হরমোনজনিত কারণ থাকে না।"
+    },
+    {
+      "id": "edit-024",
+      "label": "VISUAL GUIDE",
+      "kind": "text",
+      "value": "VISUAL GUIDE"
+    },
+    {
+      "id": "edit-025",
+      "label": "চিত্রে সহজ ব্যাখ্যা",
+      "kind": "text",
+      "value": "চিত্রে সহজ ব্যাখ্যা"
+    },
+    {
+      "id": "edit-026",
+      "label": "Testosterone regulation",
+      "kind": "text",
+      "value": "Testosterone regulation"
+    },
+    {
+      "id": "edit-027",
+      "label": "টেস্টোস্টেরন কীভাবে নিয়ন্ত্রিত হয়",
+      "kind": "text",
+      "value": "টেস্টোস্টেরন কীভাবে নিয়ন্ত্রিত হয়"
+    },
+    {
+      "id": "edit-028",
+      "label": "Brain signals the pituitary",
+      "kind": "text",
+      "value": "Brain signals the pituitary"
+    },
+    {
+      "id": "edit-029",
+      "label": "মস্তিষ্ক পিটুইটারিকে সংকেত দেয়",
+      "kind": "text",
+      "value": "মস্তিষ্ক পিটুইটারিকে সংকেত দেয়"
+    },
+    {
+      "id": "edit-030",
+      "label": "LH stimulates testicular testosterone",
+      "kind": "text",
+      "value": "LH stimulates testicular testosterone"
+    },
+    {
+      "id": "edit-031",
+      "label": "LH অণ্ডকোষে টেস্টোস্টেরন তৈরিতে সাহায্য করে",
+      "kind": "text",
+      "value": "LH অণ্ডকোষে টেস্টোস্টেরন তৈরিতে সাহায্য করে"
+    },
+    {
+      "id": "edit-032",
+      "label": "Hormone levels provide feedback",
+      "kind": "text",
+      "value": "Hormone levels provide feedback"
+    },
+    {
+      "id": "edit-033",
+      "label": "হরমোনের মাত্রা ফিরতি সংকেত দেয়",
+      "kind": "text",
+      "value": "হরমোনের মাত্রা ফিরতি সংকেত দেয়"
+    },
+    {
+      "id": "edit-034",
+      "label": "Simplified illustration for patient education; not a diagnostic algori",
+      "kind": "text",
+      "value": "Simplified illustration for patient education; not a diagnostic algorithm."
+    },
+    {
+      "id": "edit-035",
+      "label": "রোগীকে সহজভাবে বোঝানোর চিত্র; এটি রোগ নির্ণয়ের নির্দেশিকা নয়।",
+      "kind": "text",
+      "value": "রোগীকে সহজভাবে বোঝানোর চিত্র; এটি রোগ নির্ণয়ের নির্দেশিকা নয়।"
+    },
+    {
+      "id": "edit-036",
+      "label": "A useful point to know",
+      "kind": "text",
+      "value": "A useful point to know"
+    },
+    {
+      "id": "edit-037",
+      "label": "জেনে রাখা জরুরি",
+      "kind": "text",
+      "value": "জেনে রাখা জরুরি"
+    },
+    {
+      "id": "edit-038",
+      "label": "Erectile and sexual symptoms can have vascular, metabolic, psychologic",
+      "kind": "text",
+      "value": "Erectile and sexual symptoms can have vascular, metabolic, psychological, medication-related or hormonal causes. A careful assessment helps identify the right treatment."
+    },
+    {
+      "id": "edit-039",
+      "label": "উত্থান ও যৌন সমস্যার পেছনে রক্তনালি, মেটাবলিক, মানসিক, ওষুধজনিত বা হরম",
+      "kind": "text",
+      "value": "উত্থান ও যৌন সমস্যার পেছনে রক্তনালি, মেটাবলিক, মানসিক, ওষুধজনিত বা হরমোনজনিত কারণ থাকতে পারে। সঠিক মূল্যায়ন চিকিৎসা নির্ধারণে সাহায্য করে।"
+    },
+    {
+      "id": "edit-040",
+      "label": "Common symptoms",
+      "kind": "text",
+      "value": "Common symptoms"
+    },
+    {
+      "id": "edit-041",
+      "label": "সাধারণ লক্ষণ",
+      "kind": "text",
+      "value": "সাধারণ লক্ষণ"
+    },
+    {
+      "id": "edit-042",
+      "label": "Low energy or persistent fatigue",
+      "kind": "text",
+      "value": "Low energy or persistent fatigue"
+    },
+    {
+      "id": "edit-043",
+      "label": "কম শক্তি বা ক্রমাগত ক্লান্তি",
+      "kind": "text",
+      "value": "কম শক্তি বা ক্রমাগত ক্লান্তি"
+    },
+    {
+      "id": "edit-044",
+      "label": "Reduced muscle mass",
+      "kind": "text",
+      "value": "Reduced muscle mass"
+    },
+    {
+      "id": "edit-045",
+      "label": "পেশির ভর কমে যাওয়া",
+      "kind": "text",
+      "value": "পেশির ভর কমে যাওয়া"
+    },
+    {
+      "id": "edit-046",
+      "label": "Low libido",
+      "kind": "text",
+      "value": "Low libido"
+    },
+    {
+      "id": "edit-047",
+      "label": "যৌন আগ্রহ কমে যাওয়া",
+      "kind": "text",
+      "value": "যৌন আগ্রহ কমে যাওয়া"
+    },
+    {
+      "id": "edit-048",
+      "label": "Erectile difficulties",
+      "kind": "text",
+      "value": "Erectile difficulties"
+    },
+    {
+      "id": "edit-049",
+      "label": "উত্থানজনিত সমস্যা",
+      "kind": "text",
+      "value": "উত্থানজনিত সমস্যা"
+    },
+    {
+      "id": "edit-050",
+      "label": "Breast tissue enlargement (gynecomastia)",
+      "kind": "text",
+      "value": "Breast tissue enlargement (gynecomastia)"
+    },
+    {
+      "id": "edit-051",
+      "label": "স্তনের টিস্যু বৃদ্ধি (গাইনোকোমাস্টিয়া)",
+      "kind": "text",
+      "value": "স্তনের টিস্যু বৃদ্ধি (গাইনোকোমাস্টিয়া)"
+    },
+    {
+      "id": "edit-052",
+      "label": "Difficulty with fertility",
+      "kind": "text",
+      "value": "Difficulty with fertility"
+    },
+    {
+      "id": "edit-053",
+      "label": "বন্ধ্যাত্ব সমস্যা",
+      "kind": "text",
+      "value": "বন্ধ্যাত্ব সমস্যা"
+    },
+    {
+      "id": "edit-054",
+      "label": "Important causes",
+      "kind": "text",
+      "value": "Important causes"
+    },
+    {
+      "id": "edit-055",
+      "label": "গুরুত্বপূর্ণ কারণ",
+      "kind": "text",
+      "value": "গুরুত্বপূর্ণ কারণ"
+    },
+    {
+      "id": "edit-056",
+      "label": "Low testosterone can result from aging, certain chronic illnesses, obe",
+      "kind": "text",
+      "value": "Low testosterone can result from aging, certain chronic illnesses, obesity, testicular or pituitary conditions, and some medications."
+    },
+    {
+      "id": "edit-057",
+      "label": "বয়স বৃদ্ধি, কিছু দীর্ঘস্থায়ী রোগ, স্থূলতা, টেস্টিস বা পিটুইটারি সমস্",
+      "kind": "text",
+      "value": "বয়স বৃদ্ধি, কিছু দীর্ঘস্থায়ী রোগ, স্থূলতা, টেস্টিস বা পিটুইটারি সমস্যা এবং কিছু ওষুধের কারণে টেস্টোস্টেরন কমে যেতে পারে।"
+    },
+    {
+      "id": "edit-058",
+      "label": "High prolactin can be caused by certain medications, a pituitary growt",
+      "kind": "text",
+      "value": "High prolactin can be caused by certain medications, a pituitary growth (usually benign), or other conditions."
+    },
+    {
+      "id": "edit-059",
+      "label": "কিছু ওষুধ, পিটুইটারি গ্রোথ (সাধারণত নিরীহ) বা অন্যান্য সমস্যার কারণে প",
+      "kind": "text",
+      "value": "কিছু ওষুধ, পিটুইটারি গ্রোথ (সাধারণত নিরীহ) বা অন্যান্য সমস্যার কারণে প্রোল্যাকটিন বেড়ে যেতে পারে।"
+    },
+    {
+      "id": "edit-060",
+      "label": "Gynecomastia can be hormonal, related to certain medications, or due t",
+      "kind": "text",
+      "value": "Gynecomastia can be hormonal, related to certain medications, or due to other causes, and is assessed individually."
+    },
+    {
+      "id": "edit-061",
+      "label": "গাইনোকোমাস্টিয়া হরমোনজনিত, কিছু ওষুধ-সম্পর্কিত বা অন্য কারণে হতে পারে",
+      "kind": "text",
+      "value": "গাইনোকোমাস্টিয়া হরমোনজনিত, কিছু ওষুধ-সম্পর্কিত বা অন্য কারণে হতে পারে, এবং এটি পৃথকভাবে মূল্যায়ন করা হয়।"
+    },
+    {
+      "id": "edit-062",
+      "label": "How it is evaluated",
+      "kind": "text",
+      "value": "How it is evaluated"
+    },
+    {
+      "id": "edit-063",
+      "label": "কীভাবে মূল্যায়ন করা হয়",
+      "kind": "text",
+      "value": "কীভাবে মূল্যায়ন করা হয়"
+    },
+    {
+      "id": "edit-064",
+      "label": "Hormone blood tests — testosterone, prolactin, and others as needed — ",
+      "kind": "text",
+      "value": "Hormone blood tests — testosterone, prolactin, and others as needed — are usually done with a morning sample."
+    },
+    {
+      "id": "edit-065",
+      "label": "টেস্টোস্টেরন, প্রোল্যাকটিন ও প্রয়োজন অনুযায়ী অন্যান্য হরমোনের রক্ত প",
+      "kind": "text",
+      "value": "টেস্টোস্টেরন, প্রোল্যাকটিন ও প্রয়োজন অনুযায়ী অন্যান্য হরমোনের রক্ত পরীক্ষা সাধারণত সকালের নমুনায় করা হয়।"
+    },
+    {
+      "id": "edit-066",
+      "label": "Evaluation looks for possible underlying causes, with imaging such as ",
+      "kind": "text",
+      "value": "Evaluation looks for possible underlying causes, with imaging such as a pituitary MRI used when indicated."
+    },
+    {
+      "id": "edit-067",
+      "label": "সম্ভাব্য অন্তর্নিহিত কারণ খুঁজতে মূল্যায়ন করা হয়, এবং প্রয়োজনে পিটু",
+      "kind": "text",
+      "value": "সম্ভাব্য অন্তর্নিহিত কারণ খুঁজতে মূল্যায়ন করা হয়, এবং প্রয়োজনে পিটুইটারি এমআরআই-এর মতো ইমেজিং ব্যবহার করা হয়।"
+    },
+    {
+      "id": "edit-068",
+      "label": "Common treatment approaches",
+      "kind": "text",
+      "value": "Common treatment approaches"
+    },
+    {
+      "id": "edit-069",
+      "label": "সাধারণ চিকিৎসার পদ্ধতি",
+      "kind": "text",
+      "value": "সাধারণ চিকিৎসার পদ্ধতি"
+    },
+    {
+      "id": "edit-070",
+      "label": "Any underlying cause found is treated first.",
+      "kind": "text",
+      "value": "Any underlying cause found is treated first."
+    },
+    {
+      "id": "edit-071",
+      "label": "প্রথমে যেকোনো অন্তর্নিহিত কারণের চিকিৎসা করা হয়।",
+      "kind": "text",
+      "value": "প্রথমে যেকোনো অন্তর্নিহিত কারণের চিকিৎসা করা হয়।"
+    },
+    {
+      "id": "edit-072",
+      "label": "Testosterone therapy is used in confirmed, appropriate cases, under on",
+      "kind": "text",
+      "value": "Testosterone therapy is used in confirmed, appropriate cases, under ongoing monitoring."
+    },
+    {
+      "id": "edit-073",
+      "label": "নিশ্চিত ও উপযুক্ত ক্ষেত্রে চলমান পর্যবেক্ষণের অধীনে টেস্টোস্টেরন থেরাপ",
+      "kind": "text",
+      "value": "নিশ্চিত ও উপযুক্ত ক্ষেত্রে চলমান পর্যবেক্ষণের অধীনে টেস্টোস্টেরন থেরাপি ব্যবহার করা হয়।"
+    },
+    {
+      "id": "edit-074",
+      "label": "High prolactin is addressed with medication or further evaluation depe",
+      "kind": "text",
+      "value": "High prolactin is addressed with medication or further evaluation depending on the cause."
+    },
+    {
+      "id": "edit-075",
+      "label": "কারণ অনুযায়ী উচ্চ প্রোল্যাকটিনের চিকিৎসা ওষুধ বা আরও মূল্যায়নের মাধ্",
+      "kind": "text",
+      "value": "কারণ অনুযায়ী উচ্চ প্রোল্যাকটিনের চিকিৎসা ওষুধ বা আরও মূল্যায়নের মাধ্যমে করা হয়।"
+    },
+    {
+      "id": "edit-076",
+      "label": "When the cause isn't primarily hormonal, referral to the right special",
+      "kind": "text",
+      "value": "When the cause isn't primarily hormonal, referral to the right specialist (such as urology) is made."
+    },
+    {
+      "id": "edit-077",
+      "label": "কারণ মূলত হরমোনজনিত না হলে উপযুক্ত বিশেষজ্ঞের (যেমন ইউরোলজি) কাছে রেফা",
+      "kind": "text",
+      "value": "কারণ মূলত হরমোনজনিত না হলে উপযুক্ত বিশেষজ্ঞের (যেমন ইউরোলজি) কাছে রেফার করা হয়।"
+    },
+    {
+      "id": "edit-078",
+      "label": "When to see a specialist",
+      "kind": "text",
+      "value": "When to see a specialist"
+    },
+    {
+      "id": "edit-079",
+      "label": "কখন বিশেষজ্ঞ দেখাবেন",
+      "kind": "text",
+      "value": "কখন বিশেষজ্ঞ দেখাবেন"
+    },
+    {
+      "id": "edit-080",
+      "label": "Persistent low energy or reduced libido along with other symptoms",
+      "kind": "text",
+      "value": "Persistent low energy or reduced libido along with other symptoms"
+    },
+    {
+      "id": "edit-081",
+      "label": "অন্যান্য লক্ষণসহ ক্রমাগত কম শক্তি বা যৌন আগ্রহ হ্রাস",
+      "kind": "text",
+      "value": "অন্যান্য লক্ষণসহ ক্রমাগত কম শক্তি বা যৌন আগ্রহ হ্রাস"
+    },
+    {
+      "id": "edit-082",
+      "label": "Confirmed low testosterone on blood tests",
+      "kind": "text",
+      "value": "Confirmed low testosterone on blood tests"
+    },
+    {
+      "id": "edit-083",
+      "label": "রক্ত পরীক্ষায় নিশ্চিত কম টেস্টোস্টেরন",
+      "kind": "text",
+      "value": "রক্ত পরীক্ষায় নিশ্চিত কম টেস্টোস্টেরন"
+    },
+    {
+      "id": "edit-084",
+      "label": "Breast tissue enlargement",
+      "kind": "text",
+      "value": "Breast tissue enlargement"
+    },
+    {
+      "id": "edit-085",
+      "label": "স্তনের টিস্যু বৃদ্ধি",
+      "kind": "text",
+      "value": "স্তনের টিস্যু বৃদ্ধি"
+    },
+    {
+      "id": "edit-086",
+      "label": "Suspected pituitary-related symptoms, such as headache or vision chang",
+      "kind": "text",
+      "value": "Suspected pituitary-related symptoms, such as headache or vision change"
+    },
+    {
+      "id": "edit-087",
+      "label": "পিটুইটারি-সম্পর্কিত সন্দেহজনক লক্ষণ, যেমন মাথাব্যথা বা দৃষ্টি পরিবর্তন",
+      "kind": "text",
+      "value": "পিটুইটারি-সম্পর্কিত সন্দেহজনক লক্ষণ, যেমন মাথাব্যথা বা দৃষ্টি পরিবর্তন"
+    },
+    {
+      "id": "edit-088",
+      "label": "Fertility evaluation",
+      "kind": "text",
+      "value": "Fertility evaluation"
+    },
+    {
+      "id": "edit-089",
+      "label": "বন্ধ্যাত্ব মূল্যায়নের প্রয়োজনে",
+      "kind": "text",
+      "value": "বন্ধ্যাত্ব মূল্যায়নের প্রয়োজনে"
+    },
+    {
+      "id": "edit-090",
+      "label": "Need a specialist assessment?",
+      "kind": "text",
+      "value": "Need a specialist assessment?"
+    },
+    {
+      "id": "edit-091",
+      "label": "বিশেষজ্ঞ মূল্যায়ন দরকার?",
+      "kind": "text",
+      "value": "বিশেষজ্ঞ মূল্যায়ন দরকার?"
+    },
+    {
+      "id": "edit-092",
+      "label": "Book an appointment in Dhaka, Chattogram, Patiya, or online.",
+      "kind": "text",
+      "value": "Book an appointment in Dhaka, Chattogram, Patiya, or online."
+    },
+    {
+      "id": "edit-093",
+      "label": "ঢাকা, চট্টগ্রাম, পটিয়া অথবা অনলাইনে অ্যাপয়েন্টমেন্ট নিন।",
+      "kind": "text",
+      "value": "ঢাকা, চট্টগ্রাম, পটিয়া অথবা অনলাইনে অ্যাপয়েন্টমেন্ট নিন।"
+    },
+    {
+      "id": "edit-094",
+      "label": "Book Appointment",
+      "kind": "text",
+      "value": "Book Appointment"
+    },
+    {
+      "id": "edit-095",
+      "label": "অ্যাপয়েন্টমেন্ট নিন",
+      "kind": "text",
+      "value": "অ্যাপয়েন্টমেন্ট নিন"
+    },
+    {
+      "id": "edit-096",
+      "label": "Frequently asked questions",
+      "kind": "text",
+      "value": "Frequently asked questions"
+    },
+    {
+      "id": "edit-097",
+      "label": "প্রায়শই জিজ্ঞাসিত প্রশ্ন",
+      "kind": "text",
+      "value": "প্রায়শই জিজ্ঞাসিত প্রশ্ন"
+    },
+    {
+      "id": "edit-098",
+      "label": "Is erectile dysfunction always caused by low testosterone?",
+      "kind": "text",
+      "value": "Is erectile dysfunction always caused by low testosterone?"
+    },
+    {
+      "id": "edit-099",
+      "label": "উত্থানজনিত সমস্যা কি সবসময় কম টেস্টোস্টেরনের কারণে হয়?",
+      "kind": "text",
+      "value": "উত্থানজনিত সমস্যা কি সবসময় কম টেস্টোস্টেরনের কারণে হয়?"
+    },
+    {
+      "id": "edit-100",
+      "label": "No, it has many possible causes including blood vessel, nerve, psychol",
+      "kind": "text",
+      "value": "No, it has many possible causes including blood vessel, nerve, psychological, and medication-related factors; hormone testing is just one part of the assessment."
+    },
+    {
+      "id": "edit-101",
+      "label": "না, এর অনেক সম্ভাব্য কারণ রয়েছে, যেমন রক্তনালী, স্নায়ু, মানসিক ও ওষু",
+      "kind": "text",
+      "value": "না, এর অনেক সম্ভাব্য কারণ রয়েছে, যেমন রক্তনালী, স্নায়ু, মানসিক ও ওষুধ-সম্পর্কিত কারণ; হরমোন পরীক্ষা মূল্যায়নের একটি অংশ মাত্র।"
+    },
+    {
+      "id": "edit-102",
+      "label": "What is gynecomastia and is it always hormonal?",
+      "kind": "text",
+      "value": "What is gynecomastia and is it always hormonal?"
+    },
+    {
+      "id": "edit-103",
+      "label": "গাইনোকোমাস্টিয়া কী এবং এটি কি সবসময় হরমোনজনিত?",
+      "kind": "text",
+      "value": "গাইনোকোমাস্টিয়া কী এবং এটি কি সবসময় হরমোনজনিত?"
+    },
+    {
+      "id": "edit-104",
+      "label": "It's enlargement of breast tissue in men; it can be hormonal, related ",
+      "kind": "text",
+      "value": "It's enlargement of breast tissue in men; it can be hormonal, related to certain medications, or due to other causes, and is evaluated individually."
+    },
+    {
+      "id": "edit-105",
+      "label": "এটি পুরুষদের স্তনের টিস্যু বৃদ্ধি; এটি হরমোনজনিত, কিছু ওষুধ-সম্পর্কিত ",
+      "kind": "text",
+      "value": "এটি পুরুষদের স্তনের টিস্যু বৃদ্ধি; এটি হরমোনজনিত, কিছু ওষুধ-সম্পর্কিত বা অন্য কারণে হতে পারে, এবং পৃথকভাবে মূল্যায়ন করা হয়।"
+    },
+    {
+      "id": "edit-106",
+      "label": "What does high prolactin mean?",
+      "kind": "text",
+      "value": "What does high prolactin mean?"
+    },
+    {
+      "id": "edit-107",
+      "label": "উচ্চ প্রোল্যাকটিনের অর্থ কী?",
+      "kind": "text",
+      "value": "উচ্চ প্রোল্যাকটিনের অর্থ কী?"
+    },
+    {
+      "id": "edit-108",
+      "label": "It can affect libido and fertility in men; causes range from medicatio",
+      "kind": "text",
+      "value": "It can affect libido and fertility in men; causes range from medications to a pituitary growth, most of which are benign and treatable."
+    },
+    {
+      "id": "edit-109",
+      "label": "এটি পুরুষদের যৌন আগ্রহ ও উর্বরতাকে প্রভাবিত করতে পারে; কারণ ওষুধ থেকে ",
+      "kind": "text",
+      "value": "এটি পুরুষদের যৌন আগ্রহ ও উর্বরতাকে প্রভাবিত করতে পারে; কারণ ওষুধ থেকে শুরু করে পিটুইটারি গ্রোথ পর্যন্ত হতে পারে, যার অধিকাংশই নিরীহ ও চিকিৎসাযোগ্য।"
+    },
+    {
+      "id": "edit-110",
+      "label": "Is testosterone therapy right for everyone with low energy?",
+      "kind": "text",
+      "value": "Is testosterone therapy right for everyone with low energy?"
+    },
+    {
+      "id": "edit-111",
+      "label": "কম শক্তির সবার জন্য কি টেস্টোস্টেরন থেরাপি উপযুক্ত?",
+      "kind": "text",
+      "value": "কম শক্তির সবার জন্য কি টেস্টোস্টেরন থেরাপি উপযুক্ত?"
+    },
+    {
+      "id": "edit-112",
+      "label": "No, it's only appropriate after blood tests confirm low testosterone a",
+      "kind": "text",
+      "value": "No, it's only appropriate after blood tests confirm low testosterone and other causes are considered; it requires ongoing monitoring."
+    },
+    {
+      "id": "edit-113",
+      "label": "না, রক্ত পরীক্ষায় কম টেস্টোস্টেরন নিশ্চিত হওয়ার পর এবং অন্যান্য কারণ",
+      "kind": "text",
+      "value": "না, রক্ত পরীক্ষায় কম টেস্টোস্টেরন নিশ্চিত হওয়ার পর এবং অন্যান্য কারণ বিবেচনা করেই এটি উপযুক্ত হয়; এর জন্য চলমান পর্যবেক্ষণ প্রয়োজন।"
+    },
+    {
+      "id": "edit-114",
+      "label": "Can hormonal problems affect fertility in men?",
+      "kind": "text",
+      "value": "Can hormonal problems affect fertility in men?"
+    },
+    {
+      "id": "edit-115",
+      "label": "হরমোনজনিত সমস্যা কি পুরুষদের বন্ধ্যাত্বের কারণ হতে পারে?",
+      "kind": "text",
+      "value": "হরমোনজনিত সমস্যা কি পুরুষদের বন্ধ্যাত্বের কারণ হতে পারে?"
+    },
+    {
+      "id": "edit-116",
+      "label": "Yes, some hormonal imbalances can affect sperm production, which is wh",
+      "kind": "text",
+      "value": "Yes, some hormonal imbalances can affect sperm production, which is why hormone testing is sometimes part of a fertility evaluation."
+    },
+    {
+      "id": "edit-117",
+      "label": "হ্যাঁ, কিছু হরমোন ভারসাম্যহীনতা শুক্রাণু উৎপাদনকে প্রভাবিত করতে পারে, ",
+      "kind": "text",
+      "value": "হ্যাঁ, কিছু হরমোন ভারসাম্যহীনতা শুক্রাণু উৎপাদনকে প্রভাবিত করতে পারে, তাই হরমোন পরীক্ষা কখনো কখনো বন্ধ্যাত্ব মূল্যায়নের অংশ হয়।"
+    },
+    {
+      "id": "edit-118",
+      "label": "Related",
+      "kind": "text",
+      "value": "Related"
+    },
+    {
+      "id": "edit-119",
+      "label": "সম্পর্কিত",
+      "kind": "text",
+      "value": "সম্পর্কিত"
+    },
+    {
+      "id": "edit-120",
+      "label": "Adrenal & Pituitary Disorders",
+      "kind": "text",
+      "value": "Adrenal & Pituitary Disorders"
+    },
+    {
+      "id": "edit-121",
+      "label": "অ্যাড্রিনাল ও পিটুইটারি রোগ",
+      "kind": "text",
+      "value": "অ্যাড্রিনাল ও পিটুইটারি রোগ"
+    },
+    {
+      "id": "edit-122",
+      "label": "Growth & Puberty Disorders",
+      "kind": "text",
+      "value": "Growth & Puberty Disorders"
+    },
+    {
+      "id": "edit-123",
+      "label": "বৃদ্ধি ও বয়ঃসন্ধি সমস্যা",
+      "kind": "text",
+      "value": "বৃদ্ধি ও বয়ঃসন্ধি সমস্যা"
+    },
+    {
+      "id": "edit-124",
+      "label": "Patient Education",
+      "kind": "text",
+      "value": "Patient Education"
+    },
+    {
+      "id": "edit-125",
+      "label": "রোগী শিক্ষা",
+      "kind": "text",
+      "value": "রোগী শিক্ষা"
+    },
+    {
+      "id": "edit-126",
+      "label": "Medical author/reviewer: Dr. Mohammad Aminul Islam, Endocrinologist. L",
+      "kind": "text",
+      "value": "Medical author/reviewer: Dr. Mohammad Aminul Islam, Endocrinologist. Last updated: November 2026."
+    },
+    {
+      "id": "edit-127",
+      "label": "চিকিৎসা লেখক/পর্যালোচক: ডা. মোহাম্মদ আমিনুল ইসলাম, এন্ডোক্রাইনোলজিস্ট।",
+      "kind": "text",
+      "value": "চিকিৎসা লেখক/পর্যালোচক: ডা. মোহাম্মদ আমিনুল ইসলাম, এন্ডোক্রাইনোলজিস্ট। সর্বশেষ হালনাগাদ: নভেম্বর ২০২৬।"
+    },
+    {
+      "id": "edit-128",
+      "label": "VISUAL GUIDE",
+      "kind": "text",
+      "value": "VISUAL GUIDE"
+    },
+    {
+      "id": "edit-129",
+      "label": "চিত্রে সহজ ব্যাখ্যা",
+      "kind": "text",
+      "value": "চিত্রে সহজ ব্যাখ্যা"
+    },
+    {
+      "id": "edit-130",
+      "label": "Symptoms need careful evaluation",
+      "kind": "text",
+      "value": "Symptoms need careful evaluation"
+    },
+    {
+      "id": "edit-131",
+      "label": "উপসর্গের সঠিক মূল্যায়ন জরুরি",
+      "kind": "text",
+      "value": "উপসর্গের সঠিক মূল্যায়ন জরুরি"
+    },
+    {
+      "id": "edit-132",
+      "label": "History and examination",
+      "kind": "text",
+      "value": "History and examination"
+    },
+    {
+      "id": "edit-133",
+      "label": "রোগের ইতিহাস ও পরীক্ষা",
+      "kind": "text",
+      "value": "রোগের ইতিহাস ও পরীক্ষা"
+    },
+    {
+      "id": "edit-134",
+      "label": "Morning testosterone when indicated",
+      "kind": "text",
+      "value": "Morning testosterone when indicated"
+    },
+    {
+      "id": "edit-135",
+      "label": "প্রয়োজনে সকালে টেস্টোস্টেরন পরীক্ষা",
+      "kind": "text",
+      "value": "প্রয়োজনে সকালে টেস্টোস্টেরন পরীক্ষা"
+    },
+    {
+      "id": "edit-136",
+      "label": "Consider non-hormonal causes",
+      "kind": "text",
+      "value": "Consider non-hormonal causes"
+    },
+    {
+      "id": "edit-137",
+      "label": "হরমোন ছাড়াও অন্য কারণ বিবেচনা",
+      "kind": "text",
+      "value": "হরমোন ছাড়াও অন্য কারণ বিবেচনা"
+    },
+    {
+      "id": "edit-138",
+      "label": "Simplified illustration for patient education; not a diagnostic algori",
+      "kind": "text",
+      "value": "Simplified illustration for patient education; not a diagnostic algorithm."
+    },
+    {
+      "id": "edit-139",
+      "label": "রোগীকে সহজভাবে বোঝানোর চিত্র; এটি রোগ নির্ণয়ের নির্দেশিকা নয়।",
+      "kind": "text",
+      "value": "রোগীকে সহজভাবে বোঝানোর চিত্র; এটি রোগ নির্ণয়ের নির্দেশিকা নয়।"
+    },
+    {
+      "id": "edit-140",
+      "label": "Further reading",
+      "kind": "text",
+      "value": "Further reading"
+    },
+    {
+      "id": "edit-141",
+      "label": "Clinical references",
+      "kind": "text",
+      "value": "Clinical references"
+    },
+    {
+      "id": "edit-142",
+      "label": "The information on this page is intended for education and should be a",
+      "kind": "text",
+      "value": "The information on this page is intended for education and should be applied in the context of an individual clinical assessment. Guidelines may be updated."
+    },
+    {
+      "id": "edit-143",
+      "label": "Endocrine Society. Testosterone Therapy in Men With Hypogonadism: Clin",
+      "kind": "text",
+      "value": "Endocrine Society. Testosterone Therapy in Men With Hypogonadism: Clinical Practice Guideline."
+    },
+    {
+      "id": "edit-143",
+      "label": "Link: Endocrine Society. Testosterone Therapy in Men Wit",
+      "kind": "link",
+      "value": "https://www.endocrine.org/clinical-practice-guidelines/testosterone-therapy"
+    },
+    {
+      "id": "edit-144",
+      "label": "American Urological Association. Testosterone Deficiency Guideline.",
+      "kind": "text",
+      "value": "American Urological Association. Testosterone Deficiency Guideline."
+    },
+    {
+      "id": "edit-144",
+      "label": "Link: American Urological Association. Testosterone Defi",
+      "kind": "link",
+      "value": "https://www.auanet.org/guidelines-and-quality/guidelines/testosterone-deficiency-guideline"
+    },
+    {
+      "id": "edit-145",
+      "label": "European Association of Urology. Sexual and Reproductive Health Guidel",
+      "kind": "text",
+      "value": "European Association of Urology. Sexual and Reproductive Health Guidelines."
+    },
+    {
+      "id": "edit-145",
+      "label": "Link: European Association of Urology. Sexual and Reprod",
+      "kind": "link",
+      "value": "https://uroweb.org/guidelines/sexual-and-reproductive-health"
+    },
+    {
+      "id": "edit-146",
+      "label": "Website content updated: 11 November 2026. General education only; ind",
+      "kind": "text",
+      "value": "Website content updated: 11 November 2026. General education only; individual care varies."
+    },
+    {
+      "id": "edit-147",
+      "label": "ওয়েবসাইটের তথ্য হালনাগাদ: ১১ নভেম্বর ২০২৬। এটি সাধারণ স্বাস্থ্যশিক্ষা",
+      "kind": "text",
+      "value": "ওয়েবসাইটের তথ্য হালনাগাদ: ১১ নভেম্বর ২০২৬। এটি সাধারণ স্বাস্থ্যশিক্ষার জন্য; চিকিৎসা রোগীভেদে ভিন্ন হতে পারে।"
+    },
+    {
+      "id": "edit-148",
+      "label": "You may also find useful",
+      "kind": "text",
+      "value": "You may also find useful"
+    },
+    {
+      "id": "edit-149",
+      "label": "আরও যে বিষয়গুলো জানতে পারেন",
+      "kind": "text",
+      "value": "আরও যে বিষয়গুলো জানতে পারেন"
+    },
+    {
+      "id": "edit-150",
+      "label": "Bone health",
+      "kind": "text",
+      "value": "Bone health"
+    },
+    {
+      "id": "edit-151",
+      "label": "হাড়ের স্বাস্থ্য",
+      "kind": "text",
+      "value": "হাড়ের স্বাস্থ্য"
+    },
+    {
+      "id": "edit-152",
+      "label": "Metabolic health",
+      "kind": "text",
+      "value": "Metabolic health"
+    },
+    {
+      "id": "edit-153",
+      "label": "মেটাবলিক স্বাস্থ্য",
+      "kind": "text",
+      "value": "মেটাবলিক স্বাস্থ্য"
+    },
+    {
+      "id": "edit-154",
+      "label": "Facebook",
+      "kind": "text",
+      "value": "Facebook"
+    },
+    {
+      "id": "edit-154",
+      "label": "Link: Facebook",
+      "kind": "link",
+      "value": "https://www.facebook.com/share/16Ec8BLWMN2/"
+    },
+    {
+      "id": "edit-155",
+      "label": "LinkedIn",
+      "kind": "text",
+      "value": "LinkedIn"
+    },
+    {
+      "id": "edit-155",
+      "label": "Link: LinkedIn",
+      "kind": "link",
+      "value": "https://www.linkedin.com/in/mohammad-aminul-islam-686091294"
+    },
+    {
+      "id": "edit-156",
+      "label": "Google reviews",
+      "kind": "text",
+      "value": "Google reviews"
+    },
+    {
+      "id": "edit-156",
+      "label": "Link: Google reviews",
+      "kind": "link",
+      "value": "https://share.google/inh2LFFBDtszWjzEe"
+    },
+    {
+      "id": "edit-157",
+      "label": "Call",
+      "kind": "text",
+      "value": "Call"
+    },
+    {
+      "id": "edit-158",
+      "label": "কল",
+      "kind": "text",
+      "value": "কল"
+    },
+    {
+      "id": "edit-159",
+      "label": "Chambers",
+      "kind": "text",
+      "value": "Chambers"
+    },
+    {
+      "id": "edit-160",
+      "label": "চেম্বার",
+      "kind": "text",
+      "value": "চেম্বার"
+    }
+  ]
+}

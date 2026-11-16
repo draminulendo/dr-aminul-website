@@ -1,0 +1,1024 @@
+{
+  "items": [
+    {
+      "id": "edit-001",
+      "label": "About",
+      "kind": "text",
+      "value": "About"
+    },
+    {
+      "id": "edit-001",
+      "label": "Link: About",
+      "kind": "link",
+      "value": "index.html#about"
+    },
+    {
+      "id": "edit-002",
+      "label": "Conditions",
+      "kind": "text",
+      "value": "Conditions"
+    },
+    {
+      "id": "edit-002",
+      "label": "Link: Conditions",
+      "kind": "link",
+      "value": "index.html#care"
+    },
+    {
+      "id": "edit-003",
+      "label": "Chambers",
+      "kind": "text",
+      "value": "Chambers"
+    },
+    {
+      "id": "edit-003",
+      "label": "Link: Chambers",
+      "kind": "link",
+      "value": "index.html#book"
+    },
+    {
+      "id": "edit-004",
+      "label": "Learn",
+      "kind": "text",
+      "value": "Learn"
+    },
+    {
+      "id": "edit-004",
+      "label": "Link: Learn",
+      "kind": "link",
+      "value": "index.html#learn"
+    },
+    {
+      "id": "edit-005",
+      "label": "FAQ",
+      "kind": "text",
+      "value": "FAQ"
+    },
+    {
+      "id": "edit-005",
+      "label": "Link: FAQ",
+      "kind": "link",
+      "value": "index.html#faq"
+    },
+    {
+      "id": "edit-006",
+      "label": "Research",
+      "kind": "text",
+      "value": "Research"
+    },
+    {
+      "id": "edit-006",
+      "label": "Link: Research",
+      "kind": "link",
+      "value": "index.html#research"
+    },
+    {
+      "id": "edit-007",
+      "label": "Reviews",
+      "kind": "text",
+      "value": "Reviews"
+    },
+    {
+      "id": "edit-007",
+      "label": "Link: Reviews",
+      "kind": "link",
+      "value": "index.html#reviews"
+    },
+    {
+      "id": "edit-008",
+      "label": "Appointment",
+      "kind": "text",
+      "value": "Appointment"
+    },
+    {
+      "id": "edit-008",
+      "label": "Link: Appointment",
+      "kind": "link",
+      "value": "index.html#book"
+    },
+    {
+      "id": "edit-009",
+      "label": "Home",
+      "kind": "text",
+      "value": "Home"
+    },
+    {
+      "id": "edit-009",
+      "label": "Link: Home",
+      "kind": "link",
+      "value": "index.html"
+    },
+    {
+      "id": "edit-010",
+      "label": "Conditions & Services",
+      "kind": "text",
+      "value": "Conditions & Services"
+    },
+    {
+      "id": "edit-010",
+      "label": "Link: Conditions & Services",
+      "kind": "link",
+      "value": "index.html#care"
+    },
+    {
+      "id": "edit-011",
+      "label": "PCOS & Reproductive Endocrinology",
+      "kind": "text",
+      "value": "PCOS & Reproductive Endocrinology"
+    },
+    {
+      "id": "edit-012",
+      "label": "পিসিওএস ও প্রজনন এন্ডোক্রাইনোলজি",
+      "kind": "text",
+      "value": "পিসিওএস ও প্রজনন এন্ডোক্রাইনোলজি"
+    },
+    {
+      "id": "edit-013",
+      "label": "Specialist care for PCOS, irregular periods, and hormone-related ferti",
+      "kind": "text",
+      "value": "Specialist care for PCOS, irregular periods, and hormone-related fertility problems."
+    },
+    {
+      "id": "edit-014",
+      "label": "পিসিওএস, অনিয়মিত মাসিক এবং হরমোনজনিত বন্ধ্যাত্ব সমস্যার বিশেষজ্ঞ চিকি",
+      "kind": "text",
+      "value": "পিসিওএস, অনিয়মিত মাসিক এবং হরমোনজনিত বন্ধ্যাত্ব সমস্যার বিশেষজ্ঞ চিকিৎসা।"
+    },
+    {
+      "id": "edit-015",
+      "label": "PCOS and ovarian function",
+      "kind": "image",
+      "value": "assets/medical-pcos.svg"
+    },
+    {
+      "id": "edit-016",
+      "label": "PCOS and ovarian function · PCOS is diagnosed from a pattern of featur",
+      "kind": "text",
+      "value": "PCOS and ovarian function · PCOS is diagnosed from a pattern of features after excluding other causes. An ultrasound or insulin test is not automatically required for every patient."
+    },
+    {
+      "id": "edit-017",
+      "label": "পিসিওএস ও ডিম্বাশয়ের কার্যক্রম · অন্য সম্ভাব্য কারণ বাদ দিয়ে নির্দিষ",
+      "kind": "text",
+      "value": "পিসিওএস ও ডিম্বাশয়ের কার্যক্রম · অন্য সম্ভাব্য কারণ বাদ দিয়ে নির্দিষ্ট বৈশিষ্ট্যের সমন্বয়ে পিসিওএস নির্ণয় করা হয়। প্রত্যেক রোগীর আল্ট্রাসাউন্ড বা ইনসুলিন পরীক্ষা করতেই হবে, এমন নয়।"
+    },
+    {
+      "id": "edit-018",
+      "label": "What it is",
+      "kind": "text",
+      "value": "What it is"
+    },
+    {
+      "id": "edit-019",
+      "label": "এটি কী",
+      "kind": "text",
+      "value": "এটি কী"
+    },
+    {
+      "id": "edit-020",
+      "label": "PCOS (polycystic ovary syndrome) is a common hormonal condition in wom",
+      "kind": "text",
+      "value": "PCOS (polycystic ovary syndrome) is a common hormonal condition in women where the ovaries may not regularly release eggs, often linked with higher androgen (male hormone) levels and insulin resistance."
+    },
+    {
+      "id": "edit-021",
+      "label": "পিসিওএস (পলিসিস্টিক ওভারি সিনড্রোম) নারীদের একটি সাধারণ হরমোনজনিত সমস্",
+      "kind": "text",
+      "value": "পিসিওএস (পলিসিস্টিক ওভারি সিনড্রোম) নারীদের একটি সাধারণ হরমোনজনিত সমস্যা, যেখানে ডিম্বাশয় নিয়মিত ডিম্বাণু ছাড়ে না, প্রায়ই উচ্চ অ্যান্ড্রোজেন (পুরুষ হরমোন) মাত্রা ও ইনসুলিন প্রতিরোধের সাথে সম্পর্কিত।"
+    },
+    {
+      "id": "edit-022",
+      "label": "VISUAL GUIDE",
+      "kind": "text",
+      "value": "VISUAL GUIDE"
+    },
+    {
+      "id": "edit-023",
+      "label": "চিত্রে সহজ ব্যাখ্যা",
+      "kind": "text",
+      "value": "চিত্রে সহজ ব্যাখ্যা"
+    },
+    {
+      "id": "edit-024",
+      "label": "How PCOS can present",
+      "kind": "text",
+      "value": "How PCOS can present"
+    },
+    {
+      "id": "edit-025",
+      "label": "পিসিওএস কীভাবে প্রকাশ পায়",
+      "kind": "text",
+      "value": "পিসিওএস কীভাবে প্রকাশ পায়"
+    },
+    {
+      "id": "edit-026",
+      "label": "Irregular ovulation",
+      "kind": "text",
+      "value": "Irregular ovulation"
+    },
+    {
+      "id": "edit-027",
+      "label": "অনিয়মিত ডিম্বস্ফোটন",
+      "kind": "text",
+      "value": "অনিয়মিত ডিম্বস্ফোটন"
+    },
+    {
+      "id": "edit-028",
+      "label": "Androgen-related symptoms",
+      "kind": "text",
+      "value": "Androgen-related symptoms"
+    },
+    {
+      "id": "edit-029",
+      "label": "অ্যান্ড্রোজেনজনিত উপসর্গ",
+      "kind": "text",
+      "value": "অ্যান্ড্রোজেনজনিত উপসর্গ"
+    },
+    {
+      "id": "edit-030",
+      "label": "Metabolic risk in some patients",
+      "kind": "text",
+      "value": "Metabolic risk in some patients"
+    },
+    {
+      "id": "edit-031",
+      "label": "কিছু রোগীর বিপাকীয় ঝুঁকি",
+      "kind": "text",
+      "value": "কিছু রোগীর বিপাকীয় ঝুঁকি"
+    },
+    {
+      "id": "edit-032",
+      "label": "Simplified illustration for patient education; not a diagnostic algori",
+      "kind": "text",
+      "value": "Simplified illustration for patient education; not a diagnostic algorithm."
+    },
+    {
+      "id": "edit-033",
+      "label": "রোগীকে সহজভাবে বোঝানোর চিত্র; এটি রোগ নির্ণয়ের নির্দেশিকা নয়।",
+      "kind": "text",
+      "value": "রোগীকে সহজভাবে বোঝানোর চিত্র; এটি রোগ নির্ণয়ের নির্দেশিকা নয়।"
+    },
+    {
+      "id": "edit-034",
+      "label": "A useful point to know",
+      "kind": "text",
+      "value": "A useful point to know"
+    },
+    {
+      "id": "edit-035",
+      "label": "জেনে রাখা জরুরি",
+      "kind": "text",
+      "value": "জেনে রাখা জরুরি"
+    },
+    {
+      "id": "edit-036",
+      "label": "PCOS is diagnosed from a pattern of features after excluding other cau",
+      "kind": "text",
+      "value": "PCOS is diagnosed from a pattern of features after excluding other causes. An ultrasound or insulin test is not automatically required for every patient."
+    },
+    {
+      "id": "edit-037",
+      "label": "অন্য সম্ভাব্য কারণ বাদ দিয়ে নির্দিষ্ট বৈশিষ্ট্যের সমন্বয়ে পিসিওএস নি",
+      "kind": "text",
+      "value": "অন্য সম্ভাব্য কারণ বাদ দিয়ে নির্দিষ্ট বৈশিষ্ট্যের সমন্বয়ে পিসিওএস নির্ণয় করা হয়। প্রত্যেক রোগীর আল্ট্রাসাউন্ড বা ইনসুলিন পরীক্ষা করতেই হবে, এমন নয়।"
+    },
+    {
+      "id": "edit-038",
+      "label": "Common symptoms",
+      "kind": "text",
+      "value": "Common symptoms"
+    },
+    {
+      "id": "edit-039",
+      "label": "সাধারণ লক্ষণ",
+      "kind": "text",
+      "value": "সাধারণ লক্ষণ"
+    },
+    {
+      "id": "edit-040",
+      "label": "Irregular or missed periods",
+      "kind": "text",
+      "value": "Irregular or missed periods"
+    },
+    {
+      "id": "edit-041",
+      "label": "অনিয়মিত বা বন্ধ মাসিক",
+      "kind": "text",
+      "value": "অনিয়মিত বা বন্ধ মাসিক"
+    },
+    {
+      "id": "edit-042",
+      "label": "Acne",
+      "kind": "text",
+      "value": "Acne"
+    },
+    {
+      "id": "edit-043",
+      "label": "ব্রণ",
+      "kind": "text",
+      "value": "ব্রণ"
+    },
+    {
+      "id": "edit-044",
+      "label": "Excess facial or body hair",
+      "kind": "text",
+      "value": "Excess facial or body hair"
+    },
+    {
+      "id": "edit-045",
+      "label": "মুখে বা শরীরে অতিরিক্ত লোম",
+      "kind": "text",
+      "value": "মুখে বা শরীরে অতিরিক্ত লোম"
+    },
+    {
+      "id": "edit-046",
+      "label": "Hair thinning",
+      "kind": "text",
+      "value": "Hair thinning"
+    },
+    {
+      "id": "edit-047",
+      "label": "চুল পাতলা হওয়া",
+      "kind": "text",
+      "value": "চুল পাতলা হওয়া"
+    },
+    {
+      "id": "edit-048",
+      "label": "Weight gain",
+      "kind": "text",
+      "value": "Weight gain"
+    },
+    {
+      "id": "edit-049",
+      "label": "ওজন বৃদ্ধি",
+      "kind": "text",
+      "value": "ওজন বৃদ্ধি"
+    },
+    {
+      "id": "edit-050",
+      "label": "Difficulty conceiving",
+      "kind": "text",
+      "value": "Difficulty conceiving"
+    },
+    {
+      "id": "edit-051",
+      "label": "গর্ভধারণে অসুবিধা",
+      "kind": "text",
+      "value": "গর্ভধারণে অসুবিধা"
+    },
+    {
+      "id": "edit-052",
+      "label": "Important causes",
+      "kind": "text",
+      "value": "Important causes"
+    },
+    {
+      "id": "edit-053",
+      "label": "গুরুত্বপূর্ণ কারণ",
+      "kind": "text",
+      "value": "গুরুত্বপূর্ণ কারণ"
+    },
+    {
+      "id": "edit-054",
+      "label": "The exact cause isn't fully understood, but PCOS is linked to insulin ",
+      "kind": "text",
+      "value": "The exact cause isn't fully understood, but PCOS is linked to insulin resistance, genetics, and hormonal imbalance."
+    },
+    {
+      "id": "edit-055",
+      "label": "সঠিক কারণ সম্পূর্ণভাবে জানা না গেলেও, পিসিওএস ইনসুলিন প্রতিরোধ, জিনগত ",
+      "kind": "text",
+      "value": "সঠিক কারণ সম্পূর্ণভাবে জানা না গেলেও, পিসিওএস ইনসুলিন প্রতিরোধ, জিনগত কারণ ও হরমোনের ভারসাম্যহীনতার সাথে সম্পর্কিত।"
+    },
+    {
+      "id": "edit-056",
+      "label": "It is not caused by anything the patient did, and is one of the most c",
+      "kind": "text",
+      "value": "It is not caused by anything the patient did, and is one of the most common hormonal conditions in women of reproductive age."
+    },
+    {
+      "id": "edit-057",
+      "label": "এটি রোগীর কোনো কাজের কারণে হয় না, এবং প্রজননক্ষম বয়সের নারীদের মধ্যে",
+      "kind": "text",
+      "value": "এটি রোগীর কোনো কাজের কারণে হয় না, এবং প্রজননক্ষম বয়সের নারীদের মধ্যে সবচেয়ে সাধারণ হরমোনজনিত সমস্যাগুলোর একটি।"
+    },
+    {
+      "id": "edit-058",
+      "label": "How it is evaluated",
+      "kind": "text",
+      "value": "How it is evaluated"
+    },
+    {
+      "id": "edit-059",
+      "label": "কীভাবে মূল্যায়ন করা হয়",
+      "kind": "text",
+      "value": "কীভাবে মূল্যায়ন করা হয়"
+    },
+    {
+      "id": "edit-060",
+      "label": "Assessment includes menstrual and symptom history, examination when ap",
+      "kind": "text",
+      "value": "Assessment includes menstrual and symptom history, examination when appropriate, tests to exclude other causes, and assessment of glucose metabolism. A pelvic ultrasound is used only when it adds useful information."
+    },
+    {
+      "id": "edit-061",
+      "label": "মূল্যায়নে মাসিক ও অন্যান্য লক্ষণের ইতিহাস, প্রয়োজনে শারীরিক পরীক্ষা,",
+      "kind": "text",
+      "value": "মূল্যায়নে মাসিক ও অন্যান্য লক্ষণের ইতিহাস, প্রয়োজনে শারীরিক পরীক্ষা, অন্য কারণ বাদ দেওয়ার পরীক্ষা এবং গ্লুকোজ বিপাকের মূল্যায়ন করা হয়। প্রয়োজন হলেই পেলভিক আল্ট্রাসাউন্ড করা হয়।"
+    },
+    {
+      "id": "edit-062",
+      "label": "Diagnosis is usually based on a combination of findings rather than an",
+      "kind": "text",
+      "value": "Diagnosis is usually based on a combination of findings rather than any single test alone."
+    },
+    {
+      "id": "edit-063",
+      "label": "নির্ণয় সাধারণত একক কোনো পরীক্ষার উপর নয়, বরং একাধিক ফলাফলের সমন্বয়ে",
+      "kind": "text",
+      "value": "নির্ণয় সাধারণত একক কোনো পরীক্ষার উপর নয়, বরং একাধিক ফলাফলের সমন্বয়ে করা হয়।"
+    },
+    {
+      "id": "edit-064",
+      "label": "Common treatment approaches",
+      "kind": "text",
+      "value": "Common treatment approaches"
+    },
+    {
+      "id": "edit-065",
+      "label": "সাধারণ চিকিৎসার পদ্ধতি",
+      "kind": "text",
+      "value": "সাধারণ চিকিৎসার পদ্ধতি"
+    },
+    {
+      "id": "edit-066",
+      "label": "Lifestyle measures — balanced diet, regular activity, and even modest ",
+      "kind": "text",
+      "value": "Lifestyle measures — balanced diet, regular activity, and even modest weight loss — can meaningfully improve symptoms."
+    },
+    {
+      "id": "edit-067",
+      "label": "জীবনযাপনে পরিবর্তন — সুষম খাবার, নিয়মিত শারীরিক কার্যকলাপ ও সামান্য ও",
+      "kind": "text",
+      "value": "জীবনযাপনে পরিবর্তন — সুষম খাবার, নিয়মিত শারীরিক কার্যকলাপ ও সামান্য ওজন হ্রাস — লক্ষণে উল্লেখযোগ্য উন্নতি আনতে পারে।"
+    },
+    {
+      "id": "edit-068",
+      "label": "Medications can help regulate periods or reduce androgen-related sympt",
+      "kind": "text",
+      "value": "Medications can help regulate periods or reduce androgen-related symptoms like acne and excess hair."
+    },
+    {
+      "id": "edit-069",
+      "label": "ওষুধ মাসিক নিয়মিত করতে বা ব্রণ ও অতিরিক্ত লোমের মতো অ্যান্ড্রোজেন-সম্",
+      "kind": "text",
+      "value": "ওষুধ মাসিক নিয়মিত করতে বা ব্রণ ও অতিরিক্ত লোমের মতো অ্যান্ড্রোজেন-সম্পর্কিত লক্ষণ কমাতে সাহায্য করতে পারে।"
+    },
+    {
+      "id": "edit-070",
+      "label": "Metformin may be considered for selected patients, particularly when m",
+      "kind": "text",
+      "value": "Metformin may be considered for selected patients, particularly when metabolic risk or impaired glucose regulation is present; it is not prescribed solely on the basis of an insulin level."
+    },
+    {
+      "id": "edit-071",
+      "label": "নির্বাচিত রোগীর ক্ষেত্রে, বিশেষত মেটাবলিক ঝুঁকি বা গ্লুকোজ নিয়ন্ত্রণে",
+      "kind": "text",
+      "value": "নির্বাচিত রোগীর ক্ষেত্রে, বিশেষত মেটাবলিক ঝুঁকি বা গ্লুকোজ নিয়ন্ত্রণে সমস্যা থাকলে মেটফরমিন বিবেচনা করা হয়; শুধু ইনসুলিনের মাত্রা বেশি হলেই এটি দেওয়া হয় না।"
+    },
+    {
+      "id": "edit-072",
+      "label": "For those trying to conceive, fertility-focused treatment is available",
+      "kind": "text",
+      "value": "For those trying to conceive, fertility-focused treatment is available and tailored to your goals."
+    },
+    {
+      "id": "edit-073",
+      "label": "যারা গর্ভধারণের চেষ্টা করছেন, তাদের জন্য লক্ষ্য অনুযায়ী বন্ধ্যাত্ব-কে",
+      "kind": "text",
+      "value": "যারা গর্ভধারণের চেষ্টা করছেন, তাদের জন্য লক্ষ্য অনুযায়ী বন্ধ্যাত্ব-কেন্দ্রিক চিকিৎসা পাওয়া যায়।"
+    },
+    {
+      "id": "edit-074",
+      "label": "When to see a specialist",
+      "kind": "text",
+      "value": "When to see a specialist"
+    },
+    {
+      "id": "edit-075",
+      "label": "কখন বিশেষজ্ঞ দেখাবেন",
+      "kind": "text",
+      "value": "কখন বিশেষজ্ঞ দেখাবেন"
+    },
+    {
+      "id": "edit-076",
+      "label": "Periods absent or irregular for several months",
+      "kind": "text",
+      "value": "Periods absent or irregular for several months"
+    },
+    {
+      "id": "edit-077",
+      "label": "কয়েক মাস ধরে মাসিক বন্ধ বা অনিয়মিত থাকলে",
+      "kind": "text",
+      "value": "কয়েক মাস ধরে মাসিক বন্ধ বা অনিয়মিত থাকলে"
+    },
+    {
+      "id": "edit-078",
+      "label": "Signs of excess androgen such as acne or excess hair growth",
+      "kind": "text",
+      "value": "Signs of excess androgen such as acne or excess hair growth"
+    },
+    {
+      "id": "edit-079",
+      "label": "ব্রণ বা অতিরিক্ত লোমের মতো অ্যান্ড্রোজেন বৃদ্ধির লক্ষণ",
+      "kind": "text",
+      "value": "ব্রণ বা অতিরিক্ত লোমের মতো অ্যান্ড্রোজেন বৃদ্ধির লক্ষণ"
+    },
+    {
+      "id": "edit-080",
+      "label": "Difficulty conceiving after trying",
+      "kind": "text",
+      "value": "Difficulty conceiving after trying"
+    },
+    {
+      "id": "edit-081",
+      "label": "চেষ্টার পরও গর্ভধারণে অসুবিধা",
+      "kind": "text",
+      "value": "চেষ্টার পরও গর্ভধারণে অসুবিধা"
+    },
+    {
+      "id": "edit-082",
+      "label": "Concern about diabetes risk associated with PCOS",
+      "kind": "text",
+      "value": "Concern about diabetes risk associated with PCOS"
+    },
+    {
+      "id": "edit-083",
+      "label": "পিসিওএস-সম্পর্কিত ডায়াবেটিসের ঝুঁকি নিয়ে উদ্বেগ",
+      "kind": "text",
+      "value": "পিসিওএস-সম্পর্কিত ডায়াবেটিসের ঝুঁকি নিয়ে উদ্বেগ"
+    },
+    {
+      "id": "edit-084",
+      "label": "Need a specialist assessment?",
+      "kind": "text",
+      "value": "Need a specialist assessment?"
+    },
+    {
+      "id": "edit-085",
+      "label": "বিশেষজ্ঞ মূল্যায়ন দরকার?",
+      "kind": "text",
+      "value": "বিশেষজ্ঞ মূল্যায়ন দরকার?"
+    },
+    {
+      "id": "edit-086",
+      "label": "Book an appointment in Dhaka, Chattogram, Patiya, or online.",
+      "kind": "text",
+      "value": "Book an appointment in Dhaka, Chattogram, Patiya, or online."
+    },
+    {
+      "id": "edit-087",
+      "label": "ঢাকা, চট্টগ্রাম, পটিয়া অথবা অনলাইনে অ্যাপয়েন্টমেন্ট নিন।",
+      "kind": "text",
+      "value": "ঢাকা, চট্টগ্রাম, পটিয়া অথবা অনলাইনে অ্যাপয়েন্টমেন্ট নিন।"
+    },
+    {
+      "id": "edit-088",
+      "label": "Book Appointment",
+      "kind": "text",
+      "value": "Book Appointment"
+    },
+    {
+      "id": "edit-089",
+      "label": "অ্যাপয়েন্টমেন্ট নিন",
+      "kind": "text",
+      "value": "অ্যাপয়েন্টমেন্ট নিন"
+    },
+    {
+      "id": "edit-090",
+      "label": "Frequently asked questions",
+      "kind": "text",
+      "value": "Frequently asked questions"
+    },
+    {
+      "id": "edit-091",
+      "label": "প্রায়শই জিজ্ঞাসিত প্রশ্ন",
+      "kind": "text",
+      "value": "প্রায়শই জিজ্ঞাসিত প্রশ্ন"
+    },
+    {
+      "id": "edit-092",
+      "label": "Is PCOS curable?",
+      "kind": "text",
+      "value": "Is PCOS curable?"
+    },
+    {
+      "id": "edit-093",
+      "label": "পিসিওএস কি নিরাময়যোগ্য?",
+      "kind": "text",
+      "value": "পিসিওএস কি নিরাময়যোগ্য?"
+    },
+    {
+      "id": "edit-094",
+      "label": "PCOS isn't curable, but it's very manageable long-term, and symptoms o",
+      "kind": "text",
+      "value": "PCOS isn't curable, but it's very manageable long-term, and symptoms often improve significantly with treatment."
+    },
+    {
+      "id": "edit-095",
+      "label": "পিসিওএস সম্পূর্ণ নিরাময়যোগ্য নয়, তবে দীর্ঘমেয়াদে এটি ভালোভাবে নিয়ন",
+      "kind": "text",
+      "value": "পিসিওএস সম্পূর্ণ নিরাময়যোগ্য নয়, তবে দীর্ঘমেয়াদে এটি ভালোভাবে নিয়ন্ত্রণ করা যায়, এবং চিকিৎসায় লক্ষণ প্রায়ই উল্লেখযোগ্যভাবে উন্নত হয়।"
+    },
+    {
+      "id": "edit-096",
+      "label": "Can I get pregnant with PCOS?",
+      "kind": "text",
+      "value": "Can I get pregnant with PCOS?"
+    },
+    {
+      "id": "edit-097",
+      "label": "পিসিওএস থাকলে কি গর্ভধারণ সম্ভব?",
+      "kind": "text",
+      "value": "পিসিওএস থাকলে কি গর্ভধারণ সম্ভব?"
+    },
+    {
+      "id": "edit-098",
+      "label": "Yes, many women with PCOS conceive, sometimes with the help of ovulati",
+      "kind": "text",
+      "value": "Yes, many women with PCOS conceive, sometimes with the help of ovulation-inducing medication or fertility treatment."
+    },
+    {
+      "id": "edit-099",
+      "label": "হ্যাঁ, পিসিওএস থাকা অনেক নারীই গর্ভধারণ করেন, কখনো কখনো ডিম্বস্ফোটন-উদ",
+      "kind": "text",
+      "value": "হ্যাঁ, পিসিওএস থাকা অনেক নারীই গর্ভধারণ করেন, কখনো কখনো ডিম্বস্ফোটন-উদ্দীপক ওষুধ বা বন্ধ্যাত্ব চিকিৎসার সাহায্যে।"
+    },
+    {
+      "id": "edit-100",
+      "label": "Does PCOS mean I'll get diabetes?",
+      "kind": "text",
+      "value": "Does PCOS mean I'll get diabetes?"
+    },
+    {
+      "id": "edit-101",
+      "label": "পিসিওএস থাকলে কি ডায়াবেটিস হবেই?",
+      "kind": "text",
+      "value": "পিসিওএস থাকলে কি ডায়াবেটিস হবেই?"
+    },
+    {
+      "id": "edit-102",
+      "label": "It raises the risk due to insulin resistance, which is why glucose scr",
+      "kind": "text",
+      "value": "It raises the risk due to insulin resistance, which is why glucose screening is part of PCOS care — but it isn't a certainty."
+    },
+    {
+      "id": "edit-103",
+      "label": "ইনসুলিন প্রতিরোধের কারণে এটি ঝুঁকি বাড়ায়, তাই গ্লুকোজ স্ক্রিনিং পিসি",
+      "kind": "text",
+      "value": "ইনসুলিন প্রতিরোধের কারণে এটি ঝুঁকি বাড়ায়, তাই গ্লুকোজ স্ক্রিনিং পিসিওএস চিকিৎসার অংশ — তবে এটি নিশ্চিত নয়।"
+    },
+    {
+      "id": "edit-104",
+      "label": "Do I need an ultrasound to diagnose PCOS?",
+      "kind": "text",
+      "value": "Do I need an ultrasound to diagnose PCOS?"
+    },
+    {
+      "id": "edit-105",
+      "label": "পিসিওএস নির্ণয়ে কি আল্ট্রাসাউন্ড করতেই হবে?",
+      "kind": "text",
+      "value": "পিসিওএস নির্ণয়ে কি আল্ট্রাসাউন্ড করতেই হবে?"
+    },
+    {
+      "id": "edit-106",
+      "label": "It's often helpful but not always required; diagnosis is based on a co",
+      "kind": "text",
+      "value": "It's often helpful but not always required; diagnosis is based on a combination of symptoms, blood tests, and sometimes ultrasound."
+    },
+    {
+      "id": "edit-107",
+      "label": "এটি প্রায়ই সহায়ক হলেও সবসময় প্রয়োজন হয় না; নির্ণয় লক্ষণ, রক্ত পর",
+      "kind": "text",
+      "value": "এটি প্রায়ই সহায়ক হলেও সবসময় প্রয়োজন হয় না; নির্ণয় লক্ষণ, রক্ত পরীক্ষা এবং কখনো আল্ট্রাসাউন্ডের সমন্বয়ে করা হয়।"
+    },
+    {
+      "id": "edit-108",
+      "label": "Can weight loss help PCOS?",
+      "kind": "text",
+      "value": "Can weight loss help PCOS?"
+    },
+    {
+      "id": "edit-109",
+      "label": "ওজন কমালে কি পিসিওএসে উপকার হয়?",
+      "kind": "text",
+      "value": "ওজন কমালে কি পিসিওএসে উপকার হয়?"
+    },
+    {
+      "id": "edit-110",
+      "label": "Yes, even a modest 5-10% weight loss can improve cycles, androgen-rela",
+      "kind": "text",
+      "value": "Yes, even a modest 5-10% weight loss can improve cycles, androgen-related symptoms, and fertility in many women."
+    },
+    {
+      "id": "edit-111",
+      "label": "হ্যাঁ, শরীরের ওজনের মাত্র ৫-১০% কমালেও অনেক নারীর মাসিক চক্র, অ্যান্ড্",
+      "kind": "text",
+      "value": "হ্যাঁ, শরীরের ওজনের মাত্র ৫-১০% কমালেও অনেক নারীর মাসিক চক্র, অ্যান্ড্রোজেন-সম্পর্কিত লক্ষণ ও উর্বরতার উন্নতি হতে পারে।"
+    },
+    {
+      "id": "edit-112",
+      "label": "Related",
+      "kind": "text",
+      "value": "Related"
+    },
+    {
+      "id": "edit-113",
+      "label": "সম্পর্কিত",
+      "kind": "text",
+      "value": "সম্পর্কিত"
+    },
+    {
+      "id": "edit-114",
+      "label": "Diabetes Care",
+      "kind": "text",
+      "value": "Diabetes Care"
+    },
+    {
+      "id": "edit-115",
+      "label": "ডায়াবেটিস চিকিৎসা",
+      "kind": "text",
+      "value": "ডায়াবেটিস চিকিৎসা"
+    },
+    {
+      "id": "edit-116",
+      "label": "Obesity & Metabolic Health",
+      "kind": "text",
+      "value": "Obesity & Metabolic Health"
+    },
+    {
+      "id": "edit-117",
+      "label": "স্থূলতা ও মেটাবলিক স্বাস্থ্য",
+      "kind": "text",
+      "value": "স্থূলতা ও মেটাবলিক স্বাস্থ্য"
+    },
+    {
+      "id": "edit-118",
+      "label": "Patient Education",
+      "kind": "text",
+      "value": "Patient Education"
+    },
+    {
+      "id": "edit-119",
+      "label": "রোগী শিক্ষা",
+      "kind": "text",
+      "value": "রোগী শিক্ষা"
+    },
+    {
+      "id": "edit-120",
+      "label": "Medical author/reviewer: Dr. Mohammad Aminul Islam, Endocrinologist. L",
+      "kind": "text",
+      "value": "Medical author/reviewer: Dr. Mohammad Aminul Islam, Endocrinologist. Last updated: November 2026."
+    },
+    {
+      "id": "edit-121",
+      "label": "চিকিৎসা লেখক/পর্যালোচক: ডা. মোহাম্মদ আমিনুল ইসলাম, এন্ডোক্রাইনোলজিস্ট।",
+      "kind": "text",
+      "value": "চিকিৎসা লেখক/পর্যালোচক: ডা. মোহাম্মদ আমিনুল ইসলাম, এন্ডোক্রাইনোলজিস্ট। সর্বশেষ হালনাগাদ: নভেম্বর ২০২৬।"
+    },
+    {
+      "id": "edit-122",
+      "label": "VISUAL GUIDE",
+      "kind": "text",
+      "value": "VISUAL GUIDE"
+    },
+    {
+      "id": "edit-123",
+      "label": "চিত্রে সহজ ব্যাখ্যা",
+      "kind": "text",
+      "value": "চিত্রে সহজ ব্যাখ্যা"
+    },
+    {
+      "id": "edit-124",
+      "label": "A personalised care pathway",
+      "kind": "text",
+      "value": "A personalised care pathway"
+    },
+    {
+      "id": "edit-125",
+      "label": "ব্যক্তিভিত্তিক চিকিৎসার ধাপ",
+      "kind": "text",
+      "value": "ব্যক্তিভিত্তিক চিকিৎসার ধাপ"
+    },
+    {
+      "id": "edit-126",
+      "label": "Assess symptoms and exclude mimics",
+      "kind": "text",
+      "value": "Assess symptoms and exclude mimics"
+    },
+    {
+      "id": "edit-127",
+      "label": "উপসর্গ মূল্যায়ন ও অন্য কারণ বাদ",
+      "kind": "text",
+      "value": "উপসর্গ মূল্যায়ন ও অন্য কারণ বাদ"
+    },
+    {
+      "id": "edit-128",
+      "label": "Discuss menstrual and fertility goals",
+      "kind": "text",
+      "value": "Discuss menstrual and fertility goals"
+    },
+    {
+      "id": "edit-129",
+      "label": "মাসিক ও সন্তানধারণের লক্ষ্য",
+      "kind": "text",
+      "value": "মাসিক ও সন্তানধারণের লক্ষ্য"
+    },
+    {
+      "id": "edit-130",
+      "label": "Address metabolic and long-term health",
+      "kind": "text",
+      "value": "Address metabolic and long-term health"
+    },
+    {
+      "id": "edit-131",
+      "label": "বিপাকীয় ও দীর্ঘমেয়াদি স্বাস্থ্য",
+      "kind": "text",
+      "value": "বিপাকীয় ও দীর্ঘমেয়াদি স্বাস্থ্য"
+    },
+    {
+      "id": "edit-132",
+      "label": "Simplified illustration for patient education; not a diagnostic algori",
+      "kind": "text",
+      "value": "Simplified illustration for patient education; not a diagnostic algorithm."
+    },
+    {
+      "id": "edit-133",
+      "label": "রোগীকে সহজভাবে বোঝানোর চিত্র; এটি রোগ নির্ণয়ের নির্দেশিকা নয়।",
+      "kind": "text",
+      "value": "রোগীকে সহজভাবে বোঝানোর চিত্র; এটি রোগ নির্ণয়ের নির্দেশিকা নয়।"
+    },
+    {
+      "id": "edit-134",
+      "label": "Further reading",
+      "kind": "text",
+      "value": "Further reading"
+    },
+    {
+      "id": "edit-135",
+      "label": "Clinical references",
+      "kind": "text",
+      "value": "Clinical references"
+    },
+    {
+      "id": "edit-136",
+      "label": "The information on this page is intended for education and should be a",
+      "kind": "text",
+      "value": "The information on this page is intended for education and should be applied in the context of an individual clinical assessment. Guidelines may be updated."
+    },
+    {
+      "id": "edit-137",
+      "label": "Teede HJ, et al. Recommendations from the 2023 International Evidence-",
+      "kind": "text",
+      "value": "Teede HJ, et al. Recommendations from the 2023 International Evidence-based Guideline for the Assessment and Management of Polycystic Ovary Syndrome. Human Reproduction. 2023."
+    },
+    {
+      "id": "edit-137",
+      "label": "Link: Teede HJ, et al. Recommendations from the 2023 Int",
+      "kind": "link",
+      "value": "https://doi.org/10.1093/humrep/dead156"
+    },
+    {
+      "id": "edit-138",
+      "label": "2023 International Evidence-based Guideline for PCOS.",
+      "kind": "text",
+      "value": "2023 International Evidence-based Guideline for PCOS."
+    },
+    {
+      "id": "edit-138",
+      "label": "Link: 2023 International Evidence-based Guideline for PC",
+      "kind": "link",
+      "value": "https://www.monash.edu/medicine/mchri/pcos/guideline"
+    },
+    {
+      "id": "edit-139",
+      "label": "American Society for Reproductive Medicine. Practice guidance.",
+      "kind": "text",
+      "value": "American Society for Reproductive Medicine. Practice guidance."
+    },
+    {
+      "id": "edit-139",
+      "label": "Link: American Society for Reproductive Medicine. Practi",
+      "kind": "link",
+      "value": "https://www.asrm.org/practice-guidance/"
+    },
+    {
+      "id": "edit-140",
+      "label": "Website content updated: 11 November 2026. General education only; ind",
+      "kind": "text",
+      "value": "Website content updated: 11 November 2026. General education only; individual care varies."
+    },
+    {
+      "id": "edit-141",
+      "label": "ওয়েবসাইটের তথ্য হালনাগাদ: ১১ নভেম্বর ২০২৬। এটি সাধারণ স্বাস্থ্যশিক্ষা",
+      "kind": "text",
+      "value": "ওয়েবসাইটের তথ্য হালনাগাদ: ১১ নভেম্বর ২০২৬। এটি সাধারণ স্বাস্থ্যশিক্ষার জন্য; চিকিৎসা রোগীভেদে ভিন্ন হতে পারে।"
+    },
+    {
+      "id": "edit-142",
+      "label": "You may also find useful",
+      "kind": "text",
+      "value": "You may also find useful"
+    },
+    {
+      "id": "edit-143",
+      "label": "আরও যে বিষয়গুলো জানতে পারেন",
+      "kind": "text",
+      "value": "আরও যে বিষয়গুলো জানতে পারেন"
+    },
+    {
+      "id": "edit-144",
+      "label": "Weight and metabolic health",
+      "kind": "text",
+      "value": "Weight and metabolic health"
+    },
+    {
+      "id": "edit-145",
+      "label": "ওজন ও মেটাবলিক স্বাস্থ্য",
+      "kind": "text",
+      "value": "ওজন ও মেটাবলিক স্বাস্থ্য"
+    },
+    {
+      "id": "edit-146",
+      "label": "Thyroid disorders",
+      "kind": "text",
+      "value": "Thyroid disorders"
+    },
+    {
+      "id": "edit-147",
+      "label": "থাইরয়েড রোগ",
+      "kind": "text",
+      "value": "থাইরয়েড রোগ"
+    },
+    {
+      "id": "edit-148",
+      "label": "Facebook",
+      "kind": "text",
+      "value": "Facebook"
+    },
+    {
+      "id": "edit-148",
+      "label": "Link: Facebook",
+      "kind": "link",
+      "value": "https://www.facebook.com/share/16Ec8BLWMN2/"
+    },
+    {
+      "id": "edit-149",
+      "label": "LinkedIn",
+      "kind": "text",
+      "value": "LinkedIn"
+    },
+    {
+      "id": "edit-149",
+      "label": "Link: LinkedIn",
+      "kind": "link",
+      "value": "https://www.linkedin.com/in/mohammad-aminul-islam-686091294"
+    },
+    {
+      "id": "edit-150",
+      "label": "Google reviews",
+      "kind": "text",
+      "value": "Google reviews"
+    },
+    {
+      "id": "edit-150",
+      "label": "Link: Google reviews",
+      "kind": "link",
+      "value": "https://share.google/inh2LFFBDtszWjzEe"
+    },
+    {
+      "id": "edit-151",
+      "label": "Call",
+      "kind": "text",
+      "value": "Call"
+    },
+    {
+      "id": "edit-152",
+      "label": "কল",
+      "kind": "text",
+      "value": "কল"
+    },
+    {
+      "id": "edit-153",
+      "label": "Chambers",
+      "kind": "text",
+      "value": "Chambers"
+    },
+    {
+      "id": "edit-154",
+      "label": "চেম্বার",
+      "kind": "text",
+      "value": "চেম্বার"
+    }
+  ]
+}

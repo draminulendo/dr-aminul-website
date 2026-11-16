@@ -1,0 +1,616 @@
+{
+  "items": [
+    {
+      "id": "edit-001",
+      "label": "About",
+      "kind": "text",
+      "value": "About"
+    },
+    {
+      "id": "edit-001",
+      "label": "Link: About",
+      "kind": "link",
+      "value": "index.html#about"
+    },
+    {
+      "id": "edit-002",
+      "label": "Conditions",
+      "kind": "text",
+      "value": "Conditions"
+    },
+    {
+      "id": "edit-002",
+      "label": "Link: Conditions",
+      "kind": "link",
+      "value": "index.html#care"
+    },
+    {
+      "id": "edit-003",
+      "label": "Chambers",
+      "kind": "text",
+      "value": "Chambers"
+    },
+    {
+      "id": "edit-003",
+      "label": "Link: Chambers",
+      "kind": "link",
+      "value": "index.html#book"
+    },
+    {
+      "id": "edit-004",
+      "label": "Learn",
+      "kind": "text",
+      "value": "Learn"
+    },
+    {
+      "id": "edit-004",
+      "label": "Link: Learn",
+      "kind": "link",
+      "value": "index.html#learn"
+    },
+    {
+      "id": "edit-005",
+      "label": "FAQ",
+      "kind": "text",
+      "value": "FAQ"
+    },
+    {
+      "id": "edit-005",
+      "label": "Link: FAQ",
+      "kind": "link",
+      "value": "index.html#faq"
+    },
+    {
+      "id": "edit-006",
+      "label": "Research",
+      "kind": "text",
+      "value": "Research"
+    },
+    {
+      "id": "edit-006",
+      "label": "Link: Research",
+      "kind": "link",
+      "value": "index.html#research"
+    },
+    {
+      "id": "edit-007",
+      "label": "Reviews",
+      "kind": "text",
+      "value": "Reviews"
+    },
+    {
+      "id": "edit-007",
+      "label": "Link: Reviews",
+      "kind": "link",
+      "value": "index.html#reviews"
+    },
+    {
+      "id": "edit-008",
+      "label": "Appointment",
+      "kind": "text",
+      "value": "Appointment"
+    },
+    {
+      "id": "edit-008",
+      "label": "Link: Appointment",
+      "kind": "link",
+      "value": "index.html#book"
+    },
+    {
+      "id": "edit-009",
+      "label": "Home",
+      "kind": "text",
+      "value": "Home"
+    },
+    {
+      "id": "edit-009",
+      "label": "Link: Home",
+      "kind": "link",
+      "value": "index.html"
+    },
+    {
+      "id": "edit-010",
+      "label": "Contact",
+      "kind": "text",
+      "value": "Contact"
+    },
+    {
+      "id": "edit-011",
+      "label": "Direct contact",
+      "kind": "text",
+      "value": "Direct contact"
+    },
+    {
+      "id": "edit-012",
+      "label": "সরাসরি যোগাযোগ",
+      "kind": "text",
+      "value": "সরাসরি যোগাযোগ"
+    },
+    {
+      "id": "edit-013",
+      "label": "Call",
+      "kind": "text",
+      "value": "Call"
+    },
+    {
+      "id": "edit-014",
+      "label": "কল করুন",
+      "kind": "text",
+      "value": "কল করুন"
+    },
+    {
+      "id": "edit-015",
+      "label": "09666642273",
+      "kind": "text",
+      "value": "09666642273"
+    },
+    {
+      "id": "edit-015",
+      "label": "Link: 09666642273",
+      "kind": "link",
+      "value": "tel:+8809666642273"
+    },
+    {
+      "id": "edit-016",
+      "label": "Dhaka",
+      "kind": "text",
+      "value": "Dhaka"
+    },
+    {
+      "id": "edit-017",
+      "label": "ঢাকা",
+      "kind": "text",
+      "value": "ঢাকা"
+    },
+    {
+      "id": "edit-018",
+      "label": "💬 WhatsApp",
+      "kind": "text",
+      "value": "💬 WhatsApp"
+    },
+    {
+      "id": "edit-019",
+      "label": "01871550536",
+      "kind": "text",
+      "value": "01871550536"
+    },
+    {
+      "id": "edit-019",
+      "label": "Link: 01871550536",
+      "kind": "link",
+      "value": "https://wa.me/8801871550536"
+    },
+    {
+      "id": "edit-020",
+      "label": "Email",
+      "kind": "text",
+      "value": "Email"
+    },
+    {
+      "id": "edit-021",
+      "label": "ইমেইল",
+      "kind": "text",
+      "value": "ইমেইল"
+    },
+    {
+      "id": "edit-022",
+      "label": "draminul46@gmail.com",
+      "kind": "text",
+      "value": "draminul46@gmail.com"
+    },
+    {
+      "id": "edit-022",
+      "label": "Link: draminul46@gmail.com",
+      "kind": "link",
+      "value": "mailto:draminul46@gmail.com"
+    },
+    {
+      "id": "edit-023",
+      "label": "Send an enquiry",
+      "kind": "text",
+      "value": "Send an enquiry"
+    },
+    {
+      "id": "edit-024",
+      "label": "অনুসন্ধান পাঠান",
+      "kind": "text",
+      "value": "অনুসন্ধান পাঠান"
+    },
+    {
+      "id": "edit-025",
+      "label": "This opens your own email app with your message ready to send — nothin",
+      "kind": "text",
+      "value": "This opens your own email app with your message ready to send — nothing is collected on this site. For faster replies, Call or WhatsApp is best."
+    },
+    {
+      "id": "edit-026",
+      "label": "এটি আপনার নিজের ইমেইল অ্যাপ খুলবে, বার্তা পাঠানোর জন্য প্রস্তুত অবস্থা",
+      "kind": "text",
+      "value": "এটি আপনার নিজের ইমেইল অ্যাপ খুলবে, বার্তা পাঠানোর জন্য প্রস্তুত অবস্থায় — এই সাইটে কিছু সংরক্ষণ করা হয় না। দ্রুত উত্তরের জন্য কল বা হোয়াটসঅ্যাপ সবচেয়ে ভালো।"
+    },
+    {
+      "id": "edit-027",
+      "label": "Your name",
+      "kind": "text",
+      "value": "Your name"
+    },
+    {
+      "id": "edit-028",
+      "label": "আপনার নাম",
+      "kind": "text",
+      "value": "আপনার নাম"
+    },
+    {
+      "id": "edit-029",
+      "label": "Your phone",
+      "kind": "text",
+      "value": "Your phone"
+    },
+    {
+      "id": "edit-030",
+      "label": "আপনার ফোন নম্বর",
+      "kind": "text",
+      "value": "আপনার ফোন নম্বর"
+    },
+    {
+      "id": "edit-031",
+      "label": "Message",
+      "kind": "text",
+      "value": "Message"
+    },
+    {
+      "id": "edit-032",
+      "label": "বার্তা",
+      "kind": "text",
+      "value": "বার্তা"
+    },
+    {
+      "id": "edit-033",
+      "label": "Open in email app",
+      "kind": "text",
+      "value": "Open in email app"
+    },
+    {
+      "id": "edit-034",
+      "label": "ইমেইল অ্যাপে খুলুন",
+      "kind": "text",
+      "value": "ইমেইল অ্যাপে খুলুন"
+    },
+    {
+      "id": "edit-035",
+      "label": "Chambers",
+      "kind": "text",
+      "value": "Chambers"
+    },
+    {
+      "id": "edit-036",
+      "label": "চেম্বার",
+      "kind": "text",
+      "value": "চেম্বার"
+    },
+    {
+      "id": "edit-037",
+      "label": "Dhaka",
+      "kind": "text",
+      "value": "Dhaka"
+    },
+    {
+      "id": "edit-038",
+      "label": "ঢাকা",
+      "kind": "text",
+      "value": "ঢাকা"
+    },
+    {
+      "id": "edit-039",
+      "label": "Omnicare Diagnostic Limited Room 804, 220/A, Begum Rokeya Swarani, She",
+      "kind": "text",
+      "value": "Omnicare Diagnostic Limited Room 804, 220/A, Begum Rokeya Swarani, Shewrapara"
+    },
+    {
+      "id": "edit-040",
+      "label": "Sun – Thu, 7–9 PM",
+      "kind": "text",
+      "value": "Sun – Thu, 7–9 PM"
+    },
+    {
+      "id": "edit-041",
+      "label": "রবি – বৃহস্পতি, সন্ধ্যা ৭–৯টা",
+      "kind": "text",
+      "value": "রবি – বৃহস্পতি, সন্ধ্যা ৭–৯টা"
+    },
+    {
+      "id": "edit-042",
+      "label": "Directions",
+      "kind": "text",
+      "value": "Directions"
+    },
+    {
+      "id": "edit-043",
+      "label": "দিকনির্দেশ",
+      "kind": "text",
+      "value": "দিকনির্দেশ"
+    },
+    {
+      "id": "edit-044",
+      "label": "BRAC Healthcare · Kazipara, Dhaka",
+      "kind": "text",
+      "value": "BRAC Healthcare · Kazipara, Dhaka"
+    },
+    {
+      "id": "edit-045",
+      "label": "ব্র্যাক হেলথকেয়ার · কাজীপাড়া, ঢাকা",
+      "kind": "text",
+      "value": "ব্র্যাক হেলথকেয়ার · কাজীপাড়া, ঢাকা"
+    },
+    {
+      "id": "edit-046",
+      "label": "840 Kazipara, Begum Rokeya Shoroni, Mirpur, Dhaka - 1216, Bangladesh",
+      "kind": "text",
+      "value": "840 Kazipara, Begum Rokeya Shoroni, Mirpur, Dhaka - 1216, Bangladesh"
+    },
+    {
+      "id": "edit-047",
+      "label": "Sunday – Thursday, 6:00–7:00 PM",
+      "kind": "text",
+      "value": "Sunday – Thursday, 6:00–7:00 PM"
+    },
+    {
+      "id": "edit-048",
+      "label": "রবিবার – বৃহস্পতিবার, সন্ধ্যা ৬টা–৭টা",
+      "kind": "text",
+      "value": "রবিবার – বৃহস্পতিবার, সন্ধ্যা ৬টা–৭টা"
+    },
+    {
+      "id": "edit-049",
+      "label": "Appointment",
+      "kind": "text",
+      "value": "Appointment"
+    },
+    {
+      "id": "edit-050",
+      "label": "অ্যাপয়েন্টমেন্ট",
+      "kind": "text",
+      "value": "অ্যাপয়েন্টমেন্ট"
+    },
+    {
+      "id": "edit-051",
+      "label": "Google Maps directions",
+      "kind": "text",
+      "value": "Google Maps directions"
+    },
+    {
+      "id": "edit-052",
+      "label": "গুগল ম্যাপে দিকনির্দেশ",
+      "kind": "text",
+      "value": "গুগল ম্যাপে দিকনির্দেশ"
+    },
+    {
+      "id": "edit-053",
+      "label": "Chattogram",
+      "kind": "text",
+      "value": "Chattogram"
+    },
+    {
+      "id": "edit-054",
+      "label": "চট্টগ্রাম",
+      "kind": "text",
+      "value": "চট্টগ্রাম"
+    },
+    {
+      "id": "edit-055",
+      "label": "Epic Healthcare Limited Room 404, Epic Centre, 19 K.B. Fazlul Kader Ro",
+      "kind": "text",
+      "value": "Epic Healthcare Limited Room 404, Epic Centre, 19 K.B. Fazlul Kader Road, Panchlaish"
+    },
+    {
+      "id": "edit-056",
+      "label": "Friday, 8–11 AM",
+      "kind": "text",
+      "value": "Friday, 8–11 AM"
+    },
+    {
+      "id": "edit-057",
+      "label": "শুক্রবার, সকাল ৮–১১টা",
+      "kind": "text",
+      "value": "শুক্রবার, সকাল ৮–১১টা"
+    },
+    {
+      "id": "edit-058",
+      "label": "Directions",
+      "kind": "text",
+      "value": "Directions"
+    },
+    {
+      "id": "edit-059",
+      "label": "দিকনির্দেশ",
+      "kind": "text",
+      "value": "দিকনির্দেশ"
+    },
+    {
+      "id": "edit-060",
+      "label": "Patiya",
+      "kind": "text",
+      "value": "Patiya"
+    },
+    {
+      "id": "edit-061",
+      "label": "পটিয়া",
+      "kind": "text",
+      "value": "পটিয়া"
+    },
+    {
+      "id": "edit-062",
+      "label": "Patiya General Hospital and Diagnostic Rafa Plaza, Hospital Road",
+      "kind": "text",
+      "value": "Patiya General Hospital and Diagnostic Rafa Plaza, Hospital Road"
+    },
+    {
+      "id": "edit-063",
+      "label": "Fri & Sat, 2–10 PM",
+      "kind": "text",
+      "value": "Fri & Sat, 2–10 PM"
+    },
+    {
+      "id": "edit-064",
+      "label": "শুক্র ও শনি, দুপুর ২–রাত ১০টা",
+      "kind": "text",
+      "value": "শুক্র ও শনি, দুপুর ২–রাত ১০টা"
+    },
+    {
+      "id": "edit-065",
+      "label": "Directions",
+      "kind": "text",
+      "value": "Directions"
+    },
+    {
+      "id": "edit-066",
+      "label": "দিকনির্দেশ",
+      "kind": "text",
+      "value": "দিকনির্দেশ"
+    },
+    {
+      "id": "edit-067",
+      "label": "Online & social",
+      "kind": "text",
+      "value": "Online & social"
+    },
+    {
+      "id": "edit-068",
+      "label": "অনলাইন ও সোশ্যাল",
+      "kind": "text",
+      "value": "অনলাইন ও সোশ্যাল"
+    },
+    {
+      "id": "edit-069",
+      "label": "Doctime",
+      "kind": "text",
+      "value": "Doctime"
+    },
+    {
+      "id": "edit-069",
+      "label": "Link: Doctime",
+      "kind": "link",
+      "value": "https://doctime.com.bd/doctors/dr-mohammad-aminul-islam-9862588"
+    },
+    {
+      "id": "edit-070",
+      "label": "Shukhee",
+      "kind": "text",
+      "value": "Shukhee"
+    },
+    {
+      "id": "edit-070",
+      "label": "Link: Shukhee",
+      "kind": "link",
+      "value": "https://www.shukhee.com/en/specialist-consultation/doctor/465"
+    },
+    {
+      "id": "edit-071",
+      "label": "Facebook",
+      "kind": "text",
+      "value": "Facebook"
+    },
+    {
+      "id": "edit-071",
+      "label": "Link: Facebook",
+      "kind": "link",
+      "value": "https://www.facebook.com/share/16Ec8BLWMN2/"
+    },
+    {
+      "id": "edit-072",
+      "label": "LinkedIn",
+      "kind": "text",
+      "value": "LinkedIn"
+    },
+    {
+      "id": "edit-072",
+      "label": "Link: LinkedIn",
+      "kind": "link",
+      "value": "https://www.linkedin.com/in/mohammad-aminul-islam-686091294"
+    },
+    {
+      "id": "edit-073",
+      "label": "Google reviews",
+      "kind": "text",
+      "value": "Google reviews"
+    },
+    {
+      "id": "edit-073",
+      "label": "Link: Google reviews",
+      "kind": "link",
+      "value": "https://share.google/inh2LFFBDtszWjzEe"
+    },
+    {
+      "id": "edit-074",
+      "label": "Please don't send personal medical details by email or WhatsApp. In an",
+      "kind": "text",
+      "value": "Please don't send personal medical details by email or WhatsApp. In an emergency, go to the nearest hospital."
+    },
+    {
+      "id": "edit-075",
+      "label": "অনুগ্রহ করে ইমেইল বা হোয়াটসঅ্যাপে ব্যক্তিগত চিকিৎসা তথ্য পাঠাবেন না। ",
+      "kind": "text",
+      "value": "অনুগ্রহ করে ইমেইল বা হোয়াটসঅ্যাপে ব্যক্তিগত চিকিৎসা তথ্য পাঠাবেন না। জরুরি অবস্থায় নিকটস্থ হাসপাতালে যান।"
+    },
+    {
+      "id": "edit-076",
+      "label": "Facebook",
+      "kind": "text",
+      "value": "Facebook"
+    },
+    {
+      "id": "edit-076",
+      "label": "Link: Facebook",
+      "kind": "link",
+      "value": "https://www.facebook.com/share/16Ec8BLWMN2/"
+    },
+    {
+      "id": "edit-077",
+      "label": "LinkedIn",
+      "kind": "text",
+      "value": "LinkedIn"
+    },
+    {
+      "id": "edit-077",
+      "label": "Link: LinkedIn",
+      "kind": "link",
+      "value": "https://www.linkedin.com/in/mohammad-aminul-islam-686091294"
+    },
+    {
+      "id": "edit-078",
+      "label": "Google reviews",
+      "kind": "text",
+      "value": "Google reviews"
+    },
+    {
+      "id": "edit-078",
+      "label": "Link: Google reviews",
+      "kind": "link",
+      "value": "https://share.google/inh2LFFBDtszWjzEe"
+    },
+    {
+      "id": "edit-079",
+      "label": "Call",
+      "kind": "text",
+      "value": "Call"
+    },
+    {
+      "id": "edit-080",
+      "label": "কল",
+      "kind": "text",
+      "value": "কল"
+    },
+    {
+      "id": "edit-081",
+      "label": "Chambers",
+      "kind": "text",
+      "value": "Chambers"
+    },
+    {
+      "id": "edit-082",
+      "label": "চেম্বার",
+      "kind": "text",
+      "value": "চেম্বার"
+    }
+  ]
+}

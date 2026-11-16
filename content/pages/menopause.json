@@ -1,0 +1,1024 @@
+{
+  "items": [
+    {
+      "id": "edit-001",
+      "label": "About",
+      "kind": "text",
+      "value": "About"
+    },
+    {
+      "id": "edit-001",
+      "label": "Link: About",
+      "kind": "link",
+      "value": "index.html#about"
+    },
+    {
+      "id": "edit-002",
+      "label": "Conditions",
+      "kind": "text",
+      "value": "Conditions"
+    },
+    {
+      "id": "edit-002",
+      "label": "Link: Conditions",
+      "kind": "link",
+      "value": "index.html#care"
+    },
+    {
+      "id": "edit-003",
+      "label": "Chambers",
+      "kind": "text",
+      "value": "Chambers"
+    },
+    {
+      "id": "edit-003",
+      "label": "Link: Chambers",
+      "kind": "link",
+      "value": "index.html#book"
+    },
+    {
+      "id": "edit-004",
+      "label": "Learn",
+      "kind": "text",
+      "value": "Learn"
+    },
+    {
+      "id": "edit-004",
+      "label": "Link: Learn",
+      "kind": "link",
+      "value": "index.html#learn"
+    },
+    {
+      "id": "edit-005",
+      "label": "FAQ",
+      "kind": "text",
+      "value": "FAQ"
+    },
+    {
+      "id": "edit-005",
+      "label": "Link: FAQ",
+      "kind": "link",
+      "value": "index.html#faq"
+    },
+    {
+      "id": "edit-006",
+      "label": "Research",
+      "kind": "text",
+      "value": "Research"
+    },
+    {
+      "id": "edit-006",
+      "label": "Link: Research",
+      "kind": "link",
+      "value": "index.html#research"
+    },
+    {
+      "id": "edit-007",
+      "label": "Reviews",
+      "kind": "text",
+      "value": "Reviews"
+    },
+    {
+      "id": "edit-007",
+      "label": "Link: Reviews",
+      "kind": "link",
+      "value": "index.html#reviews"
+    },
+    {
+      "id": "edit-008",
+      "label": "Appointment",
+      "kind": "text",
+      "value": "Appointment"
+    },
+    {
+      "id": "edit-008",
+      "label": "Link: Appointment",
+      "kind": "link",
+      "value": "index.html#book"
+    },
+    {
+      "id": "edit-009",
+      "label": "Home",
+      "kind": "text",
+      "value": "Home"
+    },
+    {
+      "id": "edit-009",
+      "label": "Link: Home",
+      "kind": "link",
+      "value": "index.html"
+    },
+    {
+      "id": "edit-010",
+      "label": "Conditions & Services",
+      "kind": "text",
+      "value": "Conditions & Services"
+    },
+    {
+      "id": "edit-010",
+      "label": "Link: Conditions & Services",
+      "kind": "link",
+      "value": "index.html#care"
+    },
+    {
+      "id": "edit-011",
+      "label": "Menopause & Women's Endocrine Health",
+      "kind": "text",
+      "value": "Menopause & Women's Endocrine Health"
+    },
+    {
+      "id": "edit-012",
+      "label": "মেনোপজ ও নারীদের এন্ডোক্রাইন স্বাস্থ্য",
+      "kind": "text",
+      "value": "মেনোপজ ও নারীদের এন্ডোক্রাইন স্বাস্থ্য"
+    },
+    {
+      "id": "edit-013",
+      "label": "Support for menopausal symptoms and the hormonal, bone, and metabolic ",
+      "kind": "text",
+      "value": "Support for menopausal symptoms and the hormonal, bone, and metabolic changes that come with this life stage."
+    },
+    {
+      "id": "edit-014",
+      "label": "মেনোপজের লক্ষণ এবং এই জীবনপর্বে আসা হরমোনজনিত, হাড় ও মেটাবলিক পরিবর্ত",
+      "kind": "text",
+      "value": "মেনোপজের লক্ষণ এবং এই জীবনপর্বে আসা হরমোনজনিত, হাড় ও মেটাবলিক পরিবর্তনে সহায়তা।"
+    },
+    {
+      "id": "edit-015",
+      "label": "Menopause and midlife health",
+      "kind": "image",
+      "value": "assets/medical-menopause.svg"
+    },
+    {
+      "id": "edit-016",
+      "label": "Menopause and midlife health · Menopause is a normal life stage, but s",
+      "kind": "text",
+      "value": "Menopause and midlife health · Menopause is a normal life stage, but symptoms, early menopause and postmenopausal bleeding deserve appropriate assessment. Treatment is individualized."
+    },
+    {
+      "id": "edit-017",
+      "label": "মেনোপজ ও মধ্যবয়সী নারীর স্বাস্থ্য · মেনোপজ জীবনের স্বাভাবিক একটি পর্য",
+      "kind": "text",
+      "value": "মেনোপজ ও মধ্যবয়সী নারীর স্বাস্থ্য · মেনোপজ জীবনের স্বাভাবিক একটি পর্যায়। তবে তীব্র উপসর্গ, আগাম মেনোপজ ও মাসিক বন্ধ হওয়ার পর রক্তপাতের যথাযথ মূল্যায়ন জরুরি। চিকিৎসা ব্যক্তিভেদে নির্ধারিত হয়।"
+    },
+    {
+      "id": "edit-018",
+      "label": "What it is",
+      "kind": "text",
+      "value": "What it is"
+    },
+    {
+      "id": "edit-019",
+      "label": "এটি কী",
+      "kind": "text",
+      "value": "এটি কী"
+    },
+    {
+      "id": "edit-020",
+      "label": "Menopause is defined as 12 consecutive months without a menstrual peri",
+      "kind": "text",
+      "value": "Menopause is defined as 12 consecutive months without a menstrual period when there is no other cause. It most often occurs between ages 45 and 55 as ovarian hormone production declines."
+    },
+    {
+      "id": "edit-021",
+      "label": "অন্য কোনো কারণ না থাকলে টানা ১২ মাস মাসিক না হওয়াকে মেনোপজ বলা হয়। ড",
+      "kind": "text",
+      "value": "অন্য কোনো কারণ না থাকলে টানা ১২ মাস মাসিক না হওয়াকে মেনোপজ বলা হয়। ডিম্বাশয়ের হরমোন উৎপাদন কমে যাওয়ার কারণে এটি সাধারণত ৪৫-৫৫ বছর বয়সে ঘটে।"
+    },
+    {
+      "id": "edit-022",
+      "label": "It brings hormonal changes that can affect bone health, metabolism, an",
+      "kind": "text",
+      "value": "It brings hormonal changes that can affect bone health, metabolism, and day-to-day symptoms."
+    },
+    {
+      "id": "edit-023",
+      "label": "এটি এমন হরমোনজনিত পরিবর্তন নিয়ে আসে যা হাড়ের স্বাস্থ্য, বিপাক ও দৈনন",
+      "kind": "text",
+      "value": "এটি এমন হরমোনজনিত পরিবর্তন নিয়ে আসে যা হাড়ের স্বাস্থ্য, বিপাক ও দৈনন্দিন লক্ষণকে প্রভাবিত করতে পারে।"
+    },
+    {
+      "id": "edit-024",
+      "label": "VISUAL GUIDE",
+      "kind": "text",
+      "value": "VISUAL GUIDE"
+    },
+    {
+      "id": "edit-025",
+      "label": "চিত্রে সহজ ব্যাখ্যা",
+      "kind": "text",
+      "value": "চিত্রে সহজ ব্যাখ্যা"
+    },
+    {
+      "id": "edit-026",
+      "label": "The menopause transition",
+      "kind": "text",
+      "value": "The menopause transition"
+    },
+    {
+      "id": "edit-027",
+      "label": "মেনোপজের পরিবর্তন",
+      "kind": "text",
+      "value": "মেনোপজের পরিবর্তন"
+    },
+    {
+      "id": "edit-028",
+      "label": "Ovarian hormone levels change",
+      "kind": "text",
+      "value": "Ovarian hormone levels change"
+    },
+    {
+      "id": "edit-029",
+      "label": "ডিম্বাশয়ের হরমোনে পরিবর্তন",
+      "kind": "text",
+      "value": "ডিম্বাশয়ের হরমোনে পরিবর্তন"
+    },
+    {
+      "id": "edit-030",
+      "label": "Periods become irregular then stop",
+      "kind": "text",
+      "value": "Periods become irregular then stop"
+    },
+    {
+      "id": "edit-031",
+      "label": "মাসিক অনিয়মিত হয়ে বন্ধ হয়",
+      "kind": "text",
+      "value": "মাসিক অনিয়মিত হয়ে বন্ধ হয়"
+    },
+    {
+      "id": "edit-032",
+      "label": "Symptoms vary between individuals",
+      "kind": "text",
+      "value": "Symptoms vary between individuals"
+    },
+    {
+      "id": "edit-033",
+      "label": "উপসর্গ ব্যক্তি ভেদে ভিন্ন হয়",
+      "kind": "text",
+      "value": "উপসর্গ ব্যক্তি ভেদে ভিন্ন হয়"
+    },
+    {
+      "id": "edit-034",
+      "label": "Simplified illustration for patient education; not a diagnostic algori",
+      "kind": "text",
+      "value": "Simplified illustration for patient education; not a diagnostic algorithm."
+    },
+    {
+      "id": "edit-035",
+      "label": "রোগীকে সহজভাবে বোঝানোর চিত্র; এটি রোগ নির্ণয়ের নির্দেশিকা নয়।",
+      "kind": "text",
+      "value": "রোগীকে সহজভাবে বোঝানোর চিত্র; এটি রোগ নির্ণয়ের নির্দেশিকা নয়।"
+    },
+    {
+      "id": "edit-036",
+      "label": "A useful point to know",
+      "kind": "text",
+      "value": "A useful point to know"
+    },
+    {
+      "id": "edit-037",
+      "label": "জেনে রাখা জরুরি",
+      "kind": "text",
+      "value": "জেনে রাখা জরুরি"
+    },
+    {
+      "id": "edit-038",
+      "label": "Menopause is a normal life stage, but symptoms, early menopause and po",
+      "kind": "text",
+      "value": "Menopause is a normal life stage, but symptoms, early menopause and postmenopausal bleeding deserve appropriate assessment. Treatment is individualized."
+    },
+    {
+      "id": "edit-039",
+      "label": "মেনোপজ জীবনের স্বাভাবিক একটি পর্যায়। তবে তীব্র উপসর্গ, আগাম মেনোপজ ও ",
+      "kind": "text",
+      "value": "মেনোপজ জীবনের স্বাভাবিক একটি পর্যায়। তবে তীব্র উপসর্গ, আগাম মেনোপজ ও মাসিক বন্ধ হওয়ার পর রক্তপাতের যথাযথ মূল্যায়ন জরুরি। চিকিৎসা ব্যক্তিভেদে নির্ধারিত হয়।"
+    },
+    {
+      "id": "edit-040",
+      "label": "Common symptoms",
+      "kind": "text",
+      "value": "Common symptoms"
+    },
+    {
+      "id": "edit-041",
+      "label": "সাধারণ লক্ষণ",
+      "kind": "text",
+      "value": "সাধারণ লক্ষণ"
+    },
+    {
+      "id": "edit-042",
+      "label": "Hot flashes and night sweats",
+      "kind": "text",
+      "value": "Hot flashes and night sweats"
+    },
+    {
+      "id": "edit-043",
+      "label": "হট ফ্ল্যাশ ও রাতে ঘাম",
+      "kind": "text",
+      "value": "হট ফ্ল্যাশ ও রাতে ঘাম"
+    },
+    {
+      "id": "edit-044",
+      "label": "Irregular periods leading up to menopause",
+      "kind": "text",
+      "value": "Irregular periods leading up to menopause"
+    },
+    {
+      "id": "edit-045",
+      "label": "মেনোপজের আগে অনিয়মিত মাসিক",
+      "kind": "text",
+      "value": "মেনোপজের আগে অনিয়মিত মাসিক"
+    },
+    {
+      "id": "edit-046",
+      "label": "Mood changes and sleep disturbance",
+      "kind": "text",
+      "value": "Mood changes and sleep disturbance"
+    },
+    {
+      "id": "edit-047",
+      "label": "মেজাজ পরিবর্তন ও ঘুমের ব্যাঘাত",
+      "kind": "text",
+      "value": "মেজাজ পরিবর্তন ও ঘুমের ব্যাঘাত"
+    },
+    {
+      "id": "edit-048",
+      "label": "Vaginal dryness",
+      "kind": "text",
+      "value": "Vaginal dryness"
+    },
+    {
+      "id": "edit-049",
+      "label": "যোনিপথের শুষ্কতা",
+      "kind": "text",
+      "value": "যোনিপথের শুষ্কতা"
+    },
+    {
+      "id": "edit-050",
+      "label": "Longer-term bone loss and cholesterol changes",
+      "kind": "text",
+      "value": "Longer-term bone loss and cholesterol changes"
+    },
+    {
+      "id": "edit-051",
+      "label": "দীর্ঘমেয়াদী হাড় ক্ষয় ও কোলেস্টেরলের পরিবর্তন",
+      "kind": "text",
+      "value": "দীর্ঘমেয়াদী হাড় ক্ষয় ও কোলেস্টেরলের পরিবর্তন"
+    },
+    {
+      "id": "edit-052",
+      "label": "Important causes",
+      "kind": "text",
+      "value": "Important causes"
+    },
+    {
+      "id": "edit-053",
+      "label": "গুরুত্বপূর্ণ কারণ",
+      "kind": "text",
+      "value": "গুরুত্বপূর্ণ কারণ"
+    },
+    {
+      "id": "edit-054",
+      "label": "Natural ovarian aging is the main cause of menopause.",
+      "kind": "text",
+      "value": "Natural ovarian aging is the main cause of menopause."
+    },
+    {
+      "id": "edit-055",
+      "label": "ডিম্বাশয়ের স্বাভাবিক বার্ধক্যই মেনোপজের প্রধান কারণ।",
+      "kind": "text",
+      "value": "ডিম্বাশয়ের স্বাভাবিক বার্ধক্যই মেনোপজের প্রধান কারণ।"
+    },
+    {
+      "id": "edit-056",
+      "label": "Surgical removal of the ovaries or certain medical treatments, such as",
+      "kind": "text",
+      "value": "Surgical removal of the ovaries or certain medical treatments, such as chemotherapy, can cause earlier menopause."
+    },
+    {
+      "id": "edit-057",
+      "label": "ডিম্বাশয় অস্ত্রোপচারে অপসারণ বা কেমোথেরাপির মতো কিছু চিকিৎসা আগাম মেন",
+      "kind": "text",
+      "value": "ডিম্বাশয় অস্ত্রোপচারে অপসারণ বা কেমোথেরাপির মতো কিছু চিকিৎসা আগাম মেনোপজের কারণ হতে পারে।"
+    },
+    {
+      "id": "edit-058",
+      "label": "How it is evaluated",
+      "kind": "text",
+      "value": "How it is evaluated"
+    },
+    {
+      "id": "edit-059",
+      "label": "কীভাবে মূল্যায়ন করা হয়",
+      "kind": "text",
+      "value": "কীভাবে মূল্যায়ন করা হয়"
+    },
+    {
+      "id": "edit-060",
+      "label": "Diagnosis is usually based on age and symptom pattern rather than a si",
+      "kind": "text",
+      "value": "Diagnosis is usually based on age and symptom pattern rather than a single test."
+    },
+    {
+      "id": "edit-061",
+      "label": "নির্ণয় সাধারণত একক কোনো পরীক্ষার পরিবর্তে বয়স ও লক্ষণের ধরনের উপর ভি",
+      "kind": "text",
+      "value": "নির্ণয় সাধারণত একক কোনো পরীক্ষার পরিবর্তে বয়স ও লক্ষণের ধরনের উপর ভিত্তি করে করা হয়।"
+    },
+    {
+      "id": "edit-062",
+      "label": "Hormone blood tests are sometimes used, especially for earlier-than-ex",
+      "kind": "text",
+      "value": "Hormone blood tests are sometimes used, especially for earlier-than-expected menopause, and bone density or metabolic screening is often recommended around this time."
+    },
+    {
+      "id": "edit-063",
+      "label": "কখনো কখনো হরমোন রক্ত পরীক্ষা ব্যবহার করা হয়, বিশেষত প্রত্যাশার চেয়ে ",
+      "kind": "text",
+      "value": "কখনো কখনো হরমোন রক্ত পরীক্ষা ব্যবহার করা হয়, বিশেষত প্রত্যাশার চেয়ে আগে মেনোপজ হলে, এবং এই সময় প্রায়ই হাড়ের ঘনত্ব বা মেটাবলিক স্ক্রিনিং সুপারিশ করা হয়।"
+    },
+    {
+      "id": "edit-064",
+      "label": "Common treatment approaches",
+      "kind": "text",
+      "value": "Common treatment approaches"
+    },
+    {
+      "id": "edit-065",
+      "label": "সাধারণ চিকিৎসার পদ্ধতি",
+      "kind": "text",
+      "value": "সাধারণ চিকিৎসার পদ্ধতি"
+    },
+    {
+      "id": "edit-066",
+      "label": "Lifestyle measures can help manage many symptoms day to day.",
+      "kind": "text",
+      "value": "Lifestyle measures can help manage many symptoms day to day."
+    },
+    {
+      "id": "edit-067",
+      "label": "দৈনন্দিন অনেক লক্ষণ পরিচালনায় জীবনযাপনে পরিবর্তন সাহায্য করতে পারে।",
+      "kind": "text",
+      "value": "দৈনন্দিন অনেক লক্ষণ পরিচালনায় জীবনযাপনে পরিবর্তন সাহায্য করতে পারে।"
+    },
+    {
+      "id": "edit-068",
+      "label": "Hormone therapy is an option for appropriate candidates, after an indi",
+      "kind": "text",
+      "value": "Hormone therapy is an option for appropriate candidates, after an individualized discussion of risks and benefits."
+    },
+    {
+      "id": "edit-069",
+      "label": "ঝুঁকি ও উপকারিতার পৃথক আলোচনার পর উপযুক্ত ক্ষেত্রে হরমোন থেরাপি একটি ব",
+      "kind": "text",
+      "value": "ঝুঁকি ও উপকারিতার পৃথক আলোচনার পর উপযুক্ত ক্ষেত্রে হরমোন থেরাপি একটি বিকল্প।"
+    },
+    {
+      "id": "edit-070",
+      "label": "Non-hormonal medication options are available for hot flashes when nee",
+      "kind": "text",
+      "value": "Non-hormonal medication options are available for hot flashes when needed."
+    },
+    {
+      "id": "edit-071",
+      "label": "প্রয়োজনে হট ফ্ল্যাশের জন্য নন-হরমোনাল ওষুধের বিকল্পও পাওয়া যায়।",
+      "kind": "text",
+      "value": "প্রয়োজনে হট ফ্ল্যাশের জন্য নন-হরমোনাল ওষুধের বিকল্পও পাওয়া যায়।"
+    },
+    {
+      "id": "edit-072",
+      "label": "Bone health and cardiovascular risk are monitored going forward, since",
+      "kind": "text",
+      "value": "Bone health and cardiovascular risk are monitored going forward, since both change after menopause."
+    },
+    {
+      "id": "edit-073",
+      "label": "মেনোপজের পর হাড়ের স্বাস্থ্য ও হৃদরোগের ঝুঁকি উভয়ই পরিবর্তিত হয় বলে ",
+      "kind": "text",
+      "value": "মেনোপজের পর হাড়ের স্বাস্থ্য ও হৃদরোগের ঝুঁকি উভয়ই পরিবর্তিত হয় বলে ভবিষ্যতে এগুলো পর্যবেক্ষণ করা হয়।"
+    },
+    {
+      "id": "edit-074",
+      "label": "When to see a specialist",
+      "kind": "text",
+      "value": "When to see a specialist"
+    },
+    {
+      "id": "edit-075",
+      "label": "কখন বিশেষজ্ঞ দেখাবেন",
+      "kind": "text",
+      "value": "কখন বিশেষজ্ঞ দেখাবেন"
+    },
+    {
+      "id": "edit-076",
+      "label": "Menopause before age 40 (premature menopause)",
+      "kind": "text",
+      "value": "Menopause before age 40 (premature menopause)"
+    },
+    {
+      "id": "edit-077",
+      "label": "৪০ বছর বয়সের আগে মেনোপজ (আগাম মেনোপজ)",
+      "kind": "text",
+      "value": "৪০ বছর বয়সের আগে মেনোপজ (আগাম মেনোপজ)"
+    },
+    {
+      "id": "edit-078",
+      "label": "Severe symptoms affecting daily life",
+      "kind": "text",
+      "value": "Severe symptoms affecting daily life"
+    },
+    {
+      "id": "edit-079",
+      "label": "দৈনন্দিন জীবনকে প্রভাবিত করা তীব্র লক্ষণ",
+      "kind": "text",
+      "value": "দৈনন্দিন জীবনকে প্রভাবিত করা তীব্র লক্ষণ"
+    },
+    {
+      "id": "edit-080",
+      "label": "Considering hormone therapy",
+      "kind": "text",
+      "value": "Considering hormone therapy"
+    },
+    {
+      "id": "edit-081",
+      "label": "হরমোন থেরাপি বিবেচনা করলে",
+      "kind": "text",
+      "value": "হরমোন থেরাপি বিবেচনা করলে"
+    },
+    {
+      "id": "edit-082",
+      "label": "Bone or metabolic concerns around this transition",
+      "kind": "text",
+      "value": "Bone or metabolic concerns around this transition"
+    },
+    {
+      "id": "edit-083",
+      "label": "এই পরিবর্তনকালে হাড় বা মেটাবলিক উদ্বেগ",
+      "kind": "text",
+      "value": "এই পরিবর্তনকালে হাড় বা মেটাবলিক উদ্বেগ"
+    },
+    {
+      "id": "edit-084",
+      "label": "Need a specialist assessment?",
+      "kind": "text",
+      "value": "Need a specialist assessment?"
+    },
+    {
+      "id": "edit-085",
+      "label": "বিশেষজ্ঞ মূল্যায়ন দরকার?",
+      "kind": "text",
+      "value": "বিশেষজ্ঞ মূল্যায়ন দরকার?"
+    },
+    {
+      "id": "edit-086",
+      "label": "Book an appointment in Dhaka, Chattogram, Patiya, or online.",
+      "kind": "text",
+      "value": "Book an appointment in Dhaka, Chattogram, Patiya, or online."
+    },
+    {
+      "id": "edit-087",
+      "label": "ঢাকা, চট্টগ্রাম, পটিয়া অথবা অনলাইনে অ্যাপয়েন্টমেন্ট নিন।",
+      "kind": "text",
+      "value": "ঢাকা, চট্টগ্রাম, পটিয়া অথবা অনলাইনে অ্যাপয়েন্টমেন্ট নিন।"
+    },
+    {
+      "id": "edit-088",
+      "label": "Book Appointment",
+      "kind": "text",
+      "value": "Book Appointment"
+    },
+    {
+      "id": "edit-089",
+      "label": "অ্যাপয়েন্টমেন্ট নিন",
+      "kind": "text",
+      "value": "অ্যাপয়েন্টমেন্ট নিন"
+    },
+    {
+      "id": "edit-090",
+      "label": "Frequently asked questions",
+      "kind": "text",
+      "value": "Frequently asked questions"
+    },
+    {
+      "id": "edit-091",
+      "label": "প্রায়শই জিজ্ঞাসিত প্রশ্ন",
+      "kind": "text",
+      "value": "প্রায়শই জিজ্ঞাসিত প্রশ্ন"
+    },
+    {
+      "id": "edit-092",
+      "label": "At what age does menopause usually happen?",
+      "kind": "text",
+      "value": "At what age does menopause usually happen?"
+    },
+    {
+      "id": "edit-093",
+      "label": "সাধারণত কোন বয়সে মেনোপজ হয়?",
+      "kind": "text",
+      "value": "সাধারণত কোন বয়সে মেনোপজ হয়?"
+    },
+    {
+      "id": "edit-094",
+      "label": "Most commonly between 45 and 55, with the average around 50-51, though",
+      "kind": "text",
+      "value": "Most commonly between 45 and 55, with the average around 50-51, though it varies between individuals."
+    },
+    {
+      "id": "edit-095",
+      "label": "সাধারণত ৪৫ থেকে ৫৫ বছরের মধ্যে, গড়ে প্রায় ৫০-৫১ বছর, তবে ব্যক্তিভেদে",
+      "kind": "text",
+      "value": "সাধারণত ৪৫ থেকে ৫৫ বছরের মধ্যে, গড়ে প্রায় ৫০-৫১ বছর, তবে ব্যক্তিভেদে এটি ভিন্ন হতে পারে।"
+    },
+    {
+      "id": "edit-096",
+      "label": "Is hormone therapy safe?",
+      "kind": "text",
+      "value": "Is hormone therapy safe?"
+    },
+    {
+      "id": "edit-097",
+      "label": "হরমোন থেরাপি কি নিরাপদ?",
+      "kind": "text",
+      "value": "হরমোন থেরাপি কি নিরাপদ?"
+    },
+    {
+      "id": "edit-098",
+      "label": "It can be appropriate and effective for many women, but the decision d",
+      "kind": "text",
+      "value": "It can be appropriate and effective for many women, but the decision depends on individual health history and risks, discussed with your doctor."
+    },
+    {
+      "id": "edit-099",
+      "label": "এটি অনেক নারীর জন্য উপযুক্ত ও কার্যকর হতে পারে, তবে সিদ্ধান্তটি ব্যক্ত",
+      "kind": "text",
+      "value": "এটি অনেক নারীর জন্য উপযুক্ত ও কার্যকর হতে পারে, তবে সিদ্ধান্তটি ব্যক্তিগত স্বাস্থ্য ইতিহাস ও ঝুঁকির উপর নির্ভর করে, যা চিকিৎসকের সাথে আলোচনা করে নেওয়া উচিত।"
+    },
+    {
+      "id": "edit-100",
+      "label": "Why does bone health matter at menopause?",
+      "kind": "text",
+      "value": "Why does bone health matter at menopause?"
+    },
+    {
+      "id": "edit-101",
+      "label": "মেনোপজে হাড়ের স্বাস্থ্য কেন গুরুত্বপূর্ণ?",
+      "kind": "text",
+      "value": "মেনোপজে হাড়ের স্বাস্থ্য কেন গুরুত্বপূর্ণ?"
+    },
+    {
+      "id": "edit-102",
+      "label": "Declining estrogen speeds up bone loss, so this is a common time to as",
+      "kind": "text",
+      "value": "Declining estrogen speeds up bone loss, so this is a common time to assess fracture risk and start preventive measures."
+    },
+    {
+      "id": "edit-103",
+      "label": "ইস্ট্রোজেন কমে যাওয়ায় হাড় ক্ষয় দ্রুত হয়, তাই এই সময়টি ফ্র্যাকচার",
+      "kind": "text",
+      "value": "ইস্ট্রোজেন কমে যাওয়ায় হাড় ক্ষয় দ্রুত হয়, তাই এই সময়টি ফ্র্যাকচার ঝুঁকি মূল্যায়ন ও প্রতিরোধমূলক ব্যবস্থা শুরুর উপযুক্ত সময়।"
+    },
+    {
+      "id": "edit-104",
+      "label": "Can periods stopping before 40 be normal?",
+      "kind": "text",
+      "value": "Can periods stopping before 40 be normal?"
+    },
+    {
+      "id": "edit-105",
+      "label": "৪০ বছরের আগে মাসিক বন্ধ হওয়া কি স্বাভাবিক হতে পারে?",
+      "kind": "text",
+      "value": "৪০ বছরের আগে মাসিক বন্ধ হওয়া কি স্বাভাবিক হতে পারে?"
+    },
+    {
+      "id": "edit-106",
+      "label": "This is called premature menopause and isn't typical; it's worth evalu",
+      "kind": "text",
+      "value": "This is called premature menopause and isn't typical; it's worth evaluating since it has different health implications than natural menopause."
+    },
+    {
+      "id": "edit-107",
+      "label": "একে আগাম মেনোপজ বলা হয় এবং এটি সাধারণ নয়; এটি মূল্যায়ন করা উচিত, কা",
+      "kind": "text",
+      "value": "একে আগাম মেনোপজ বলা হয় এবং এটি সাধারণ নয়; এটি মূল্যায়ন করা উচিত, কারণ স্বাভাবিক মেনোপজের চেয়ে এর স্বাস্থ্যগত প্রভাব ভিন্ন।"
+    },
+    {
+      "id": "edit-108",
+      "label": "Do all women need treatment for menopause symptoms?",
+      "kind": "text",
+      "value": "Do all women need treatment for menopause symptoms?"
+    },
+    {
+      "id": "edit-109",
+      "label": "মেনোপজের লক্ষণের জন্য কি সব নারীর চিকিৎসা প্রয়োজন?",
+      "kind": "text",
+      "value": "মেনোপজের লক্ষণের জন্য কি সব নারীর চিকিৎসা প্রয়োজন?"
+    },
+    {
+      "id": "edit-110",
+      "label": "No, some manage well with lifestyle changes alone; treatment is based ",
+      "kind": "text",
+      "value": "No, some manage well with lifestyle changes alone; treatment is based on how much symptoms affect your life and your individual risk factors."
+    },
+    {
+      "id": "edit-111",
+      "label": "না, কেউ কেউ শুধু জীবনযাপনে পরিবর্তন করেই ভালোভাবে সামলে নেন; চিকিৎসা ন",
+      "kind": "text",
+      "value": "না, কেউ কেউ শুধু জীবনযাপনে পরিবর্তন করেই ভালোভাবে সামলে নেন; চিকিৎসা নির্ভর করে লক্ষণ আপনার জীবনকে কতটা প্রভাবিত করছে এবং আপনার ব্যক্তিগত ঝুঁকির উপর।"
+    },
+    {
+      "id": "edit-112",
+      "label": "Related",
+      "kind": "text",
+      "value": "Related"
+    },
+    {
+      "id": "edit-113",
+      "label": "সম্পর্কিত",
+      "kind": "text",
+      "value": "সম্পর্কিত"
+    },
+    {
+      "id": "edit-114",
+      "label": "Bone, Calcium & Vitamin D",
+      "kind": "text",
+      "value": "Bone, Calcium & Vitamin D"
+    },
+    {
+      "id": "edit-115",
+      "label": "হাড়, ক্যালসিয়াম ও ভিটামিন ডি",
+      "kind": "text",
+      "value": "হাড়, ক্যালসিয়াম ও ভিটামিন ডি"
+    },
+    {
+      "id": "edit-116",
+      "label": "PCOS & Reproductive Endocrinology",
+      "kind": "text",
+      "value": "PCOS & Reproductive Endocrinology"
+    },
+    {
+      "id": "edit-117",
+      "label": "পিসিওএস ও প্রজনন এন্ডোক্রাইনোলজি",
+      "kind": "text",
+      "value": "পিসিওএস ও প্রজনন এন্ডোক্রাইনোলজি"
+    },
+    {
+      "id": "edit-118",
+      "label": "Patient Education",
+      "kind": "text",
+      "value": "Patient Education"
+    },
+    {
+      "id": "edit-119",
+      "label": "রোগী শিক্ষা",
+      "kind": "text",
+      "value": "রোগী শিক্ষা"
+    },
+    {
+      "id": "edit-120",
+      "label": "Medical author/reviewer: Dr. Mohammad Aminul Islam, Endocrinologist. L",
+      "kind": "text",
+      "value": "Medical author/reviewer: Dr. Mohammad Aminul Islam, Endocrinologist. Last updated: November 2026."
+    },
+    {
+      "id": "edit-121",
+      "label": "চিকিৎসা লেখক/পর্যালোচক: ডা. মোহাম্মদ আমিনুল ইসলাম, এন্ডোক্রাইনোলজিস্ট।",
+      "kind": "text",
+      "value": "চিকিৎসা লেখক/পর্যালোচক: ডা. মোহাম্মদ আমিনুল ইসলাম, এন্ডোক্রাইনোলজিস্ট। সর্বশেষ হালনাগাদ: নভেম্বর ২০২৬।"
+    },
+    {
+      "id": "edit-122",
+      "label": "VISUAL GUIDE",
+      "kind": "text",
+      "value": "VISUAL GUIDE"
+    },
+    {
+      "id": "edit-123",
+      "label": "চিত্রে সহজ ব্যাখ্যা",
+      "kind": "text",
+      "value": "চিত্রে সহজ ব্যাখ্যা"
+    },
+    {
+      "id": "edit-124",
+      "label": "Health after menopause",
+      "kind": "text",
+      "value": "Health after menopause"
+    },
+    {
+      "id": "edit-125",
+      "label": "মেনোপজের পর স্বাস্থ্য",
+      "kind": "text",
+      "value": "মেনোপজের পর স্বাস্থ্য"
+    },
+    {
+      "id": "edit-126",
+      "label": "Discuss troublesome symptoms",
+      "kind": "text",
+      "value": "Discuss troublesome symptoms"
+    },
+    {
+      "id": "edit-127",
+      "label": "কষ্টদায়ক উপসর্গ নিয়ে আলোচনা",
+      "kind": "text",
+      "value": "কষ্টদায়ক উপসর্গ নিয়ে আলোচনা"
+    },
+    {
+      "id": "edit-128",
+      "label": "Consider bone and heart health",
+      "kind": "text",
+      "value": "Consider bone and heart health"
+    },
+    {
+      "id": "edit-129",
+      "label": "হাড় ও হৃদ্‌যন্ত্রের স্বাস্থ্য বিবেচনা",
+      "kind": "text",
+      "value": "হাড় ও হৃদ্‌যন্ত্রের স্বাস্থ্য বিবেচনা"
+    },
+    {
+      "id": "edit-130",
+      "label": "Individualise treatment decisions",
+      "kind": "text",
+      "value": "Individualise treatment decisions"
+    },
+    {
+      "id": "edit-131",
+      "label": "ব্যক্তিভিত্তিক চিকিৎসার সিদ্ধান্ত",
+      "kind": "text",
+      "value": "ব্যক্তিভিত্তিক চিকিৎসার সিদ্ধান্ত"
+    },
+    {
+      "id": "edit-132",
+      "label": "Simplified illustration for patient education; not a diagnostic algori",
+      "kind": "text",
+      "value": "Simplified illustration for patient education; not a diagnostic algorithm."
+    },
+    {
+      "id": "edit-133",
+      "label": "রোগীকে সহজভাবে বোঝানোর চিত্র; এটি রোগ নির্ণয়ের নির্দেশিকা নয়।",
+      "kind": "text",
+      "value": "রোগীকে সহজভাবে বোঝানোর চিত্র; এটি রোগ নির্ণয়ের নির্দেশিকা নয়।"
+    },
+    {
+      "id": "edit-134",
+      "label": "Further reading",
+      "kind": "text",
+      "value": "Further reading"
+    },
+    {
+      "id": "edit-135",
+      "label": "Clinical references",
+      "kind": "text",
+      "value": "Clinical references"
+    },
+    {
+      "id": "edit-136",
+      "label": "The information on this page is intended for education and should be a",
+      "kind": "text",
+      "value": "The information on this page is intended for education and should be applied in the context of an individual clinical assessment. Guidelines may be updated."
+    },
+    {
+      "id": "edit-137",
+      "label": "NICE. Menopause: identification and management (NG23).",
+      "kind": "text",
+      "value": "NICE. Menopause: identification and management (NG23)."
+    },
+    {
+      "id": "edit-137",
+      "label": "Link: NICE. Menopause: identification and management (NG",
+      "kind": "link",
+      "value": "https://www.nice.org.uk/guidance/ng23"
+    },
+    {
+      "id": "edit-138",
+      "label": "The Menopause Society. 2022 Hormone Therapy Position Statement. Menopa",
+      "kind": "text",
+      "value": "The Menopause Society. 2022 Hormone Therapy Position Statement. Menopause. 2022."
+    },
+    {
+      "id": "edit-138",
+      "label": "Link: The Menopause Society. 2022 Hormone Therapy Positi",
+      "kind": "link",
+      "value": "https://doi.org/10.1097/GME.0000000000002028"
+    },
+    {
+      "id": "edit-139",
+      "label": "ESHRE Guideline: Evidence-based guideline on premature ovarian insuffi",
+      "kind": "text",
+      "value": "ESHRE Guideline: Evidence-based guideline on premature ovarian insufficiency."
+    },
+    {
+      "id": "edit-139",
+      "label": "Link: ESHRE Guideline: Evidence-based guideline on prema",
+      "kind": "link",
+      "value": "https://www.eshre.eu/Guidelines-and-Legal/Guidelines/Guideline-for-POI"
+    },
+    {
+      "id": "edit-140",
+      "label": "Website content updated: 11 November 2026. General education only; ind",
+      "kind": "text",
+      "value": "Website content updated: 11 November 2026. General education only; individual care varies."
+    },
+    {
+      "id": "edit-141",
+      "label": "ওয়েবসাইটের তথ্য হালনাগাদ: ১১ নভেম্বর ২০২৬। এটি সাধারণ স্বাস্থ্যশিক্ষা",
+      "kind": "text",
+      "value": "ওয়েবসাইটের তথ্য হালনাগাদ: ১১ নভেম্বর ২০২৬। এটি সাধারণ স্বাস্থ্যশিক্ষার জন্য; চিকিৎসা রোগীভেদে ভিন্ন হতে পারে।"
+    },
+    {
+      "id": "edit-142",
+      "label": "You may also find useful",
+      "kind": "text",
+      "value": "You may also find useful"
+    },
+    {
+      "id": "edit-143",
+      "label": "আরও যে বিষয়গুলো জানতে পারেন",
+      "kind": "text",
+      "value": "আরও যে বিষয়গুলো জানতে পারেন"
+    },
+    {
+      "id": "edit-144",
+      "label": "Osteoporosis and bone health",
+      "kind": "text",
+      "value": "Osteoporosis and bone health"
+    },
+    {
+      "id": "edit-145",
+      "label": "অস্টিওপরোসিস ও হাড়ের স্বাস্থ্য",
+      "kind": "text",
+      "value": "অস্টিওপরোসিস ও হাড়ের স্বাস্থ্য"
+    },
+    {
+      "id": "edit-146",
+      "label": "Metabolic health",
+      "kind": "text",
+      "value": "Metabolic health"
+    },
+    {
+      "id": "edit-147",
+      "label": "মেটাবলিক স্বাস্থ্য",
+      "kind": "text",
+      "value": "মেটাবলিক স্বাস্থ্য"
+    },
+    {
+      "id": "edit-148",
+      "label": "Facebook",
+      "kind": "text",
+      "value": "Facebook"
+    },
+    {
+      "id": "edit-148",
+      "label": "Link: Facebook",
+      "kind": "link",
+      "value": "https://www.facebook.com/share/16Ec8BLWMN2/"
+    },
+    {
+      "id": "edit-149",
+      "label": "LinkedIn",
+      "kind": "text",
+      "value": "LinkedIn"
+    },
+    {
+      "id": "edit-149",
+      "label": "Link: LinkedIn",
+      "kind": "link",
+      "value": "https://www.linkedin.com/in/mohammad-aminul-islam-686091294"
+    },
+    {
+      "id": "edit-150",
+      "label": "Google reviews",
+      "kind": "text",
+      "value": "Google reviews"
+    },
+    {
+      "id": "edit-150",
+      "label": "Link: Google reviews",
+      "kind": "link",
+      "value": "https://share.google/inh2LFFBDtszWjzEe"
+    },
+    {
+      "id": "edit-151",
+      "label": "Call",
+      "kind": "text",
+      "value": "Call"
+    },
+    {
+      "id": "edit-152",
+      "label": "কল",
+      "kind": "text",
+      "value": "কল"
+    },
+    {
+      "id": "edit-153",
+      "label": "Chambers",
+      "kind": "text",
+      "value": "Chambers"
+    },
+    {
+      "id": "edit-154",
+      "label": "চেম্বার",
+      "kind": "text",
+      "value": "চেম্বার"
+    }
+  ]
+}

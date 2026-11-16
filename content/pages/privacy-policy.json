@@ -1,0 +1,334 @@
+{
+  "items": [
+    {
+      "id": "edit-001",
+      "label": "About",
+      "kind": "text",
+      "value": "About"
+    },
+    {
+      "id": "edit-001",
+      "label": "Link: About",
+      "kind": "link",
+      "value": "index.html#about"
+    },
+    {
+      "id": "edit-002",
+      "label": "Conditions",
+      "kind": "text",
+      "value": "Conditions"
+    },
+    {
+      "id": "edit-002",
+      "label": "Link: Conditions",
+      "kind": "link",
+      "value": "index.html#care"
+    },
+    {
+      "id": "edit-003",
+      "label": "Chambers",
+      "kind": "text",
+      "value": "Chambers"
+    },
+    {
+      "id": "edit-003",
+      "label": "Link: Chambers",
+      "kind": "link",
+      "value": "index.html#book"
+    },
+    {
+      "id": "edit-004",
+      "label": "Learn",
+      "kind": "text",
+      "value": "Learn"
+    },
+    {
+      "id": "edit-004",
+      "label": "Link: Learn",
+      "kind": "link",
+      "value": "index.html#learn"
+    },
+    {
+      "id": "edit-005",
+      "label": "FAQ",
+      "kind": "text",
+      "value": "FAQ"
+    },
+    {
+      "id": "edit-005",
+      "label": "Link: FAQ",
+      "kind": "link",
+      "value": "index.html#faq"
+    },
+    {
+      "id": "edit-006",
+      "label": "Research",
+      "kind": "text",
+      "value": "Research"
+    },
+    {
+      "id": "edit-006",
+      "label": "Link: Research",
+      "kind": "link",
+      "value": "index.html#research"
+    },
+    {
+      "id": "edit-007",
+      "label": "Reviews",
+      "kind": "text",
+      "value": "Reviews"
+    },
+    {
+      "id": "edit-007",
+      "label": "Link: Reviews",
+      "kind": "link",
+      "value": "index.html#reviews"
+    },
+    {
+      "id": "edit-008",
+      "label": "Appointment",
+      "kind": "text",
+      "value": "Appointment"
+    },
+    {
+      "id": "edit-008",
+      "label": "Link: Appointment",
+      "kind": "link",
+      "value": "index.html#book"
+    },
+    {
+      "id": "edit-009",
+      "label": "Home",
+      "kind": "text",
+      "value": "Home"
+    },
+    {
+      "id": "edit-009",
+      "label": "Link: Home",
+      "kind": "link",
+      "value": "index.html"
+    },
+    {
+      "id": "edit-010",
+      "label": "Privacy Policy",
+      "kind": "text",
+      "value": "Privacy Policy"
+    },
+    {
+      "id": "edit-011",
+      "label": "This website is run by Dr. Mohammad Aminul Islam to share information ",
+      "kind": "text",
+      "value": "This website is run by Dr. Mohammad Aminul Islam to share information about his practice and to help patients reach him. This page explains what happens with your information when you use the site."
+    },
+    {
+      "id": "edit-012",
+      "label": "এই ওয়েবসাইটটি ডা. মোহাম্মদ আমিনুল ইসলাম তাঁর প্র্যাকটিস সম্পর্কে তথ্য",
+      "kind": "text",
+      "value": "এই ওয়েবসাইটটি ডা. মোহাম্মদ আমিনুল ইসলাম তাঁর প্র্যাকটিস সম্পর্কে তথ্য জানাতে এবং রোগীদের তাঁর সাথে যোগাযোগে সাহায্য করতে পরিচালনা করেন। এই পাতায় ওয়েবসাইট ব্যবহারের সময় আপনার তথ্যের ক্ষেত্রে কী হয় তা ব্যাখ্যা করা হয়েছে।"
+    },
+    {
+      "id": "edit-013",
+      "label": "What this site does not collect",
+      "kind": "text",
+      "value": "What this site does not collect"
+    },
+    {
+      "id": "edit-014",
+      "label": "এই ওয়েবসাইট যা সংগ্রহ করে না",
+      "kind": "text",
+      "value": "এই ওয়েবসাইট যা সংগ্রহ করে না"
+    },
+    {
+      "id": "edit-015",
+      "label": "This site has no contact form that stores your information on a server",
+      "kind": "text",
+      "value": "This site has no contact form that stores your information on a server. The enquiry page simply opens your own email or WhatsApp app."
+    },
+    {
+      "id": "edit-016",
+      "label": "এই ওয়েবসাইটে এমন কোনো কন্টাক্ট ফর্ম নেই যা আপনার তথ্য সার্ভারে সংরক্ষ",
+      "kind": "text",
+      "value": "এই ওয়েবসাইটে এমন কোনো কন্টাক্ট ফর্ম নেই যা আপনার তথ্য সার্ভারে সংরক্ষণ করে। যোগাযোগ পাতা শুধু আপনার নিজের ইমেইল বা হোয়াটসঅ্যাপ অ্যাপ খোলে।"
+    },
+    {
+      "id": "edit-017",
+      "label": "No medical records, prescriptions, or health information are collected",
+      "kind": "text",
+      "value": "No medical records, prescriptions, or health information are collected, stored, or processed through this website."
+    },
+    {
+      "id": "edit-018",
+      "label": "এই ওয়েবসাইটের মাধ্যমে কোনো মেডিকেল রেকর্ড, প্রেসক্রিপশন বা স্বাস্থ্য ",
+      "kind": "text",
+      "value": "এই ওয়েবসাইটের মাধ্যমে কোনো মেডিকেল রেকর্ড, প্রেসক্রিপশন বা স্বাস্থ্য তথ্য সংগ্রহ, সংরক্ষণ বা প্রক্রিয়া করা হয় না।"
+    },
+    {
+      "id": "edit-019",
+      "label": "Please do not send personal medical details by email or WhatsApp throu",
+      "kind": "text",
+      "value": "Please do not send personal medical details by email or WhatsApp through this site; discuss those directly with the doctor at your appointment."
+    },
+    {
+      "id": "edit-020",
+      "label": "অনুগ্রহ করে এই ওয়েবসাইটের মাধ্যমে ইমেইল বা হোয়াটসঅ্যাপে ব্যক্তিগত চি",
+      "kind": "text",
+      "value": "অনুগ্রহ করে এই ওয়েবসাইটের মাধ্যমে ইমেইল বা হোয়াটসঅ্যাপে ব্যক্তিগত চিকিৎসা তথ্য পাঠাবেন না; অ্যাপয়েন্টমেন্টের সময় সরাসরি চিকিৎসকের সাথে এসব আলোচনা করুন।"
+    },
+    {
+      "id": "edit-021",
+      "label": "Website analytics",
+      "kind": "text",
+      "value": "Website analytics"
+    },
+    {
+      "id": "edit-022",
+      "label": "ওয়েবসাইট অ্যানালিটিক্স",
+      "kind": "text",
+      "value": "ওয়েবসাইট অ্যানালিটিক্স"
+    },
+    {
+      "id": "edit-023",
+      "label": "This site uses Cloudflare Web Analytics to understand overall visit nu",
+      "kind": "text",
+      "value": "This site uses Cloudflare Web Analytics to understand overall visit numbers and which pages are read. This tool does not use cookies and does not track you individually across other websites."
+    },
+    {
+      "id": "edit-024",
+      "label": "এই ওয়েবসাইটে সামগ্রিক ভিজিটর সংখ্যা ও কোন পাতা পড়া হচ্ছে তা বুঝতে Cl",
+      "kind": "text",
+      "value": "এই ওয়েবসাইটে সামগ্রিক ভিজিটর সংখ্যা ও কোন পাতা পড়া হচ্ছে তা বুঝতে Cloudflare Web Analytics ব্যবহার করা হয়। এই টুল কোনো কুকি ব্যবহার করে না এবং অন্য ওয়েবসাইটে আপনাকে আলাদাভাবে ট্র্যাক করে না।"
+    },
+    {
+      "id": "edit-025",
+      "label": "Links to other platforms",
+      "kind": "text",
+      "value": "Links to other platforms"
+    },
+    {
+      "id": "edit-026",
+      "label": "অন্যান্য প্ল্যাটফর্মের লিংক",
+      "kind": "text",
+      "value": "অন্যান্য প্ল্যাটফর্মের লিংক"
+    },
+    {
+      "id": "edit-027",
+      "label": "This site links to Doctime, Shukhee, WhatsApp, Google, Facebook, and L",
+      "kind": "text",
+      "value": "This site links to Doctime, Shukhee, WhatsApp, Google, Facebook, and LinkedIn for booking and contact purposes. Each of these has its own separate privacy policy, which applies once you leave this site."
+    },
+    {
+      "id": "edit-028",
+      "label": "এই ওয়েবসাইটে বুকিং ও যোগাযোগের জন্য Doctime, Shukhee, WhatsApp, Googl",
+      "kind": "text",
+      "value": "এই ওয়েবসাইটে বুকিং ও যোগাযোগের জন্য Doctime, Shukhee, WhatsApp, Google, Facebook ও LinkedIn-এর লিংক আছে। আপনি এই সাইট ছাড়লে তাদের নিজস্ব আলাদা প্রাইভেসি পলিসি প্রযোজ্য হবে।"
+    },
+    {
+      "id": "edit-029",
+      "label": "Questions",
+      "kind": "text",
+      "value": "Questions"
+    },
+    {
+      "id": "edit-030",
+      "label": "প্রশ্ন",
+      "kind": "text",
+      "value": "প্রশ্ন"
+    },
+    {
+      "id": "edit-031",
+      "label": "If you have a question about this policy, contact",
+      "kind": "text",
+      "value": "If you have a question about this policy, contact"
+    },
+    {
+      "id": "edit-032",
+      "label": "এই নীতি সম্পর্কে কোনো প্রশ্ন থাকলে যোগাযোগ করুন",
+      "kind": "text",
+      "value": "এই নীতি সম্পর্কে কোনো প্রশ্ন থাকলে যোগাযোগ করুন"
+    },
+    {
+      "id": "edit-033",
+      "label": "draminul46@gmail.com",
+      "kind": "text",
+      "value": "draminul46@gmail.com"
+    },
+    {
+      "id": "edit-033",
+      "label": "Link: draminul46@gmail.com",
+      "kind": "link",
+      "value": "mailto:draminul46@gmail.com"
+    },
+    {
+      "id": "edit-034",
+      "label": "Last updated: October 2026.",
+      "kind": "text",
+      "value": "Last updated: October 2026."
+    },
+    {
+      "id": "edit-035",
+      "label": "সর্বশেষ হালনাগাদ: অক্টোবর ২০২৬।",
+      "kind": "text",
+      "value": "সর্বশেষ হালনাগাদ: অক্টোবর ২০২৬।"
+    },
+    {
+      "id": "edit-036",
+      "label": "Facebook",
+      "kind": "text",
+      "value": "Facebook"
+    },
+    {
+      "id": "edit-036",
+      "label": "Link: Facebook",
+      "kind": "link",
+      "value": "https://www.facebook.com/share/16Ec8BLWMN2/"
+    },
+    {
+      "id": "edit-037",
+      "label": "LinkedIn",
+      "kind": "text",
+      "value": "LinkedIn"
+    },
+    {
+      "id": "edit-037",
+      "label": "Link: LinkedIn",
+      "kind": "link",
+      "value": "https://www.linkedin.com/in/mohammad-aminul-islam-686091294"
+    },
+    {
+      "id": "edit-038",
+      "label": "Google reviews",
+      "kind": "text",
+      "value": "Google reviews"
+    },
+    {
+      "id": "edit-038",
+      "label": "Link: Google reviews",
+      "kind": "link",
+      "value": "https://share.google/inh2LFFBDtszWjzEe"
+    },
+    {
+      "id": "edit-039",
+      "label": "Call",
+      "kind": "text",
+      "value": "Call"
+    },
+    {
+      "id": "edit-040",
+      "label": "কল",
+      "kind": "text",
+      "value": "কল"
+    },
+    {
+      "id": "edit-041",
+      "label": "Chambers",
+      "kind": "text",
+      "value": "Chambers"
+    },
+    {
+      "id": "edit-042",
+      "label": "চেম্বার",
+      "kind": "text",
+      "value": "চেম্বার"
+    }
+  ]
+}

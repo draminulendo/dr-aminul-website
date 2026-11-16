@@ -1,0 +1,1012 @@
+{
+  "items": [
+    {
+      "id": "edit-001",
+      "label": "About",
+      "kind": "text",
+      "value": "About"
+    },
+    {
+      "id": "edit-001",
+      "label": "Link: About",
+      "kind": "link",
+      "value": "index.html#about"
+    },
+    {
+      "id": "edit-002",
+      "label": "Conditions",
+      "kind": "text",
+      "value": "Conditions"
+    },
+    {
+      "id": "edit-002",
+      "label": "Link: Conditions",
+      "kind": "link",
+      "value": "index.html#care"
+    },
+    {
+      "id": "edit-003",
+      "label": "Chambers",
+      "kind": "text",
+      "value": "Chambers"
+    },
+    {
+      "id": "edit-003",
+      "label": "Link: Chambers",
+      "kind": "link",
+      "value": "index.html#book"
+    },
+    {
+      "id": "edit-004",
+      "label": "Learn",
+      "kind": "text",
+      "value": "Learn"
+    },
+    {
+      "id": "edit-004",
+      "label": "Link: Learn",
+      "kind": "link",
+      "value": "index.html#learn"
+    },
+    {
+      "id": "edit-005",
+      "label": "FAQ",
+      "kind": "text",
+      "value": "FAQ"
+    },
+    {
+      "id": "edit-005",
+      "label": "Link: FAQ",
+      "kind": "link",
+      "value": "index.html#faq"
+    },
+    {
+      "id": "edit-006",
+      "label": "Research",
+      "kind": "text",
+      "value": "Research"
+    },
+    {
+      "id": "edit-006",
+      "label": "Link: Research",
+      "kind": "link",
+      "value": "index.html#research"
+    },
+    {
+      "id": "edit-007",
+      "label": "Reviews",
+      "kind": "text",
+      "value": "Reviews"
+    },
+    {
+      "id": "edit-007",
+      "label": "Link: Reviews",
+      "kind": "link",
+      "value": "index.html#reviews"
+    },
+    {
+      "id": "edit-008",
+      "label": "Appointment",
+      "kind": "text",
+      "value": "Appointment"
+    },
+    {
+      "id": "edit-008",
+      "label": "Link: Appointment",
+      "kind": "link",
+      "value": "index.html#book"
+    },
+    {
+      "id": "edit-009",
+      "label": "Home",
+      "kind": "text",
+      "value": "Home"
+    },
+    {
+      "id": "edit-009",
+      "label": "Link: Home",
+      "kind": "link",
+      "value": "index.html"
+    },
+    {
+      "id": "edit-010",
+      "label": "Conditions & Services",
+      "kind": "text",
+      "value": "Conditions & Services"
+    },
+    {
+      "id": "edit-010",
+      "label": "Link: Conditions & Services",
+      "kind": "link",
+      "value": "index.html#care"
+    },
+    {
+      "id": "edit-011",
+      "label": "Obesity & Metabolic Health",
+      "kind": "text",
+      "value": "Obesity & Metabolic Health"
+    },
+    {
+      "id": "edit-012",
+      "label": "স্থূলতা ও মেটাবলিক স্বাস্থ্য",
+      "kind": "text",
+      "value": "স্থূলতা ও মেটাবলিক স্বাস্থ্য"
+    },
+    {
+      "id": "edit-013",
+      "label": "Evidence-based weight management and care for metabolic syndrome, fatt",
+      "kind": "text",
+      "value": "Evidence-based weight management and care for metabolic syndrome, fatty liver, and related conditions."
+    },
+    {
+      "id": "edit-014",
+      "label": "প্রমাণভিত্তিক ওজন ব্যবস্থাপনা এবং মেটাবলিক সিনড্রোম, ফ্যাটি লিভার ও সম",
+      "kind": "text",
+      "value": "প্রমাণভিত্তিক ওজন ব্যবস্থাপনা এবং মেটাবলিক সিনড্রোম, ফ্যাটি লিভার ও সম্পর্কিত সমস্যার চিকিৎসা।"
+    },
+    {
+      "id": "edit-015",
+      "label": "Metabolic health and fatty liver",
+      "kind": "image",
+      "value": "assets/medical-obesity.svg"
+    },
+    {
+      "id": "edit-016",
+      "label": "Metabolic health and fatty liver · Weight management is not about blam",
+      "kind": "text",
+      "value": "Metabolic health and fatty liver · Weight management is not about blame or willpower alone. A sustainable plan considers nutrition, activity, sleep, medicines, medical conditions and personal circumstances."
+    },
+    {
+      "id": "edit-017",
+      "label": "মেটাবলিক স্বাস্থ্য ও ফ্যাটি লিভার · ওজন নিয়ন্ত্রণ শুধু ইচ্ছাশক্তি বা ",
+      "kind": "text",
+      "value": "মেটাবলিক স্বাস্থ্য ও ফ্যাটি লিভার · ওজন নিয়ন্ত্রণ শুধু ইচ্ছাশক্তি বা দোষারোপের বিষয় নয়। টেকসই পরিকল্পনায় খাবার, শারীরিক কার্যকলাপ, ঘুম, ওষুধ, অন্যান্য রোগ ও ব্যক্তিগত বাস্তবতা বিবেচনা করা হয়।"
+    },
+    {
+      "id": "edit-018",
+      "label": "What it is",
+      "kind": "text",
+      "value": "What it is"
+    },
+    {
+      "id": "edit-019",
+      "label": "এটি কী",
+      "kind": "text",
+      "value": "এটি কী"
+    },
+    {
+      "id": "edit-020",
+      "label": "Obesity is a chronic, relapsing disease in which excess body fat can i",
+      "kind": "text",
+      "value": "Obesity is a chronic, relapsing disease in which excess body fat can impair health. It often occurs alongside high blood pressure, abnormal cholesterol, dysglycaemia and fatty liver. These conditions may cluster as metabolic syndrome."
+    },
+    {
+      "id": "edit-021",
+      "label": "স্থূলতা একটি দীর্ঘমেয়াদি ও পুনরাবৃত্তিপ্রবণ রোগ, যেখানে অতিরিক্ত শরীর",
+      "kind": "text",
+      "value": "স্থূলতা একটি দীর্ঘমেয়াদি ও পুনরাবৃত্তিপ্রবণ রোগ, যেখানে অতিরিক্ত শরীরের চর্বি স্বাস্থ্যের ক্ষতি করতে পারে। এর সঙ্গে উচ্চ রক্তচাপ, অস্বাভাবিক কোলেস্টেরল, রক্তে গ্লুকোজের সমস্যা ও ফ্যাটি লিভার থাকতে পারে। এসব সমস্যা একসঙ্গে থাকলে তাকে মেটাবলিক সিনড্রোম বলা হতে পারে।"
+    },
+    {
+      "id": "edit-022",
+      "label": "VISUAL GUIDE",
+      "kind": "text",
+      "value": "VISUAL GUIDE"
+    },
+    {
+      "id": "edit-023",
+      "label": "চিত্রে সহজ ব্যাখ্যা",
+      "kind": "text",
+      "value": "চিত্রে সহজ ব্যাখ্যা"
+    },
+    {
+      "id": "edit-024",
+      "label": "Factors affecting body weight",
+      "kind": "text",
+      "value": "Factors affecting body weight"
+    },
+    {
+      "id": "edit-025",
+      "label": "শরীরের ওজনকে প্রভাবিত করে",
+      "kind": "text",
+      "value": "শরীরের ওজনকে প্রভাবিত করে"
+    },
+    {
+      "id": "edit-026",
+      "label": "Appetite and hormonal signals",
+      "kind": "text",
+      "value": "Appetite and hormonal signals"
+    },
+    {
+      "id": "edit-027",
+      "label": "ক্ষুধা ও হরমোনের সংকেত",
+      "kind": "text",
+      "value": "ক্ষুধা ও হরমোনের সংকেত"
+    },
+    {
+      "id": "edit-028",
+      "label": "Food, activity and sleep",
+      "kind": "text",
+      "value": "Food, activity and sleep"
+    },
+    {
+      "id": "edit-029",
+      "label": "খাবার, শারীরিক পরিশ্রম ও ঘুম",
+      "kind": "text",
+      "value": "খাবার, শারীরিক পরিশ্রম ও ঘুম"
+    },
+    {
+      "id": "edit-030",
+      "label": "Medicines and health conditions",
+      "kind": "text",
+      "value": "Medicines and health conditions"
+    },
+    {
+      "id": "edit-031",
+      "label": "ওষুধ ও অন্যান্য রোগ",
+      "kind": "text",
+      "value": "ওষুধ ও অন্যান্য রোগ"
+    },
+    {
+      "id": "edit-032",
+      "label": "Simplified illustration for patient education; not a diagnostic algori",
+      "kind": "text",
+      "value": "Simplified illustration for patient education; not a diagnostic algorithm."
+    },
+    {
+      "id": "edit-033",
+      "label": "রোগীকে সহজভাবে বোঝানোর চিত্র; এটি রোগ নির্ণয়ের নির্দেশিকা নয়।",
+      "kind": "text",
+      "value": "রোগীকে সহজভাবে বোঝানোর চিত্র; এটি রোগ নির্ণয়ের নির্দেশিকা নয়।"
+    },
+    {
+      "id": "edit-034",
+      "label": "A useful point to know",
+      "kind": "text",
+      "value": "A useful point to know"
+    },
+    {
+      "id": "edit-035",
+      "label": "জেনে রাখা জরুরি",
+      "kind": "text",
+      "value": "জেনে রাখা জরুরি"
+    },
+    {
+      "id": "edit-036",
+      "label": "Weight management is not about blame or willpower alone. A sustainable",
+      "kind": "text",
+      "value": "Weight management is not about blame or willpower alone. A sustainable plan considers nutrition, activity, sleep, medicines, medical conditions and personal circumstances."
+    },
+    {
+      "id": "edit-037",
+      "label": "ওজন নিয়ন্ত্রণ শুধু ইচ্ছাশক্তি বা দোষারোপের বিষয় নয়। টেকসই পরিকল্পনা",
+      "kind": "text",
+      "value": "ওজন নিয়ন্ত্রণ শুধু ইচ্ছাশক্তি বা দোষারোপের বিষয় নয়। টেকসই পরিকল্পনায় খাবার, শারীরিক কার্যকলাপ, ঘুম, ওষুধ, অন্যান্য রোগ ও ব্যক্তিগত বাস্তবতা বিবেচনা করা হয়।"
+    },
+    {
+      "id": "edit-038",
+      "label": "Common symptoms",
+      "kind": "text",
+      "value": "Common symptoms"
+    },
+    {
+      "id": "edit-039",
+      "label": "সাধারণ লক্ষণ",
+      "kind": "text",
+      "value": "সাধারণ লক্ষণ"
+    },
+    {
+      "id": "edit-040",
+      "label": "Gradual weight gain, especially around the waist",
+      "kind": "text",
+      "value": "Gradual weight gain, especially around the waist"
+    },
+    {
+      "id": "edit-041",
+      "label": "ধীরে ধীরে ওজন বৃদ্ধি, বিশেষত কোমরের চারপাশে",
+      "kind": "text",
+      "value": "ধীরে ধীরে ওজন বৃদ্ধি, বিশেষত কোমরের চারপাশে"
+    },
+    {
+      "id": "edit-042",
+      "label": "Tiredness",
+      "kind": "text",
+      "value": "Tiredness"
+    },
+    {
+      "id": "edit-043",
+      "label": "ক্লান্তি",
+      "kind": "text",
+      "value": "ক্লান্তি"
+    },
+    {
+      "id": "edit-044",
+      "label": "Breathlessness on exertion",
+      "kind": "text",
+      "value": "Breathlessness on exertion"
+    },
+    {
+      "id": "edit-045",
+      "label": "পরিশ্রমে শ্বাসকষ্ট",
+      "kind": "text",
+      "value": "পরিশ্রমে শ্বাসকষ্ট"
+    },
+    {
+      "id": "edit-046",
+      "label": "Snoring",
+      "kind": "text",
+      "value": "Snoring"
+    },
+    {
+      "id": "edit-047",
+      "label": "নাক ডাকা",
+      "kind": "text",
+      "value": "নাক ডাকা"
+    },
+    {
+      "id": "edit-048",
+      "label": "Darkened skin folds (neck, underarms), suggesting insulin resistance",
+      "kind": "text",
+      "value": "Darkened skin folds (neck, underarms), suggesting insulin resistance"
+    },
+    {
+      "id": "edit-049",
+      "label": "গলা ও বগলের ত্বক কালচে হওয়া, যা ইনসুলিন প্রতিরোধের ইঙ্গিত দেয়",
+      "kind": "text",
+      "value": "গলা ও বগলের ত্বক কালচে হওয়া, যা ইনসুলিন প্রতিরোধের ইঙ্গিত দেয়"
+    },
+    {
+      "id": "edit-050",
+      "label": "Important causes",
+      "kind": "text",
+      "value": "Important causes"
+    },
+    {
+      "id": "edit-051",
+      "label": "গুরুত্বপূর্ণ কারণ",
+      "kind": "text",
+      "value": "গুরুত্বপূর্ণ কারণ"
+    },
+    {
+      "id": "edit-052",
+      "label": "A combination of genetics, diet, physical activity levels, sleep, stre",
+      "kind": "text",
+      "value": "A combination of genetics, diet, physical activity levels, sleep, stress, and certain medications contributes to obesity."
+    },
+    {
+      "id": "edit-053",
+      "label": "জিনগত কারণ, খাদ্যাভ্যাস, শারীরিক কার্যকলাপ, ঘুম, মানসিক চাপ ও কিছু ওষু",
+      "kind": "text",
+      "value": "জিনগত কারণ, খাদ্যাভ্যাস, শারীরিক কার্যকলাপ, ঘুম, মানসিক চাপ ও কিছু ওষুধের সমন্বয়ে স্থূলতা হয়।"
+    },
+    {
+      "id": "edit-054",
+      "label": "Some hormonal conditions, such as thyroid disorders, PCOS, or Cushing'",
+      "kind": "text",
+      "value": "Some hormonal conditions, such as thyroid disorders, PCOS, or Cushing's syndrome, can also contribute to weight gain."
+    },
+    {
+      "id": "edit-055",
+      "label": "থাইরয়েড সমস্যা, পিসিওএস বা কুশিং সিনড্রোমের মতো কিছু হরমোনজনিত রোগও ও",
+      "kind": "text",
+      "value": "থাইরয়েড সমস্যা, পিসিওএস বা কুশিং সিনড্রোমের মতো কিছু হরমোনজনিত রোগও ওজন বৃদ্ধিতে অবদান রাখতে পারে।"
+    },
+    {
+      "id": "edit-056",
+      "label": "How it is evaluated",
+      "kind": "text",
+      "value": "How it is evaluated"
+    },
+    {
+      "id": "edit-057",
+      "label": "কীভাবে মূল্যায়ন করা হয়",
+      "kind": "text",
+      "value": "কীভাবে মূল্যায়ন করা হয়"
+    },
+    {
+      "id": "edit-058",
+      "label": "Assessment includes weight/BMI and waist circumference, blood pressure",
+      "kind": "text",
+      "value": "Assessment includes weight/BMI and waist circumference, blood pressure, fasting glucose/HbA1c, and a lipid profile."
+    },
+    {
+      "id": "edit-059",
+      "label": "মূল্যায়নে ওজন/বিএমআই ও কোমরের মাপ, রক্তচাপ, ফাস্টিং গ্লুকোজ/HbA1c এবং",
+      "kind": "text",
+      "value": "মূল্যায়নে ওজন/বিএমআই ও কোমরের মাপ, রক্তচাপ, ফাস্টিং গ্লুকোজ/HbA1c এবং লিপিড প্রোফাইল অন্তর্ভুক্ত থাকে।"
+    },
+    {
+      "id": "edit-060",
+      "label": "Liver function and fatty liver are also assessed, along with screening",
+      "kind": "text",
+      "value": "Liver function and fatty liver are also assessed, along with screening for underlying hormonal causes when suspected."
+    },
+    {
+      "id": "edit-061",
+      "label": "লিভারের কার্যকারিতা ও ফ্যাটি লিভারও মূল্যায়ন করা হয়, এবং সন্দেহ হলে ",
+      "kind": "text",
+      "value": "লিভারের কার্যকারিতা ও ফ্যাটি লিভারও মূল্যায়ন করা হয়, এবং সন্দেহ হলে অন্তর্নিহিত হরমোনজনিত কারণও পরীক্ষা করা হয়।"
+    },
+    {
+      "id": "edit-062",
+      "label": "Common treatment approaches",
+      "kind": "text",
+      "value": "Common treatment approaches"
+    },
+    {
+      "id": "edit-063",
+      "label": "সাধারণ চিকিৎসার পদ্ধতি",
+      "kind": "text",
+      "value": "সাধারণ চিকিৎসার পদ্ধতি"
+    },
+    {
+      "id": "edit-064",
+      "label": "Structured lifestyle change — diet quality, portion control, regular a",
+      "kind": "text",
+      "value": "Structured lifestyle change — diet quality, portion control, regular activity, and better sleep — is the foundation of care."
+    },
+    {
+      "id": "edit-065",
+      "label": "সুগঠিত জীবনযাপন পরিবর্তন — খাদ্যের গুণমান, পরিমাণ নিয়ন্ত্রণ, নিয়মিত ",
+      "kind": "text",
+      "value": "সুগঠিত জীবনযাপন পরিবর্তন — খাদ্যের গুণমান, পরিমাণ নিয়ন্ত্রণ, নিয়মিত কার্যকলাপ ও ভালো ঘুম — চিকিৎসার ভিত্তি।"
+    },
+    {
+      "id": "edit-066",
+      "label": "Medications for weight or associated conditions may be used when appro",
+      "kind": "text",
+      "value": "Medications for weight or associated conditions may be used when appropriate, under medical supervision."
+    },
+    {
+      "id": "edit-067",
+      "label": "উপযুক্ত ক্ষেত্রে চিকিৎসকের তত্ত্বাবধানে ওজন বা সম্পর্কিত সমস্যার জন্য ",
+      "kind": "text",
+      "value": "উপযুক্ত ক্ষেত্রে চিকিৎসকের তত্ত্বাবধানে ওজন বা সম্পর্কিত সমস্যার জন্য ওষুধ ব্যবহার করা যেতে পারে।"
+    },
+    {
+      "id": "edit-068",
+      "label": "Bariatric surgery may be considered for selected patients after other ",
+      "kind": "text",
+      "value": "Bariatric surgery may be considered for selected patients after other approaches haven't achieved enough result."
+    },
+    {
+      "id": "edit-069",
+      "label": "অন্যান্য পদ্ধতিতে পর্যাপ্ত ফল না পেলে নির্বাচিত রোগীদের জন্য বেরিয়াট্",
+      "kind": "text",
+      "value": "অন্যান্য পদ্ধতিতে পর্যাপ্ত ফল না পেলে নির্বাচিত রোগীদের জন্য বেরিয়াট্রিক সার্জারি বিবেচনা করা যেতে পারে।"
+    },
+    {
+      "id": "edit-070",
+      "label": "Any underlying hormonal cause of weight gain is identified and treated",
+      "kind": "text",
+      "value": "Any underlying hormonal cause of weight gain is identified and treated alongside general weight management."
+    },
+    {
+      "id": "edit-071",
+      "label": "ওজন বৃদ্ধির কোনো অন্তর্নিহিত হরমোনজনিত কারণ থাকলে তা সাধারণ ওজন ব্যবস্",
+      "kind": "text",
+      "value": "ওজন বৃদ্ধির কোনো অন্তর্নিহিত হরমোনজনিত কারণ থাকলে তা সাধারণ ওজন ব্যবস্থাপনার পাশাপাশি চিকিৎসা করা হয়।"
+    },
+    {
+      "id": "edit-072",
+      "label": "When to see a specialist",
+      "kind": "text",
+      "value": "When to see a specialist"
+    },
+    {
+      "id": "edit-073",
+      "label": "কখন বিশেষজ্ঞ দেখাবেন",
+      "kind": "text",
+      "value": "কখন বিশেষজ্ঞ দেখাবেন"
+    },
+    {
+      "id": "edit-074",
+      "label": "Difficulty losing weight despite consistent effort",
+      "kind": "text",
+      "value": "Difficulty losing weight despite consistent effort"
+    },
+    {
+      "id": "edit-075",
+      "label": "ধারাবাহিক চেষ্টার পরও ওজন কমাতে অসুবিধা",
+      "kind": "text",
+      "value": "ধারাবাহিক চেষ্টার পরও ওজন কমাতে অসুবিধা"
+    },
+    {
+      "id": "edit-076",
+      "label": "Weight gain with symptoms suggesting a hormonal cause",
+      "kind": "text",
+      "value": "Weight gain with symptoms suggesting a hormonal cause"
+    },
+    {
+      "id": "edit-077",
+      "label": "হরমোনজনিত কারণের ইঙ্গিতসহ ওজন বৃদ্ধি",
+      "kind": "text",
+      "value": "হরমোনজনিত কারণের ইঙ্গিতসহ ওজন বৃদ্ধি"
+    },
+    {
+      "id": "edit-078",
+      "label": "Obesity along with diabetes, high blood pressure, or fatty liver",
+      "kind": "text",
+      "value": "Obesity along with diabetes, high blood pressure, or fatty liver"
+    },
+    {
+      "id": "edit-079",
+      "label": "ডায়াবেটিস, উচ্চ রক্তচাপ বা ফ্যাটি লিভারসহ স্থূলতা",
+      "kind": "text",
+      "value": "ডায়াবেটিস, উচ্চ রক্তচাপ বা ফ্যাটি লিভারসহ স্থূলতা"
+    },
+    {
+      "id": "edit-080",
+      "label": "Considering medication or surgery for weight",
+      "kind": "text",
+      "value": "Considering medication or surgery for weight"
+    },
+    {
+      "id": "edit-081",
+      "label": "ওজনের জন্য ওষুধ বা সার্জারি বিবেচনা করলে",
+      "kind": "text",
+      "value": "ওজনের জন্য ওষুধ বা সার্জারি বিবেচনা করলে"
+    },
+    {
+      "id": "edit-082",
+      "label": "Need a specialist assessment?",
+      "kind": "text",
+      "value": "Need a specialist assessment?"
+    },
+    {
+      "id": "edit-083",
+      "label": "বিশেষজ্ঞ মূল্যায়ন দরকার?",
+      "kind": "text",
+      "value": "বিশেষজ্ঞ মূল্যায়ন দরকার?"
+    },
+    {
+      "id": "edit-084",
+      "label": "Book an appointment in Dhaka, Chattogram, Patiya, or online.",
+      "kind": "text",
+      "value": "Book an appointment in Dhaka, Chattogram, Patiya, or online."
+    },
+    {
+      "id": "edit-085",
+      "label": "ঢাকা, চট্টগ্রাম, পটিয়া অথবা অনলাইনে অ্যাপয়েন্টমেন্ট নিন।",
+      "kind": "text",
+      "value": "ঢাকা, চট্টগ্রাম, পটিয়া অথবা অনলাইনে অ্যাপয়েন্টমেন্ট নিন।"
+    },
+    {
+      "id": "edit-086",
+      "label": "Book Appointment",
+      "kind": "text",
+      "value": "Book Appointment"
+    },
+    {
+      "id": "edit-087",
+      "label": "অ্যাপয়েন্টমেন্ট নিন",
+      "kind": "text",
+      "value": "অ্যাপয়েন্টমেন্ট নিন"
+    },
+    {
+      "id": "edit-088",
+      "label": "Frequently asked questions",
+      "kind": "text",
+      "value": "Frequently asked questions"
+    },
+    {
+      "id": "edit-089",
+      "label": "প্রায়শই জিজ্ঞাসিত প্রশ্ন",
+      "kind": "text",
+      "value": "প্রায়শই জিজ্ঞাসিত প্রশ্ন"
+    },
+    {
+      "id": "edit-090",
+      "label": "Is obesity just about willpower?",
+      "kind": "text",
+      "value": "Is obesity just about willpower?"
+    },
+    {
+      "id": "edit-091",
+      "label": "স্থূলতা কি শুধু ইচ্ছাশক্তির অভাব?",
+      "kind": "text",
+      "value": "স্থূলতা কি শুধু ইচ্ছাশক্তির অভাব?"
+    },
+    {
+      "id": "edit-092",
+      "label": "No, it's a complex condition involving genetics, hormones, metabolism,",
+      "kind": "text",
+      "value": "No, it's a complex condition involving genetics, hormones, metabolism, and environment, not simply a lack of willpower."
+    },
+    {
+      "id": "edit-093",
+      "label": "না, এটি জিনগত কারণ, হরমোন, বিপাক ও পরিবেশের সমন্বয়ে গঠিত একটি জটিল সম",
+      "kind": "text",
+      "value": "না, এটি জিনগত কারণ, হরমোন, বিপাক ও পরিবেশের সমন্বয়ে গঠিত একটি জটিল সমস্যা, শুধু ইচ্ছাশক্তির অভাব নয়।"
+    },
+    {
+      "id": "edit-094",
+      "label": "What is fatty liver and is it linked to weight?",
+      "kind": "text",
+      "value": "What is fatty liver and is it linked to weight?"
+    },
+    {
+      "id": "edit-095",
+      "label": "ফ্যাটি লিভার কী এবং এটি কি ওজনের সাথে সম্পর্কিত?",
+      "kind": "text",
+      "value": "ফ্যাটি লিভার কী এবং এটি কি ওজনের সাথে সম্পর্কিত?"
+    },
+    {
+      "id": "edit-096",
+      "label": "Metabolic dysfunction-associated steatotic liver disease (MASLD) means",
+      "kind": "text",
+      "value": "Metabolic dysfunction-associated steatotic liver disease (MASLD) means excess fat in the liver in the presence of at least one cardiometabolic risk factor. Improvement is possible with sustained weight reduction and management of metabolic risks, but the stage of liver disease matters."
+    },
+    {
+      "id": "edit-097",
+      "label": "মেটাবলিক ডিসফাংশন-অ্যাসোসিয়েটেড স্টিয়াটোটিক লিভার ডিজিজ (MASLD) হলো ",
+      "kind": "text",
+      "value": "মেটাবলিক ডিসফাংশন-অ্যাসোসিয়েটেড স্টিয়াটোটিক লিভার ডিজিজ (MASLD) হলো লিভারে অতিরিক্ত চর্বি জমা, যার সঙ্গে অন্তত একটি কার্ডিওমেটাবলিক ঝুঁকি থাকে। ধারাবাহিকভাবে ওজন কমানো ও মেটাবলিক ঝুঁকি নিয়ন্ত্রণে উন্নতি হতে পারে, তবে লিভারের রোগের পর্যায় গুরুত্বপূর্ণ।"
+    },
+    {
+      "id": "edit-098",
+      "label": "How much weight loss actually helps?",
+      "kind": "text",
+      "value": "How much weight loss actually helps?"
+    },
+    {
+      "id": "edit-099",
+      "label": "কতটা ওজন কমালে প্রকৃতপক্ষে উপকার হয়?",
+      "kind": "text",
+      "value": "কতটা ওজন কমালে প্রকৃতপক্ষে উপকার হয়?"
+    },
+    {
+      "id": "edit-100",
+      "label": "Even 5-10% of body weight can meaningfully improve blood sugar, blood ",
+      "kind": "text",
+      "value": "Even 5-10% of body weight can meaningfully improve blood sugar, blood pressure, and liver fat."
+    },
+    {
+      "id": "edit-101",
+      "label": "শরীরের ওজনের মাত্র ৫-১০% কমালেও রক্তে শর্করা, রক্তচাপ ও লিভারের চর্বিত",
+      "kind": "text",
+      "value": "শরীরের ওজনের মাত্র ৫-১০% কমালেও রক্তে শর্করা, রক্তচাপ ও লিভারের চর্বিতে উল্লেখযোগ্য উন্নতি হতে পারে।"
+    },
+    {
+      "id": "edit-102",
+      "label": "Are weight-loss medications safe?",
+      "kind": "text",
+      "value": "Are weight-loss medications safe?"
+    },
+    {
+      "id": "edit-103",
+      "label": "ওজন কমানোর ওষুধ কি নিরাপদ?",
+      "kind": "text",
+      "value": "ওজন কমানোর ওষুধ কি নিরাপদ?"
+    },
+    {
+      "id": "edit-104",
+      "label": "Several are approved and can be effective for selected patients, but t",
+      "kind": "text",
+      "value": "Several are approved and can be effective for selected patients, but they need medical supervision and aren't right for everyone."
+    },
+    {
+      "id": "edit-105",
+      "label": "বেশ কিছু ওষুধ অনুমোদিত ও নির্বাচিত রোগীদের জন্য কার্যকর হতে পারে, তবে ",
+      "kind": "text",
+      "value": "বেশ কিছু ওষুধ অনুমোদিত ও নির্বাচিত রোগীদের জন্য কার্যকর হতে পারে, তবে এগুলোর জন্য চিকিৎসকের তত্ত্বাবধান প্রয়োজন এবং সবার জন্য উপযুক্ত নয়।"
+    },
+    {
+      "id": "edit-106",
+      "label": "When is weight-loss surgery considered?",
+      "kind": "text",
+      "value": "When is weight-loss surgery considered?"
+    },
+    {
+      "id": "edit-107",
+      "label": "কখন ওজন কমানোর সার্জারি বিবেচনা করা হয়?",
+      "kind": "text",
+      "value": "কখন ওজন কমানোর সার্জারি বিবেচনা করা হয়?"
+    },
+    {
+      "id": "edit-108",
+      "label": "Generally for people with a high BMI, especially with obesity-related ",
+      "kind": "text",
+      "value": "Generally for people with a high BMI, especially with obesity-related conditions, after other approaches haven't achieved enough result."
+    },
+    {
+      "id": "edit-109",
+      "label": "সাধারণত উচ্চ বিএমআইযুক্ত ব্যক্তিদের জন্য, বিশেষত স্থূলতা-সম্পর্কিত সমস",
+      "kind": "text",
+      "value": "সাধারণত উচ্চ বিএমআইযুক্ত ব্যক্তিদের জন্য, বিশেষত স্থূলতা-সম্পর্কিত সমস্যা থাকলে, অন্যান্য পদ্ধতিতে পর্যাপ্ত ফল না পাওয়ার পর।"
+    },
+    {
+      "id": "edit-110",
+      "label": "Related",
+      "kind": "text",
+      "value": "Related"
+    },
+    {
+      "id": "edit-111",
+      "label": "সম্পর্কিত",
+      "kind": "text",
+      "value": "সম্পর্কিত"
+    },
+    {
+      "id": "edit-112",
+      "label": "Diabetes Care",
+      "kind": "text",
+      "value": "Diabetes Care"
+    },
+    {
+      "id": "edit-113",
+      "label": "ডায়াবেটিস চিকিৎসা",
+      "kind": "text",
+      "value": "ডায়াবেটিস চিকিৎসা"
+    },
+    {
+      "id": "edit-114",
+      "label": "PCOS & Reproductive Endocrinology",
+      "kind": "text",
+      "value": "PCOS & Reproductive Endocrinology"
+    },
+    {
+      "id": "edit-115",
+      "label": "পিসিওএস ও প্রজনন এন্ডোক্রাইনোলজি",
+      "kind": "text",
+      "value": "পিসিওএস ও প্রজনন এন্ডোক্রাইনোলজি"
+    },
+    {
+      "id": "edit-116",
+      "label": "Patient Education",
+      "kind": "text",
+      "value": "Patient Education"
+    },
+    {
+      "id": "edit-117",
+      "label": "রোগী শিক্ষা",
+      "kind": "text",
+      "value": "রোগী শিক্ষা"
+    },
+    {
+      "id": "edit-118",
+      "label": "Medical author/reviewer: Dr. Mohammad Aminul Islam, Endocrinologist. L",
+      "kind": "text",
+      "value": "Medical author/reviewer: Dr. Mohammad Aminul Islam, Endocrinologist. Last updated: November 2026."
+    },
+    {
+      "id": "edit-119",
+      "label": "চিকিৎসা লেখক/পর্যালোচক: ডা. মোহাম্মদ আমিনুল ইসলাম, এন্ডোক্রাইনোলজিস্ট।",
+      "kind": "text",
+      "value": "চিকিৎসা লেখক/পর্যালোচক: ডা. মোহাম্মদ আমিনুল ইসলাম, এন্ডোক্রাইনোলজিস্ট। সর্বশেষ হালনাগাদ: নভেম্বর ২০২৬।"
+    },
+    {
+      "id": "edit-120",
+      "label": "VISUAL GUIDE",
+      "kind": "text",
+      "value": "VISUAL GUIDE"
+    },
+    {
+      "id": "edit-121",
+      "label": "চিত্রে সহজ ব্যাখ্যা",
+      "kind": "text",
+      "value": "চিত্রে সহজ ব্যাখ্যা"
+    },
+    {
+      "id": "edit-122",
+      "label": "Beyond the weighing scale",
+      "kind": "text",
+      "value": "Beyond the weighing scale"
+    },
+    {
+      "id": "edit-123",
+      "label": "শুধু ওজন নয়, আরও যা দেখা জরুরি",
+      "kind": "text",
+      "value": "শুধু ওজন নয়, আরও যা দেখা জরুরি"
+    },
+    {
+      "id": "edit-124",
+      "label": "Waist and metabolic health",
+      "kind": "text",
+      "value": "Waist and metabolic health"
+    },
+    {
+      "id": "edit-125",
+      "label": "কোমর ও বিপাকীয় স্বাস্থ্য",
+      "kind": "text",
+      "value": "কোমর ও বিপাকীয় স্বাস্থ্য"
+    },
+    {
+      "id": "edit-126",
+      "label": "Blood pressure and glucose",
+      "kind": "text",
+      "value": "Blood pressure and glucose"
+    },
+    {
+      "id": "edit-127",
+      "label": "রক্তচাপ ও গ্লুকোজ",
+      "kind": "text",
+      "value": "রক্তচাপ ও গ্লুকোজ"
+    },
+    {
+      "id": "edit-128",
+      "label": "Liver and cardiovascular risk",
+      "kind": "text",
+      "value": "Liver and cardiovascular risk"
+    },
+    {
+      "id": "edit-129",
+      "label": "লিভার ও হৃদ্‌রোগের ঝুঁকি",
+      "kind": "text",
+      "value": "লিভার ও হৃদ্‌রোগের ঝুঁকি"
+    },
+    {
+      "id": "edit-130",
+      "label": "Simplified illustration for patient education; not a diagnostic algori",
+      "kind": "text",
+      "value": "Simplified illustration for patient education; not a diagnostic algorithm."
+    },
+    {
+      "id": "edit-131",
+      "label": "রোগীকে সহজভাবে বোঝানোর চিত্র; এটি রোগ নির্ণয়ের নির্দেশিকা নয়।",
+      "kind": "text",
+      "value": "রোগীকে সহজভাবে বোঝানোর চিত্র; এটি রোগ নির্ণয়ের নির্দেশিকা নয়।"
+    },
+    {
+      "id": "edit-132",
+      "label": "Further reading",
+      "kind": "text",
+      "value": "Further reading"
+    },
+    {
+      "id": "edit-133",
+      "label": "Clinical references",
+      "kind": "text",
+      "value": "Clinical references"
+    },
+    {
+      "id": "edit-134",
+      "label": "The information on this page is intended for education and should be a",
+      "kind": "text",
+      "value": "The information on this page is intended for education and should be applied in the context of an individual clinical assessment. Guidelines may be updated."
+    },
+    {
+      "id": "edit-135",
+      "label": "American Diabetes Association. Standards of Care in Diabetes—2026.",
+      "kind": "text",
+      "value": "American Diabetes Association. Standards of Care in Diabetes—2026."
+    },
+    {
+      "id": "edit-135",
+      "label": "Link: American Diabetes Association. Standards of Care i",
+      "kind": "link",
+      "value": "https://diabetesjournals.org/care/issue"
+    },
+    {
+      "id": "edit-136",
+      "label": "EASL–EASD–EASO Clinical Practice Guidelines on the management of MASLD",
+      "kind": "text",
+      "value": "EASL–EASD–EASO Clinical Practice Guidelines on the management of MASLD. Journal of Hepatology. 2024."
+    },
+    {
+      "id": "edit-136",
+      "label": "Link: EASL–EASD–EASO Clinical Practice Guidelines on the",
+      "kind": "link",
+      "value": "https://doi.org/10.1016/j.jhep.2024.04.031"
+    },
+    {
+      "id": "edit-137",
+      "label": "AASLD Practice Guidance on the clinical assessment and management of N",
+      "kind": "text",
+      "value": "AASLD Practice Guidance on the clinical assessment and management of NAFLD."
+    },
+    {
+      "id": "edit-137",
+      "label": "Link: AASLD Practice Guidance on the clinical assessment",
+      "kind": "link",
+      "value": "https://doi.org/10.1097/HEP.0000000000000323"
+    },
+    {
+      "id": "edit-138",
+      "label": "Website content updated: 11 November 2026. General education only; ind",
+      "kind": "text",
+      "value": "Website content updated: 11 November 2026. General education only; individual care varies."
+    },
+    {
+      "id": "edit-139",
+      "label": "ওয়েবসাইটের তথ্য হালনাগাদ: ১১ নভেম্বর ২০২৬। এটি সাধারণ স্বাস্থ্যশিক্ষা",
+      "kind": "text",
+      "value": "ওয়েবসাইটের তথ্য হালনাগাদ: ১১ নভেম্বর ২০২৬। এটি সাধারণ স্বাস্থ্যশিক্ষার জন্য; চিকিৎসা রোগীভেদে ভিন্ন হতে পারে।"
+    },
+    {
+      "id": "edit-140",
+      "label": "You may also find useful",
+      "kind": "text",
+      "value": "You may also find useful"
+    },
+    {
+      "id": "edit-141",
+      "label": "আরও যে বিষয়গুলো জানতে পারেন",
+      "kind": "text",
+      "value": "আরও যে বিষয়গুলো জানতে পারেন"
+    },
+    {
+      "id": "edit-142",
+      "label": "Diabetes care",
+      "kind": "text",
+      "value": "Diabetes care"
+    },
+    {
+      "id": "edit-143",
+      "label": "ডায়াবেটিস চিকিৎসা",
+      "kind": "text",
+      "value": "ডায়াবেটিস চিকিৎসা"
+    },
+    {
+      "id": "edit-144",
+      "label": "PCOS",
+      "kind": "text",
+      "value": "PCOS"
+    },
+    {
+      "id": "edit-145",
+      "label": "পিসিওএস",
+      "kind": "text",
+      "value": "পিসিওএস"
+    },
+    {
+      "id": "edit-146",
+      "label": "Facebook",
+      "kind": "text",
+      "value": "Facebook"
+    },
+    {
+      "id": "edit-146",
+      "label": "Link: Facebook",
+      "kind": "link",
+      "value": "https://www.facebook.com/share/16Ec8BLWMN2/"
+    },
+    {
+      "id": "edit-147",
+      "label": "LinkedIn",
+      "kind": "text",
+      "value": "LinkedIn"
+    },
+    {
+      "id": "edit-147",
+      "label": "Link: LinkedIn",
+      "kind": "link",
+      "value": "https://www.linkedin.com/in/mohammad-aminul-islam-686091294"
+    },
+    {
+      "id": "edit-148",
+      "label": "Google reviews",
+      "kind": "text",
+      "value": "Google reviews"
+    },
+    {
+      "id": "edit-148",
+      "label": "Link: Google reviews",
+      "kind": "link",
+      "value": "https://share.google/inh2LFFBDtszWjzEe"
+    },
+    {
+      "id": "edit-149",
+      "label": "Call",
+      "kind": "text",
+      "value": "Call"
+    },
+    {
+      "id": "edit-150",
+      "label": "কল",
+      "kind": "text",
+      "value": "কল"
+    },
+    {
+      "id": "edit-151",
+      "label": "Chambers",
+      "kind": "text",
+      "value": "Chambers"
+    },
+    {
+      "id": "edit-152",
+      "label": "চেম্বার",
+      "kind": "text",
+      "value": "চেম্বার"
+    }
+  ]
+}

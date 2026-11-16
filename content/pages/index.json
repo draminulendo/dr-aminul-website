@@ -1,0 +1,1366 @@
+{
+  "items": [
+    {
+      "id": "edit-001",
+      "label": "About",
+      "kind": "text",
+      "value": "About"
+    },
+    {
+      "id": "edit-002",
+      "label": "আমার সম্পর্কে",
+      "kind": "text",
+      "value": "আমার সম্পর্কে"
+    },
+    {
+      "id": "edit-003",
+      "label": "Conditions",
+      "kind": "text",
+      "value": "Conditions"
+    },
+    {
+      "id": "edit-004",
+      "label": "Chambers",
+      "kind": "text",
+      "value": "Chambers"
+    },
+    {
+      "id": "edit-005",
+      "label": "চেম্বার",
+      "kind": "text",
+      "value": "চেম্বার"
+    },
+    {
+      "id": "edit-006",
+      "label": "Learn",
+      "kind": "text",
+      "value": "Learn"
+    },
+    {
+      "id": "edit-007",
+      "label": "জানুন",
+      "kind": "text",
+      "value": "জানুন"
+    },
+    {
+      "id": "edit-008",
+      "label": "FAQ",
+      "kind": "text",
+      "value": "FAQ"
+    },
+    {
+      "id": "edit-009",
+      "label": "Research",
+      "kind": "text",
+      "value": "Research"
+    },
+    {
+      "id": "edit-010",
+      "label": "গবেষণা",
+      "kind": "text",
+      "value": "গবেষণা"
+    },
+    {
+      "id": "edit-011",
+      "label": "Reviews",
+      "kind": "text",
+      "value": "Reviews"
+    },
+    {
+      "id": "edit-012",
+      "label": "রিভিউ",
+      "kind": "text",
+      "value": "রিভিউ"
+    },
+    {
+      "id": "edit-013",
+      "label": "Appointment",
+      "kind": "text",
+      "value": "Appointment"
+    },
+    {
+      "id": "edit-014",
+      "label": "অ্যাপয়েন্টমেন্ট",
+      "kind": "text",
+      "value": "অ্যাপয়েন্টমেন্ট"
+    },
+    {
+      "id": "edit-015",
+      "label": "Endocrinologist · Diabetes, Thyroid & Hormone Specialist",
+      "kind": "text",
+      "value": "Endocrinologist · Diabetes, Thyroid & Hormone Specialist"
+    },
+    {
+      "id": "edit-016",
+      "label": "এন্ডোক্রাইনোলজিস্ট · ডায়াবেটিস, থাইরয়েড ও হরমোন বিশেষজ্ঞ",
+      "kind": "text",
+      "value": "এন্ডোক্রাইনোলজিস্ট · ডায়াবেটিস, থাইরয়েড ও হরমোন বিশেষজ্ঞ"
+    },
+    {
+      "id": "edit-017",
+      "label": "Dr. Mohammad Aminul Islam",
+      "kind": "text",
+      "value": "Dr. Mohammad Aminul Islam"
+    },
+    {
+      "id": "edit-018",
+      "label": "ডা. মোহাম্মদ আমিনুল ইসলাম",
+      "kind": "text",
+      "value": "ডা. মোহাম্মদ আমিনুল ইসলাম"
+    },
+    {
+      "id": "edit-019",
+      "label": "★ 5.0 on Google",
+      "kind": "text",
+      "value": "★ 5.0 on Google"
+    },
+    {
+      "id": "edit-020",
+      "label": "★ গুগলে ৫.০",
+      "kind": "text",
+      "value": "★ গুগলে ৫.০"
+    },
+    {
+      "id": "edit-021",
+      "label": "Specialist care for diabetes, thyroid, hormonal, metabolic and endocri",
+      "kind": "text",
+      "value": "Specialist care for diabetes, thyroid, hormonal, metabolic and endocrine disorders."
+    },
+    {
+      "id": "edit-022",
+      "label": "Book Appointment",
+      "kind": "text",
+      "value": "Book Appointment"
+    },
+    {
+      "id": "edit-023",
+      "label": "Call",
+      "kind": "text",
+      "value": "Call"
+    },
+    {
+      "id": "edit-023",
+      "label": "Link: Call",
+      "kind": "link",
+      "value": "tel:+8809666642273"
+    },
+    {
+      "id": "edit-024",
+      "label": "WhatsApp",
+      "kind": "text",
+      "value": "WhatsApp"
+    },
+    {
+      "id": "edit-025",
+      "label": "হোয়াটসঅ্যাপ",
+      "kind": "text",
+      "value": "হোয়াটসঅ্যাপ"
+    },
+    {
+      "id": "edit-026",
+      "label": "Patient Education",
+      "kind": "text",
+      "value": "Patient Education"
+    },
+    {
+      "id": "edit-027",
+      "label": "📇 Save Contact",
+      "kind": "text",
+      "value": "📇 Save Contact"
+    },
+    {
+      "id": "edit-028",
+      "label": "📇 কন্টাক্ট সংরক্ষণ করুন",
+      "kind": "text",
+      "value": "📇 কন্টাক্ট সংরক্ষণ করুন"
+    },
+    {
+      "id": "edit-029",
+      "label": "Yrs experience",
+      "kind": "text",
+      "value": "Yrs experience"
+    },
+    {
+      "id": "edit-030",
+      "label": "বছরের অভিজ্ঞতা",
+      "kind": "text",
+      "value": "বছরের অভিজ্ঞতা"
+    },
+    {
+      "id": "edit-031",
+      "label": "Happy patients",
+      "kind": "text",
+      "value": "Happy patients"
+    },
+    {
+      "id": "edit-032",
+      "label": "সন্তুষ্ট রোগী",
+      "kind": "text",
+      "value": "সন্তুষ্ট রোগী"
+    },
+    {
+      "id": "edit-033",
+      "label": "Residency at BIRDEM",
+      "kind": "text",
+      "value": "Residency at BIRDEM"
+    },
+    {
+      "id": "edit-034",
+      "label": "বারডেমে রেসিডেন্সি",
+      "kind": "text",
+      "value": "বারডেমে রেসিডেন্সি"
+    },
+    {
+      "id": "edit-035",
+      "label": "Royal College, UK",
+      "kind": "text",
+      "value": "Royal College, UK"
+    },
+    {
+      "id": "edit-036",
+      "label": "রয়্যাল কলেজ, যুক্তরাজ্য",
+      "kind": "text",
+      "value": "রয়্যাল কলেজ, যুক্তরাজ্য"
+    },
+    {
+      "id": "edit-037",
+      "label": "Peer-reviewed papers",
+      "kind": "text",
+      "value": "Peer-reviewed papers"
+    },
+    {
+      "id": "edit-038",
+      "label": "পিয়ার-রিভিউড গবেষণাপত্র",
+      "kind": "text",
+      "value": "পিয়ার-রিভিউড গবেষণাপত্র"
+    },
+    {
+      "id": "edit-039",
+      "label": "Chambers & online",
+      "kind": "text",
+      "value": "Chambers & online"
+    },
+    {
+      "id": "edit-040",
+      "label": "চেম্বার ও অনলাইন",
+      "kind": "text",
+      "value": "চেম্বার ও অনলাইন"
+    },
+    {
+      "id": "edit-041",
+      "label": "About",
+      "kind": "text",
+      "value": "About"
+    },
+    {
+      "id": "edit-042",
+      "label": "আমার সম্পর্কে",
+      "kind": "text",
+      "value": "আমার সম্পর্কে"
+    },
+    {
+      "id": "edit-043",
+      "label": "Training and experience",
+      "kind": "text",
+      "value": "Training and experience"
+    },
+    {
+      "id": "edit-044",
+      "label": "প্রশিক্ষণ ও অভিজ্ঞতা",
+      "kind": "text",
+      "value": "প্রশিক্ষণ ও অভিজ্ঞতা"
+    },
+    {
+      "id": "edit-045",
+      "label": "Dr. Aminul completed a five-year residency in Endocrinology and Metabo",
+      "kind": "text",
+      "value": "Dr. Aminul completed a five-year residency in Endocrinology and Metabolism at BIRDEM, the world’s largest diabetes and endocrinology hospital, then earned his MD (2023) and the MRCP-SCE in Endocrinology & Diabetes from the Royal College of Physicians, UK. His MBBS is from Sylhet MAG Osmani Medical College (2013). He combines clinical practice with teaching and research, with eight original research articles and two case reports published in peer-reviewed journals."
+    },
+    {
+      "id": "edit-046",
+      "label": "ডা. আমিনুল বারডেমে (বিশ্বের বৃহত্তম ডায়াবেটিস ও এন্ডোক্রাইনোলজি হাসপা",
+      "kind": "text",
+      "value": "ডা. আমিনুল বারডেমে (বিশ্বের বৃহত্তম ডায়াবেটিস ও এন্ডোক্রাইনোলজি হাসপাতাল) এন্ডোক্রাইনোলজি ও মেটাবলিজমে পাঁচ বছরের রেসিডেন্সি সম্পন্ন করেন। এরপর ২০২৩ সালে এমডি এবং যুক্তরাজ্যের রয়্যাল কলেজ অফ ফিজিশিয়ান্স থেকে এন্ডোক্রাইনোলজি ও ডায়াবেটিসে MRCP-SCE অর্জন করেন। তাঁর এমবিবিএস সিলেট এমএজি ওসমানী মেডিকেল কলেজ থেকে (২০১৩)। চিকিৎসাসেবার পাশাপাশি তিনি শিক্ষকতা ও গবেষণায় যুক্ত; পিয়ার-রিভিউড জার্নালে তাঁর আটটি মূল গবেষণা প্রবন্ধ ও দুটি কেস রিপোর্ট প্রকাশিত হয়েছে।"
+    },
+    {
+      "id": "edit-047",
+      "label": "Member, Bangladesh Endocrine Society · Member, Association of Clinical",
+      "kind": "text",
+      "value": "Member, Bangladesh Endocrine Society · Member, Association of Clinical Endocrinologist & Diabetologist, Bangladesh (ACEDB)"
+    },
+    {
+      "id": "edit-048",
+      "label": "সদস্য, বাংলাদেশ এন্ডোক্রাইন সোসাইটি · সদস্য, অ্যাসোসিয়েশন অফ ক্লিনিক্",
+      "kind": "text",
+      "value": "সদস্য, বাংলাদেশ এন্ডোক্রাইন সোসাইটি · সদস্য, অ্যাসোসিয়েশন অফ ক্লিনিক্যাল এন্ডোক্রাইনোলজিস্ট অ্যান্ড ডায়াবেটোলজিস্ট, বাংলাদেশ (ACEDB)"
+    },
+    {
+      "id": "edit-049",
+      "label": "Consultant Endocrinologist",
+      "kind": "text",
+      "value": "Consultant Endocrinologist"
+    },
+    {
+      "id": "edit-050",
+      "label": "কনসালট্যান্ট এন্ডোক্রাইনোলজিস্ট",
+      "kind": "text",
+      "value": "কনসালট্যান্ট এন্ডোক্রাইনোলজিস্ট"
+    },
+    {
+      "id": "edit-051",
+      "label": "2025 – Present",
+      "kind": "text",
+      "value": "2025 – Present"
+    },
+    {
+      "id": "edit-052",
+      "label": "২০২৫ – বর্তমান",
+      "kind": "text",
+      "value": "২০২৫ – বর্তমান"
+    },
+    {
+      "id": "edit-053",
+      "label": "Consultant Endocrinologist",
+      "kind": "text",
+      "value": "Consultant Endocrinologist"
+    },
+    {
+      "id": "edit-054",
+      "label": "কনসালট্যান্ট এন্ডোক্রাইনোলজিস্ট",
+      "kind": "text",
+      "value": "কনসালট্যান্ট এন্ডোক্রাইনোলজিস্ট"
+    },
+    {
+      "id": "edit-055",
+      "label": "2024 – Present",
+      "kind": "text",
+      "value": "2024 – Present"
+    },
+    {
+      "id": "edit-056",
+      "label": "২০২৪ – বর্তমান",
+      "kind": "text",
+      "value": "২০২৪ – বর্তমান"
+    },
+    {
+      "id": "edit-057",
+      "label": "Medical Officer",
+      "kind": "text",
+      "value": "Medical Officer"
+    },
+    {
+      "id": "edit-058",
+      "label": "মেডিকেল অফিসার",
+      "kind": "text",
+      "value": "মেডিকেল অফিসার"
+    },
+    {
+      "id": "edit-059",
+      "label": "2017 – Present",
+      "kind": "text",
+      "value": "2017 – Present"
+    },
+    {
+      "id": "edit-060",
+      "label": "২০১৭ – বর্তমান",
+      "kind": "text",
+      "value": "২০১৭ – বর্তমান"
+    },
+    {
+      "id": "edit-061",
+      "label": "Resident, Endocrinology & Metabolism",
+      "kind": "text",
+      "value": "Resident, Endocrinology & Metabolism"
+    },
+    {
+      "id": "edit-062",
+      "label": "রেসিডেন্ট, এন্ডোক্রাইনোলজি ও মেটাবলিজম",
+      "kind": "text",
+      "value": "রেসিডেন্ট, এন্ডোক্রাইনোলজি ও মেটাবলিজম"
+    },
+    {
+      "id": "edit-063",
+      "label": "2016 – 2023",
+      "kind": "text",
+      "value": "2016 – 2023"
+    },
+    {
+      "id": "edit-064",
+      "label": "২০১৬ – ২০২৩",
+      "kind": "text",
+      "value": "২০১৬ – ২০২৩"
+    },
+    {
+      "id": "edit-065",
+      "label": "Your visit",
+      "kind": "text",
+      "value": "Your visit"
+    },
+    {
+      "id": "edit-066",
+      "label": "আপনার ভিজিট",
+      "kind": "text",
+      "value": "আপনার ভিজিট"
+    },
+    {
+      "id": "edit-067",
+      "label": "What to expect during your consultation",
+      "kind": "text",
+      "value": "What to expect during your consultation"
+    },
+    {
+      "id": "edit-068",
+      "label": "পরামর্শের সময় কী আশা করবেন",
+      "kind": "text",
+      "value": "পরামর্শের সময় কী আশা করবেন"
+    },
+    {
+      "id": "edit-069",
+      "label": "Before your visit — please bring",
+      "kind": "text",
+      "value": "Before your visit — please bring"
+    },
+    {
+      "id": "edit-070",
+      "label": "আগে থেকে সঙ্গে আনুন",
+      "kind": "text",
+      "value": "আগে থেকে সঙ্গে আনুন"
+    },
+    {
+      "id": "edit-071",
+      "label": "Previous prescriptions",
+      "kind": "text",
+      "value": "Previous prescriptions"
+    },
+    {
+      "id": "edit-072",
+      "label": "পূর্বের প্রেসক্রিপশন",
+      "kind": "text",
+      "value": "পূর্বের প্রেসক্রিপশন"
+    },
+    {
+      "id": "edit-073",
+      "label": "Laboratory reports",
+      "kind": "text",
+      "value": "Laboratory reports"
+    },
+    {
+      "id": "edit-074",
+      "label": "ল্যাবরেটরি রিপোর্ট",
+      "kind": "text",
+      "value": "ল্যাবরেটরি রিপোর্ট"
+    },
+    {
+      "id": "edit-075",
+      "label": "Imaging (if any)",
+      "kind": "text",
+      "value": "Imaging (if any)"
+    },
+    {
+      "id": "edit-076",
+      "label": "ইমেজিং (যদি থাকে)",
+      "kind": "text",
+      "value": "ইমেজিং (যদি থাকে)"
+    },
+    {
+      "id": "edit-077",
+      "label": "Previous medical records",
+      "kind": "text",
+      "value": "Previous medical records"
+    },
+    {
+      "id": "edit-078",
+      "label": "পূর্বের মেডিকেল রেকর্ড",
+      "kind": "text",
+      "value": "পূর্বের মেডিকেল রেকর্ড"
+    },
+    {
+      "id": "edit-079",
+      "label": "Current medication list",
+      "kind": "text",
+      "value": "Current medication list"
+    },
+    {
+      "id": "edit-080",
+      "label": "বর্তমান ওষুধের তালিকা",
+      "kind": "text",
+      "value": "বর্তমান ওষুধের তালিকা"
+    },
+    {
+      "id": "edit-081",
+      "label": "During the consultation",
+      "kind": "text",
+      "value": "During the consultation"
+    },
+    {
+      "id": "edit-082",
+      "label": "পরামর্শের সময়",
+      "kind": "text",
+      "value": "পরামর্শের সময়"
+    },
+    {
+      "id": "edit-083",
+      "label": "Detailed medical history",
+      "kind": "text",
+      "value": "Detailed medical history"
+    },
+    {
+      "id": "edit-084",
+      "label": "বিস্তারিত মেডিকেল হিস্ট্রি",
+      "kind": "text",
+      "value": "বিস্তারিত মেডিকেল হিস্ট্রি"
+    },
+    {
+      "id": "edit-085",
+      "label": "Review of previous reports",
+      "kind": "text",
+      "value": "Review of previous reports"
+    },
+    {
+      "id": "edit-086",
+      "label": "পূর্বের রিপোর্ট পর্যালোচনা",
+      "kind": "text",
+      "value": "পূর্বের রিপোর্ট পর্যালোচনা"
+    },
+    {
+      "id": "edit-087",
+      "label": "Medication review",
+      "kind": "text",
+      "value": "Medication review"
+    },
+    {
+      "id": "edit-088",
+      "label": "ওষুধ পর্যালোচনা",
+      "kind": "text",
+      "value": "ওষুধ পর্যালোচনা"
+    },
+    {
+      "id": "edit-089",
+      "label": "Relevant physical examination",
+      "kind": "text",
+      "value": "Relevant physical examination"
+    },
+    {
+      "id": "edit-090",
+      "label": "প্রাসঙ্গিক শারীরিক পরীক্ষা",
+      "kind": "text",
+      "value": "প্রাসঙ্গিক শারীরিক পরীক্ষা"
+    },
+    {
+      "id": "edit-091",
+      "label": "Investigation planning if needed",
+      "kind": "text",
+      "value": "Investigation planning if needed"
+    },
+    {
+      "id": "edit-092",
+      "label": "প্রয়োজনে পরীক্ষার পরিকল্পনা",
+      "kind": "text",
+      "value": "প্রয়োজনে পরীক্ষার পরিকল্পনা"
+    },
+    {
+      "id": "edit-093",
+      "label": "After the consultation",
+      "kind": "text",
+      "value": "After the consultation"
+    },
+    {
+      "id": "edit-094",
+      "label": "পরামর্শের পরে",
+      "kind": "text",
+      "value": "পরামর্শের পরে"
+    },
+    {
+      "id": "edit-095",
+      "label": "Diagnosis or working diagnosis",
+      "kind": "text",
+      "value": "Diagnosis or working diagnosis"
+    },
+    {
+      "id": "edit-096",
+      "label": "রোগ নির্ণয় বা সাময়িক নির্ণয়",
+      "kind": "text",
+      "value": "রোগ নির্ণয় বা সাময়িক নির্ণয়"
+    },
+    {
+      "id": "edit-097",
+      "label": "Treatment options",
+      "kind": "text",
+      "value": "Treatment options"
+    },
+    {
+      "id": "edit-098",
+      "label": "চিকিৎসার বিকল্পসমূহ",
+      "kind": "text",
+      "value": "চিকিৎসার বিকল্পসমূহ"
+    },
+    {
+      "id": "edit-099",
+      "label": "Lifestyle advice",
+      "kind": "text",
+      "value": "Lifestyle advice"
+    },
+    {
+      "id": "edit-100",
+      "label": "জীবনযাপন পরামর্শ",
+      "kind": "text",
+      "value": "জীবনযাপন পরামর্শ"
+    },
+    {
+      "id": "edit-101",
+      "label": "Investigation & follow-up plan",
+      "kind": "text",
+      "value": "Investigation & follow-up plan"
+    },
+    {
+      "id": "edit-102",
+      "label": "পরীক্ষা ও ফলো-আপ পরিকল্পনা",
+      "kind": "text",
+      "value": "পরীক্ষা ও ফলো-আপ পরিকল্পনা"
+    },
+    {
+      "id": "edit-103",
+      "label": "Philosophy: diagnose properly before treatment.",
+      "kind": "text",
+      "value": "Philosophy: diagnose properly before treatment."
+    },
+    {
+      "id": "edit-104",
+      "label": "দর্শন: চিকিৎসার আগে সঠিক নির্ণয়।",
+      "kind": "text",
+      "value": "দর্শন: চিকিৎসার আগে সঠিক নির্ণয়।"
+    },
+    {
+      "id": "edit-105",
+      "label": "Reviews",
+      "kind": "text",
+      "value": "Reviews"
+    },
+    {
+      "id": "edit-106",
+      "label": "রিভিউ",
+      "kind": "text",
+      "value": "রিভিউ"
+    },
+    {
+      "id": "edit-107",
+      "label": "What patients say",
+      "kind": "text",
+      "value": "What patients say"
+    },
+    {
+      "id": "edit-108",
+      "label": "রোগীরা যা বলেন",
+      "kind": "text",
+      "value": "রোগীরা যা বলেন"
+    },
+    {
+      "id": "edit-109",
+      "label": "on Google",
+      "kind": "text",
+      "value": "on Google"
+    },
+    {
+      "id": "edit-110",
+      "label": "গুগলে",
+      "kind": "text",
+      "value": "গুগলে"
+    },
+    {
+      "id": "edit-111",
+      "label": "“Dr. Aminul Islam is a highly recommended Endocrinologist! He gives am",
+      "kind": "text",
+      "value": "“Dr. Aminul Islam is a highly recommended Endocrinologist! He gives ample time to his patients, listens patiently, and explains everything clearly. Best of all, he avoids unnecessary tests and medications. A truly dedicated and care-driven doctor”"
+    },
+    {
+      "id": "edit-112",
+      "label": "“A truly caring, highly knowledgeable and passionate young energetic d",
+      "kind": "text",
+      "value": "“A truly caring, highly knowledgeable and passionate young energetic doctor. The best thing of Aminul is he gives ample time and listens to the patient carefully which helps him to go deeper and diagnose core problem. And most importantly, top notch professional ethics regarding giving tests and medicines worth mentioning. All these make him an ethical practioner not commercial.”"
+    },
+    {
+      "id": "edit-113",
+      "label": "“I Highly recommend Dr. MD Aminul Islam at Omni Care Diagnostics. A yo",
+      "kind": "text",
+      "value": "“I Highly recommend Dr. MD Aminul Islam at Omni Care Diagnostics. A young, knowledgeable and dedicated doctor with excellent patient care. My whole family are taking his advice for more than 10 years. What stands out is his calm nature, good behaviour, patience and ability to genuinely understand the overall conditions. He listens carefully and explains things clearly, making patients feel comfortable and confident. A great combination of medical expertise and empathy. Highly recommended!”"
+    },
+    {
+      "id": "edit-114",
+      "label": "Read all reviews",
+      "kind": "text",
+      "value": "Read all reviews"
+    },
+    {
+      "id": "edit-115",
+      "label": "সব রিভিউ পড়ুন",
+      "kind": "text",
+      "value": "সব রিভিউ পড়ুন"
+    },
+    {
+      "id": "edit-116",
+      "label": "Write a review",
+      "kind": "text",
+      "value": "Write a review"
+    },
+    {
+      "id": "edit-117",
+      "label": "রিভিউ লিখুন",
+      "kind": "text",
+      "value": "রিভিউ লিখুন"
+    },
+    {
+      "id": "edit-118",
+      "label": "Follow on Facebook",
+      "kind": "text",
+      "value": "Follow on Facebook"
+    },
+    {
+      "id": "edit-119",
+      "label": "ফেসবুকে ফলো করুন",
+      "kind": "text",
+      "value": "ফেসবুকে ফলো করুন"
+    },
+    {
+      "id": "edit-120",
+      "label": "Connect on LinkedIn",
+      "kind": "text",
+      "value": "Connect on LinkedIn"
+    },
+    {
+      "id": "edit-121",
+      "label": "LinkedIn-এ যুক্ত হোন",
+      "kind": "text",
+      "value": "LinkedIn-এ যুক্ত হোন"
+    },
+    {
+      "id": "edit-122",
+      "label": "Learn",
+      "kind": "text",
+      "value": "Learn"
+    },
+    {
+      "id": "edit-123",
+      "label": "জানুন",
+      "kind": "text",
+      "value": "জানুন"
+    },
+    {
+      "id": "edit-124",
+      "label": "Patient education",
+      "kind": "text",
+      "value": "Patient education"
+    },
+    {
+      "id": "edit-125",
+      "label": "রোগী শিক্ষা",
+      "kind": "text",
+      "value": "রোগী শিক্ষা"
+    },
+    {
+      "id": "edit-126",
+      "label": "Conditions are covered in detail in Areas of Expertise above. Here are",
+      "kind": "text",
+      "value": "Conditions are covered in detail in Areas of Expertise above. Here are a few short videos to get started."
+    },
+    {
+      "id": "edit-127",
+      "label": "বিস্তারিত তথ্য উপরে 'বিশেষজ্ঞতার ক্ষেত্র' অংশে দেওয়া আছে। শুরু করতে ক",
+      "kind": "text",
+      "value": "বিস্তারিত তথ্য উপরে 'বিশেষজ্ঞতার ক্ষেত্র' অংশে দেওয়া আছে। শুরু করতে কয়েকটি সংক্ষিপ্ত ভিডিও দেখুন।"
+    },
+    {
+      "id": "edit-128",
+      "label": "Watch and learn",
+      "kind": "text",
+      "value": "Watch and learn"
+    },
+    {
+      "id": "edit-129",
+      "label": "দেখুন ও জানুন",
+      "kind": "text",
+      "value": "দেখুন ও জানুন"
+    },
+    {
+      "id": "edit-130",
+      "label": "video source",
+      "kind": "media",
+      "value": "media/pcos.mp4"
+    },
+    {
+      "id": "edit-131",
+      "label": "PCOS (PMOS): what you should know",
+      "kind": "text",
+      "value": "PCOS (PMOS): what you should know"
+    },
+    {
+      "id": "edit-132",
+      "label": "পিসিওএস (পিএমওএস): যা জানা দরকার",
+      "kind": "text",
+      "value": "পিসিওএস (পিএমওএস): যা জানা দরকার"
+    },
+    {
+      "id": "edit-133",
+      "label": "video source",
+      "kind": "media",
+      "value": "media/thyroid-medicine.mp4"
+    },
+    {
+      "id": "edit-134",
+      "label": "When to take thyroid medicine (levothyroxine)",
+      "kind": "text",
+      "value": "When to take thyroid medicine (levothyroxine)"
+    },
+    {
+      "id": "edit-135",
+      "label": "থাইরয়েডের ওষুধ (লেভোথাইরক্সিন) কখন খাবেন",
+      "kind": "text",
+      "value": "থাইরয়েডের ওষুধ (লেভোথাইরক্সিন) কখন খাবেন"
+    },
+    {
+      "id": "edit-136",
+      "label": "video source",
+      "kind": "media",
+      "value": "media/weight-management.mp4"
+    },
+    {
+      "id": "edit-137",
+      "label": "Weight management",
+      "kind": "text",
+      "value": "Weight management"
+    },
+    {
+      "id": "edit-138",
+      "label": "ওজন নিয়ন্ত্রণ",
+      "kind": "text",
+      "value": "ওজন নিয়ন্ত্রণ"
+    },
+    {
+      "id": "edit-139",
+      "label": "Browse the full education library →",
+      "kind": "text",
+      "value": "Browse the full education library →"
+    },
+    {
+      "id": "edit-140",
+      "label": "পূর্ণ শিক্ষা লাইব্রেরি দেখুন →",
+      "kind": "text",
+      "value": "পূর্ণ শিক্ষা লাইব্রেরি দেখুন →"
+    },
+    {
+      "id": "edit-141",
+      "label": "For education only. This does not replace personal medical advice.",
+      "kind": "text",
+      "value": "For education only. This does not replace personal medical advice."
+    },
+    {
+      "id": "edit-142",
+      "label": "শুধুমাত্র শিক্ষামূলক তথ্য। এটি ব্যক্তিগত চিকিৎসা পরামর্শের বিকল্প নয়।",
+      "kind": "text",
+      "value": "শুধুমাত্র শিক্ষামূলক তথ্য। এটি ব্যক্তিগত চিকিৎসা পরামর্শের বিকল্প নয়।"
+    },
+    {
+      "id": "edit-143",
+      "label": "Research",
+      "kind": "text",
+      "value": "Research"
+    },
+    {
+      "id": "edit-144",
+      "label": "গবেষণা",
+      "kind": "text",
+      "value": "গবেষণা"
+    },
+    {
+      "id": "edit-145",
+      "label": "Publications",
+      "kind": "text",
+      "value": "Publications"
+    },
+    {
+      "id": "edit-146",
+      "label": "প্রকাশনা",
+      "kind": "text",
+      "value": "প্রকাশনা"
+    },
+    {
+      "id": "edit-147",
+      "label": "10 peer-reviewed publications: 8 original articles and 2 case reports.",
+      "kind": "text",
+      "value": "10 peer-reviewed publications: 8 original articles and 2 case reports."
+    },
+    {
+      "id": "edit-148",
+      "label": "১০টি পিয়ার-রিভিউড প্রকাশনা: ৮টি মূল গবেষণা ও ২টি কেস রিপোর্ট।",
+      "kind": "text",
+      "value": "১০টি পিয়ার-রিভিউড প্রকাশনা: ৮টি মূল গবেষণা ও ২টি কেস রিপোর্ট।"
+    },
+    {
+      "id": "edit-149",
+      "label": "Original article",
+      "kind": "text",
+      "value": "Original article"
+    },
+    {
+      "id": "edit-150",
+      "label": "মূল গবেষণা",
+      "kind": "text",
+      "value": "মূল গবেষণা"
+    },
+    {
+      "id": "edit-151",
+      "label": "Original article",
+      "kind": "text",
+      "value": "Original article"
+    },
+    {
+      "id": "edit-152",
+      "label": "মূল গবেষণা",
+      "kind": "text",
+      "value": "মূল গবেষণা"
+    },
+    {
+      "id": "edit-153",
+      "label": "Original article",
+      "kind": "text",
+      "value": "Original article"
+    },
+    {
+      "id": "edit-154",
+      "label": "মূল গবেষণা",
+      "kind": "text",
+      "value": "মূল গবেষণা"
+    },
+    {
+      "id": "edit-155",
+      "label": "Original article",
+      "kind": "text",
+      "value": "Original article"
+    },
+    {
+      "id": "edit-156",
+      "label": "মূল গবেষণা",
+      "kind": "text",
+      "value": "মূল গবেষণা"
+    },
+    {
+      "id": "edit-157",
+      "label": "Original article",
+      "kind": "text",
+      "value": "Original article"
+    },
+    {
+      "id": "edit-158",
+      "label": "মূল গবেষণা",
+      "kind": "text",
+      "value": "মূল গবেষণা"
+    },
+    {
+      "id": "edit-159",
+      "label": "View article",
+      "kind": "text",
+      "value": "View article"
+    },
+    {
+      "id": "edit-160",
+      "label": "প্রবন্ধ দেখুন",
+      "kind": "text",
+      "value": "প্রবন্ধ দেখুন"
+    },
+    {
+      "id": "edit-161",
+      "label": "Case report",
+      "kind": "text",
+      "value": "Case report"
+    },
+    {
+      "id": "edit-162",
+      "label": "কেস রিপোর্ট",
+      "kind": "text",
+      "value": "কেস রিপোর্ট"
+    },
+    {
+      "id": "edit-163",
+      "label": "Original article",
+      "kind": "text",
+      "value": "Original article"
+    },
+    {
+      "id": "edit-164",
+      "label": "মূল গবেষণা",
+      "kind": "text",
+      "value": "মূল গবেষণা"
+    },
+    {
+      "id": "edit-165",
+      "label": "Original article",
+      "kind": "text",
+      "value": "Original article"
+    },
+    {
+      "id": "edit-166",
+      "label": "মূল গবেষণা",
+      "kind": "text",
+      "value": "মূল গবেষণা"
+    },
+    {
+      "id": "edit-167",
+      "label": "Case report",
+      "kind": "text",
+      "value": "Case report"
+    },
+    {
+      "id": "edit-168",
+      "label": "কেস রিপোর্ট",
+      "kind": "text",
+      "value": "কেস রিপোর্ট"
+    },
+    {
+      "id": "edit-169",
+      "label": "Original article",
+      "kind": "text",
+      "value": "Original article"
+    },
+    {
+      "id": "edit-170",
+      "label": "মূল গবেষণা",
+      "kind": "text",
+      "value": "মূল গবেষণা"
+    },
+    {
+      "id": "edit-171",
+      "label": "View article",
+      "kind": "text",
+      "value": "View article"
+    },
+    {
+      "id": "edit-172",
+      "label": "প্রবন্ধ দেখুন",
+      "kind": "text",
+      "value": "প্রবন্ধ দেখুন"
+    },
+    {
+      "id": "edit-173",
+      "label": "View all publications ▾",
+      "kind": "text",
+      "value": "View all publications ▾"
+    },
+    {
+      "id": "edit-174",
+      "label": "সব প্রকাশনা দেখুন ▾",
+      "kind": "text",
+      "value": "সব প্রকাশনা দেখুন ▾"
+    },
+    {
+      "id": "edit-175",
+      "label": "Show fewer ▴",
+      "kind": "text",
+      "value": "Show fewer ▴"
+    },
+    {
+      "id": "edit-176",
+      "label": "কম দেখান ▴",
+      "kind": "text",
+      "value": "কম দেখান ▴"
+    },
+    {
+      "id": "edit-177",
+      "label": "Events",
+      "kind": "text",
+      "value": "Events"
+    },
+    {
+      "id": "edit-178",
+      "label": "অনুষ্ঠান",
+      "kind": "text",
+      "value": "অনুষ্ঠান"
+    },
+    {
+      "id": "edit-179",
+      "label": "Conference presentation",
+      "kind": "text",
+      "value": "Conference presentation"
+    },
+    {
+      "id": "edit-180",
+      "label": "কনফারেন্সে উপস্থাপনা",
+      "kind": "text",
+      "value": "কনফারেন্সে উপস্থাপনা"
+    },
+    {
+      "id": "edit-181",
+      "label": "Presenting “Diabetes Distress in Young People with Diabetes” at the 8t",
+      "kind": "text",
+      "value": "Presenting “Diabetes Distress in Young People with Diabetes” at the 8th International Endocrine Conference 2025 and the 13th Annual General Meeting of the Bangladesh Endocrine Society (BES)."
+    },
+    {
+      "id": "edit-182",
+      "label": "বাংলাদেশ এন্ডোক্রাইন সোসাইটির (BES) ৮ম আন্তর্জাতিক এন্ডোক্রাইন কনফারেন",
+      "kind": "text",
+      "value": "বাংলাদেশ এন্ডোক্রাইন সোসাইটির (BES) ৮ম আন্তর্জাতিক এন্ডোক্রাইন কনফারেন্স ২০২৫ ও ১৩তম বার্ষিক সাধারণ সভায় “Diabetes Distress in Young People with Diabetes” বিষয়ে উপস্থাপনা।"
+    },
+    {
+      "id": "edit-183",
+      "label": "Title slide: “Diabetes Distress in Young People with Diabetes”",
+      "kind": "text",
+      "value": "Title slide: “Diabetes Distress in Young People with Diabetes”"
+    },
+    {
+      "id": "edit-184",
+      "label": "শিরোনাম স্লাইড: “Diabetes Distress in Young People with Diabetes”",
+      "kind": "text",
+      "value": "শিরোনাম স্লাইড: “Diabetes Distress in Young People with Diabetes”"
+    },
+    {
+      "id": "edit-185",
+      "label": "Presenting at the conference",
+      "kind": "text",
+      "value": "Presenting at the conference"
+    },
+    {
+      "id": "edit-186",
+      "label": "কনফারেন্সে উপস্থাপনা",
+      "kind": "text",
+      "value": "কনফারেন্সে উপস্থাপনা"
+    },
+    {
+      "id": "edit-187",
+      "label": "Presenting at the conference",
+      "kind": "text",
+      "value": "Presenting at the conference"
+    },
+    {
+      "id": "edit-188",
+      "label": "কনফারেন্সে উপস্থাপনা",
+      "kind": "text",
+      "value": "কনফারেন্সে উপস্থাপনা"
+    },
+    {
+      "id": "edit-189",
+      "label": "For referring doctors",
+      "kind": "text",
+      "value": "For referring doctors"
+    },
+    {
+      "id": "edit-190",
+      "label": "রেফারকারী চিকিৎসকদের জন্য",
+      "kind": "text",
+      "value": "রেফারকারী চিকিৎসকদের জন্য"
+    },
+    {
+      "id": "edit-191",
+      "label": "draminul46@gmail.com",
+      "kind": "text",
+      "value": "draminul46@gmail.com"
+    },
+    {
+      "id": "edit-191",
+      "label": "Link: draminul46@gmail.com",
+      "kind": "link",
+      "value": "mailto:draminul46@gmail.com"
+    },
+    {
+      "id": "edit-192",
+      "label": "draminul46@gmail.com",
+      "kind": "text",
+      "value": "draminul46@gmail.com"
+    },
+    {
+      "id": "edit-192",
+      "label": "Link: draminul46@gmail.com",
+      "kind": "link",
+      "value": "mailto:draminul46@gmail.com"
+    },
+    {
+      "id": "edit-193",
+      "label": "Ready to take the next step?",
+      "kind": "text",
+      "value": "Ready to take the next step?"
+    },
+    {
+      "id": "edit-194",
+      "label": "পরবর্তী পদক্ষেপ নিতে প্রস্তুত?",
+      "kind": "text",
+      "value": "পরবর্তী পদক্ষেপ নিতে প্রস্তুত?"
+    },
+    {
+      "id": "edit-195",
+      "label": "Book your appointment in Dhaka, Chattogram, Patiya, or online.",
+      "kind": "text",
+      "value": "Book your appointment in Dhaka, Chattogram, Patiya, or online."
+    },
+    {
+      "id": "edit-196",
+      "label": "ঢাকা, চট্টগ্রাম, পটিয়া অথবা অনলাইনে আপনার অ্যাপয়েন্টমেন্ট নিন।",
+      "kind": "text",
+      "value": "ঢাকা, চট্টগ্রাম, পটিয়া অথবা অনলাইনে আপনার অ্যাপয়েন্টমেন্ট নিন।"
+    },
+    {
+      "id": "edit-197",
+      "label": "Book Appointment",
+      "kind": "text",
+      "value": "Book Appointment"
+    },
+    {
+      "id": "edit-198",
+      "label": "অ্যাপয়েন্টমেন্ট নিন",
+      "kind": "text",
+      "value": "অ্যাপয়েন্টমেন্ট নিন"
+    },
+    {
+      "id": "edit-199",
+      "label": "Call",
+      "kind": "text",
+      "value": "Call"
+    },
+    {
+      "id": "edit-200",
+      "label": "কল করুন",
+      "kind": "text",
+      "value": "কল করুন"
+    },
+    {
+      "id": "edit-201",
+      "label": "WhatsApp",
+      "kind": "text",
+      "value": "WhatsApp"
+    },
+    {
+      "id": "edit-202",
+      "label": "হোয়াটসঅ্যাপ",
+      "kind": "text",
+      "value": "হোয়াটসঅ্যাপ"
+    },
+    {
+      "id": "edit-203",
+      "label": "Dr. Mohammad Aminul Islam",
+      "kind": "text",
+      "value": "Dr. Mohammad Aminul Islam"
+    },
+    {
+      "id": "edit-204",
+      "label": "ডা. মোহাম্মদ আমিনুল ইসলাম",
+      "kind": "text",
+      "value": "ডা. মোহাম্মদ আমিনুল ইসলাম"
+    },
+    {
+      "id": "edit-205",
+      "label": "General information only, not a substitute for professional medical ad",
+      "kind": "text",
+      "value": "General information only, not a substitute for professional medical advice. Please don’t email personal medical details. In an emergency, go to the nearest hospital."
+    },
+    {
+      "id": "edit-206",
+      "label": "শুধু সাধারণ তথ্য; এটি পেশাদার চিকিৎসা পরামর্শের বিকল্প নয়। অনুগ্রহ কর",
+      "kind": "text",
+      "value": "শুধু সাধারণ তথ্য; এটি পেশাদার চিকিৎসা পরামর্শের বিকল্প নয়। অনুগ্রহ করে ইমেইলে ব্যক্তিগত চিকিৎসা তথ্য পাঠাবেন না। জরুরি অবস্থায় নিকটস্থ হাসপাতালে যান।"
+    },
+    {
+      "id": "edit-207",
+      "label": "Patient Education Library",
+      "kind": "text",
+      "value": "Patient Education Library"
+    },
+    {
+      "id": "edit-208",
+      "label": "রোগী শিক্ষা লাইব্রেরি",
+      "kind": "text",
+      "value": "রোগী শিক্ষা লাইব্রেরি"
+    },
+    {
+      "id": "edit-209",
+      "label": "Contact",
+      "kind": "text",
+      "value": "Contact"
+    },
+    {
+      "id": "edit-210",
+      "label": "যোগাযোগ",
+      "kind": "text",
+      "value": "যোগাযোগ"
+    },
+    {
+      "id": "edit-211",
+      "label": "Privacy Policy",
+      "kind": "text",
+      "value": "Privacy Policy"
+    },
+    {
+      "id": "edit-212",
+      "label": "প্রাইভেসি পলিসি",
+      "kind": "text",
+      "value": "প্রাইভেসি পলিসি"
+    },
+    {
+      "id": "edit-213",
+      "label": "Medical Disclaimer",
+      "kind": "text",
+      "value": "Medical Disclaimer"
+    },
+    {
+      "id": "edit-214",
+      "label": "মেডিকেল ডিসক্লেইমার",
+      "kind": "text",
+      "value": "মেডিকেল ডিসক্লেইমার"
+    },
+    {
+      "id": "edit-215",
+      "label": "Facebook",
+      "kind": "text",
+      "value": "Facebook"
+    },
+    {
+      "id": "edit-215",
+      "label": "Link: Facebook",
+      "kind": "link",
+      "value": "https://www.facebook.com/share/16Ec8BLWMN2/"
+    },
+    {
+      "id": "edit-216",
+      "label": "Google reviews",
+      "kind": "text",
+      "value": "Google reviews"
+    },
+    {
+      "id": "edit-216",
+      "label": "Link: Google reviews",
+      "kind": "link",
+      "value": "https://share.google/inh2LFFBDtszWjzEe"
+    },
+    {
+      "id": "edit-217",
+      "label": "LinkedIn",
+      "kind": "text",
+      "value": "LinkedIn"
+    },
+    {
+      "id": "edit-217",
+      "label": "Link: LinkedIn",
+      "kind": "link",
+      "value": "https://www.linkedin.com/in/mohammad-aminul-islam-686091294"
+    },
+    {
+      "id": "edit-218",
+      "label": "Call",
+      "kind": "text",
+      "value": "Call"
+    },
+    {
+      "id": "edit-219",
+      "label": "কল",
+      "kind": "text",
+      "value": "কল"
+    },
+    {
+      "id": "edit-220",
+      "label": "Chambers",
+      "kind": "text",
+      "value": "Chambers"
+    },
+    {
+      "id": "edit-221",
+      "label": "চেম্বার",
+      "kind": "text",
+      "value": "চেম্বার"
+    }
+  ]
+}

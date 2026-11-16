@@ -1,0 +1,310 @@
+{
+  "items": [
+    {
+      "id": "edit-001",
+      "label": "About",
+      "kind": "text",
+      "value": "About"
+    },
+    {
+      "id": "edit-001",
+      "label": "Link: About",
+      "kind": "link",
+      "value": "index.html#about"
+    },
+    {
+      "id": "edit-002",
+      "label": "Conditions",
+      "kind": "text",
+      "value": "Conditions"
+    },
+    {
+      "id": "edit-002",
+      "label": "Link: Conditions",
+      "kind": "link",
+      "value": "index.html#care"
+    },
+    {
+      "id": "edit-003",
+      "label": "Chambers",
+      "kind": "text",
+      "value": "Chambers"
+    },
+    {
+      "id": "edit-003",
+      "label": "Link: Chambers",
+      "kind": "link",
+      "value": "index.html#book"
+    },
+    {
+      "id": "edit-004",
+      "label": "Learn",
+      "kind": "text",
+      "value": "Learn"
+    },
+    {
+      "id": "edit-004",
+      "label": "Link: Learn",
+      "kind": "link",
+      "value": "index.html#learn"
+    },
+    {
+      "id": "edit-005",
+      "label": "FAQ",
+      "kind": "text",
+      "value": "FAQ"
+    },
+    {
+      "id": "edit-005",
+      "label": "Link: FAQ",
+      "kind": "link",
+      "value": "index.html#faq"
+    },
+    {
+      "id": "edit-006",
+      "label": "Research",
+      "kind": "text",
+      "value": "Research"
+    },
+    {
+      "id": "edit-006",
+      "label": "Link: Research",
+      "kind": "link",
+      "value": "index.html#research"
+    },
+    {
+      "id": "edit-007",
+      "label": "Reviews",
+      "kind": "text",
+      "value": "Reviews"
+    },
+    {
+      "id": "edit-007",
+      "label": "Link: Reviews",
+      "kind": "link",
+      "value": "index.html#reviews"
+    },
+    {
+      "id": "edit-008",
+      "label": "Appointment",
+      "kind": "text",
+      "value": "Appointment"
+    },
+    {
+      "id": "edit-008",
+      "label": "Link: Appointment",
+      "kind": "link",
+      "value": "index.html#book"
+    },
+    {
+      "id": "edit-009",
+      "label": "Home",
+      "kind": "text",
+      "value": "Home"
+    },
+    {
+      "id": "edit-009",
+      "label": "Link: Home",
+      "kind": "link",
+      "value": "index.html"
+    },
+    {
+      "id": "edit-010",
+      "label": "Medical Disclaimer",
+      "kind": "text",
+      "value": "Medical Disclaimer"
+    },
+    {
+      "id": "edit-011",
+      "label": "General information only",
+      "kind": "text",
+      "value": "General information only"
+    },
+    {
+      "id": "edit-012",
+      "label": "শুধুমাত্র সাধারণ তথ্য",
+      "kind": "text",
+      "value": "শুধুমাত্র সাধারণ তথ্য"
+    },
+    {
+      "id": "edit-013",
+      "label": "The content on this website, including the patient education articles ",
+      "kind": "text",
+      "value": "The content on this website, including the patient education articles and condition pages, is provided for general information and educational purposes only. It is not medical advice and is not a substitute for a professional consultation, diagnosis, or treatment."
+    },
+    {
+      "id": "edit-014",
+      "label": "এই ওয়েবসাইটের সকল তথ্য, রোগী শিক্ষা প্রবন্ধ ও রোগ-সংক্রান্ত পাতাসহ, শ",
+      "kind": "text",
+      "value": "এই ওয়েবসাইটের সকল তথ্য, রোগী শিক্ষা প্রবন্ধ ও রোগ-সংক্রান্ত পাতাসহ, শুধুমাত্র সাধারণ ও শিক্ষামূলক উদ্দেশ্যে প্রদান করা হয়েছে। এটি চিকিৎসা পরামর্শ নয় এবং পেশাদার পরামর্শ, নির্ণয় বা চিকিৎসার বিকল্প নয়।"
+    },
+    {
+      "id": "edit-015",
+      "label": "No doctor-patient relationship",
+      "kind": "text",
+      "value": "No doctor-patient relationship"
+    },
+    {
+      "id": "edit-016",
+      "label": "কোনো চিকিৎসক-রোগী সম্পর্ক নেই",
+      "kind": "text",
+      "value": "কোনো চিকিৎসক-রোগী সম্পর্ক নেই"
+    },
+    {
+      "id": "edit-017",
+      "label": "Reading this website, sending a message, or booking an appointment onl",
+      "kind": "text",
+      "value": "Reading this website, sending a message, or booking an appointment online does not by itself create a doctor-patient relationship. That relationship begins only with an actual consultation."
+    },
+    {
+      "id": "edit-018",
+      "label": "এই ওয়েবসাইট পড়া, বার্তা পাঠানো, বা অনলাইনে অ্যাপয়েন্টমেন্ট বুক করা ",
+      "kind": "text",
+      "value": "এই ওয়েবসাইট পড়া, বার্তা পাঠানো, বা অনলাইনে অ্যাপয়েন্টমেন্ট বুক করা নিজে থেকেই কোনো চিকিৎসক-রোগী সম্পর্ক তৈরি করে না। এই সম্পর্ক শুরু হয় শুধুমাত্র প্রকৃত পরামর্শের মাধ্যমে।"
+    },
+    {
+      "id": "edit-019",
+      "label": "Individual cases vary",
+      "kind": "text",
+      "value": "Individual cases vary"
+    },
+    {
+      "id": "edit-020",
+      "label": "প্রতিটি ক্ষেত্র ভিন্ন হতে পারে",
+      "kind": "text",
+      "value": "প্রতিটি ক্ষেত্র ভিন্ন হতে পারে"
+    },
+    {
+      "id": "edit-021",
+      "label": "Medical information here is general. Your own situation — history, tes",
+      "kind": "text",
+      "value": "Medical information here is general. Your own situation — history, test results, other conditions, and medications — may change what applies to you. Always discuss your specific case with your doctor before making any health decision."
+    },
+    {
+      "id": "edit-022",
+      "label": "এখানকার চিকিৎসা তথ্য সাধারণ প্রকৃতির। আপনার নিজের পরিস্থিতি — ইতিহাস, ",
+      "kind": "text",
+      "value": "এখানকার চিকিৎসা তথ্য সাধারণ প্রকৃতির। আপনার নিজের পরিস্থিতি — ইতিহাস, পরীক্ষার ফলাফল, অন্যান্য রোগ ও ওষুধ — আপনার ক্ষেত্রে যা প্রযোজ্য তা পরিবর্তন করতে পারে। কোনো স্বাস্থ্য সিদ্ধান্ত নেওয়ার আগে সবসময় আপনার নির্দিষ্ট ক্ষেত্র নিয়ে আপনার চিকিৎসকের সাথে আলোচনা করুন।"
+    },
+    {
+      "id": "edit-023",
+      "label": "Not for emergencies",
+      "kind": "text",
+      "value": "Not for emergencies"
+    },
+    {
+      "id": "edit-024",
+      "label": "জরুরি অবস্থার জন্য নয়",
+      "kind": "text",
+      "value": "জরুরি অবস্থার জন্য নয়"
+    },
+    {
+      "id": "edit-025",
+      "label": "This website, email, and WhatsApp are not monitored for emergencies an",
+      "kind": "text",
+      "value": "This website, email, and WhatsApp are not monitored for emergencies and must not be used for one. If you or someone else is having a medical emergency, go to the nearest emergency department or call your local emergency number immediately."
+    },
+    {
+      "id": "edit-026",
+      "label": "এই ওয়েবসাইট, ইমেইল ও হোয়াটসঅ্যাপ জরুরি অবস্থার জন্য পর্যবেক্ষণ করা হ",
+      "kind": "text",
+      "value": "এই ওয়েবসাইট, ইমেইল ও হোয়াটসঅ্যাপ জরুরি অবস্থার জন্য পর্যবেক্ষণ করা হয় না এবং এর জন্য ব্যবহার করা উচিত নয়। আপনার বা অন্য কারো মেডিকেল ইমার্জেন্সি হলে, অবিলম্বে নিকটস্থ জরুরি বিভাগে যান বা স্থানীয় জরুরি নম্বরে কল করুন।"
+    },
+    {
+      "id": "edit-027",
+      "label": "No guaranteed outcomes",
+      "kind": "text",
+      "value": "No guaranteed outcomes"
+    },
+    {
+      "id": "edit-028",
+      "label": "কোনো নিশ্চিত ফলাফল নেই",
+      "kind": "text",
+      "value": "কোনো নিশ্চিত ফলাফল নেই"
+    },
+    {
+      "id": "edit-029",
+      "label": "No website can guarantee a particular diagnosis, treatment result, or ",
+      "kind": "text",
+      "value": "No website can guarantee a particular diagnosis, treatment result, or outcome. Medicine involves individual variation, and your doctor will discuss realistic expectations with you directly."
+    },
+    {
+      "id": "edit-030",
+      "label": "কোনো ওয়েবসাইট নির্দিষ্ট কোনো নির্ণয়, চিকিৎসার ফলাফল বা পরিণতির নিশ্চ",
+      "kind": "text",
+      "value": "কোনো ওয়েবসাইট নির্দিষ্ট কোনো নির্ণয়, চিকিৎসার ফলাফল বা পরিণতির নিশ্চয়তা দিতে পারে না। চিকিৎসাবিজ্ঞানে ব্যক্তিভেদে তারতম্য থাকে, এবং আপনার চিকিৎসক সরাসরি আপনার সাথে বাস্তবসম্মত প্রত্যাশা নিয়ে আলোচনা করবেন।"
+    },
+    {
+      "id": "edit-031",
+      "label": "Last updated: October 2026.",
+      "kind": "text",
+      "value": "Last updated: October 2026."
+    },
+    {
+      "id": "edit-032",
+      "label": "সর্বশেষ হালনাগাদ: অক্টোবর ২০২৬।",
+      "kind": "text",
+      "value": "সর্বশেষ হালনাগাদ: অক্টোবর ২০২৬।"
+    },
+    {
+      "id": "edit-033",
+      "label": "Facebook",
+      "kind": "text",
+      "value": "Facebook"
+    },
+    {
+      "id": "edit-033",
+      "label": "Link: Facebook",
+      "kind": "link",
+      "value": "https://www.facebook.com/share/16Ec8BLWMN2/"
+    },
+    {
+      "id": "edit-034",
+      "label": "LinkedIn",
+      "kind": "text",
+      "value": "LinkedIn"
+    },
+    {
+      "id": "edit-034",
+      "label": "Link: LinkedIn",
+      "kind": "link",
+      "value": "https://www.linkedin.com/in/mohammad-aminul-islam-686091294"
+    },
+    {
+      "id": "edit-035",
+      "label": "Google reviews",
+      "kind": "text",
+      "value": "Google reviews"
+    },
+    {
+      "id": "edit-035",
+      "label": "Link: Google reviews",
+      "kind": "link",
+      "value": "https://share.google/inh2LFFBDtszWjzEe"
+    },
+    {
+      "id": "edit-036",
+      "label": "Call",
+      "kind": "text",
+      "value": "Call"
+    },
+    {
+      "id": "edit-037",
+      "label": "কল",
+      "kind": "text",
+      "value": "কল"
+    },
+    {
+      "id": "edit-038",
+      "label": "Chambers",
+      "kind": "text",
+      "value": "Chambers"
+    },
+    {
+      "id": "edit-039",
+      "label": "চেম্বার",
+      "kind": "text",
+      "value": "চেম্বার"
+    }
+  ]
+}
