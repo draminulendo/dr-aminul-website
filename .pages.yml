@@ -1,0 +1,581 @@
+media:
+  input: assets/uploads
+  output: /assets/uploads
+content:
+- name: chambers
+  label: Chambers / চেম্বার
+  type: file
+  path: content/chambers.json
+  format: json
+  fields:
+  - name: chambers
+    label: Chamber list
+    type: object
+    list:
+      collapsible: true
+    fields:
+    - name: area
+      label: Location
+      type: object
+      fields:
+      - name: en
+        label: English
+        type: text
+      - name: bn
+        label: বাংলা
+        type: text
+    - name: name
+      label: Chamber name
+      type: string
+    - name: address
+      label: Full address
+      type: text
+    - name: hours
+      label: Visiting hours
+      type: object
+      fields:
+      - name: en
+        label: English
+        type: text
+      - name: bn
+        label: বাংলা
+        type: text
+    - name: links
+      label: Contact and map links
+      type: object
+      list:
+        collapsible: true
+      fields:
+      - name: label
+        label: Button text
+        type: string
+      - name: url
+        label: Phone / URL
+        type: string
+- name: expertise
+  label: Areas of Expertise / বিশেষজ্ঞতা
+  type: file
+  path: content/expertise.json
+  format: json
+  fields:
+  - name: expertise
+    label: Expertise cards
+    type: object
+    list:
+      collapsible: true
+    fields:
+    - name: id
+      label: Card ID
+      type: string
+      readonly: true
+    - name: image
+      label: Illustration path
+      type: string
+    - name: page
+      label: Detail page link
+      type: string
+    - name: title
+      label: Title
+      type: object
+      fields:
+      - name: en
+        label: English
+        type: text
+      - name: bn
+        label: বাংলা
+        type: text
+    - name: description
+      label: Description
+      type: object
+      fields:
+      - name: en
+        label: English
+        type: text
+      - name: bn
+        label: বাংলা
+        type: text
+- name: trust
+  label: Why Patients Trust / আস্থা
+  type: file
+  path: content/trust.json
+  format: json
+  fields:
+  - name: trust
+    label: Six trust cards
+    type: object
+    list:
+      collapsible: true
+    fields:
+    - name: icon
+      label: Emoji icon
+      type: string
+    - name: title
+      label: Title
+      type: object
+      fields:
+      - name: en
+        label: English
+        type: text
+      - name: bn
+        label: বাংলা
+        type: text
+    - name: description
+      label: Description
+      type: object
+      fields:
+      - name: en
+        label: English
+        type: text
+      - name: bn
+        label: বাংলা
+        type: text
+- name: faq
+  label: FAQ / প্রশ্নোত্তর
+  type: file
+  path: content/faq.json
+  format: json
+  fields:
+  - name: faq
+    label: Questions
+    type: object
+    list:
+      collapsible: true
+    fields:
+    - name: question
+      label: Question
+      type: object
+      fields:
+      - name: en
+        label: English
+        type: text
+      - name: bn
+        label: বাংলা
+        type: text
+    - name: answer
+      label: Answer
+      type: object
+      fields:
+      - name: en
+        label: English
+        type: text
+      - name: bn
+        label: বাংলা
+        type: text
+- name: design
+  label: Design settings / ডিজাইন
+  type: file
+  path: content/design.json
+  format: json
+  fields:
+  - name: settings
+    label: Design controls
+    type: object
+    fields:
+    - name: accent_color
+      label: 'Accent color (hex, e.g. #087f8c)'
+      type: string
+    - name: card_radius_px
+      label: Card corner radius (4–36)
+      type: number
+    - name: expertise_image_height_px
+      label: Expertise image height (40–180)
+      type: number
+    - name: trust_icon_size_px
+      label: Trust icon size (32–110)
+      type: number
+    - name: desktop_expertise_columns
+      label: Expertise desktop columns (1–4)
+      type: number
+    - name: desktop_trust_columns
+      label: Trust desktop columns (1–4)
+      type: number
+    - name: card_gap_px
+      label: Card spacing (6–36)
+      type: number
+    - name: hide_reviews
+      label: Hide reviews section
+      type: boolean
+    - name: hide_conference
+      label: Hide conference section
+      type: boolean
+    - name: hide_publications
+      label: Hide publications section
+      type: boolean
+- name: index
+  label: Index page
+  type: file
+  path: content/pages/index.json
+  format: json
+  fields:
+  - name: items
+    label: Editable text, image and links
+    type: object
+    list:
+      collapsible: true
+    fields:
+    - name: id
+      label: Element ID (do not change)
+      type: string
+      readonly: true
+    - name: label
+      label: What this controls
+      type: string
+      readonly: true
+    - name: kind
+      label: Type (do not change)
+      type: string
+      readonly: true
+    - name: value
+      label: Text, image path or link
+      type: text
+- name: contact
+  label: Contact page
+  type: file
+  path: content/pages/contact.json
+  format: json
+  fields:
+  - name: items
+    label: Editable text, image and links
+    type: object
+    list:
+      collapsible: true
+    fields:
+    - name: id
+      label: Element ID (do not change)
+      type: string
+      readonly: true
+    - name: label
+      label: What this controls
+      type: string
+      readonly: true
+    - name: kind
+      label: Type (do not change)
+      type: string
+      readonly: true
+    - name: value
+      label: Text, image path or link
+      type: text
+- name: library
+  label: Library page
+  type: file
+  path: content/pages/library.json
+  format: json
+  fields:
+  - name: items
+    label: Editable text, image and links
+    type: object
+    list:
+      collapsible: true
+    fields:
+    - name: id
+      label: Element ID (do not change)
+      type: string
+      readonly: true
+    - name: label
+      label: What this controls
+      type: string
+      readonly: true
+    - name: kind
+      label: Type (do not change)
+      type: string
+      readonly: true
+    - name: value
+      label: Text, image path or link
+      type: text
+- name: diabetes
+  label: Diabetes page
+  type: file
+  path: content/pages/diabetes.json
+  format: json
+  fields:
+  - name: items
+    label: Editable text, image and links
+    type: object
+    list:
+      collapsible: true
+    fields:
+    - name: id
+      label: Element ID (do not change)
+      type: string
+      readonly: true
+    - name: label
+      label: What this controls
+      type: string
+      readonly: true
+    - name: kind
+      label: Type (do not change)
+      type: string
+      readonly: true
+    - name: value
+      label: Text, image path or link
+      type: text
+- name: thyroid
+  label: Thyroid page
+  type: file
+  path: content/pages/thyroid.json
+  format: json
+  fields:
+  - name: items
+    label: Editable text, image and links
+    type: object
+    list:
+      collapsible: true
+    fields:
+    - name: id
+      label: Element ID (do not change)
+      type: string
+      readonly: true
+    - name: label
+      label: What this controls
+      type: string
+      readonly: true
+    - name: kind
+      label: Type (do not change)
+      type: string
+      readonly: true
+    - name: value
+      label: Text, image path or link
+      type: text
+- name: pcos
+  label: Pcos page
+  type: file
+  path: content/pages/pcos.json
+  format: json
+  fields:
+  - name: items
+    label: Editable text, image and links
+    type: object
+    list:
+      collapsible: true
+    fields:
+    - name: id
+      label: Element ID (do not change)
+      type: string
+      readonly: true
+    - name: label
+      label: What this controls
+      type: string
+      readonly: true
+    - name: kind
+      label: Type (do not change)
+      type: string
+      readonly: true
+    - name: value
+      label: Text, image path or link
+      type: text
+- name: obesity
+  label: Obesity page
+  type: file
+  path: content/pages/obesity.json
+  format: json
+  fields:
+  - name: items
+    label: Editable text, image and links
+    type: object
+    list:
+      collapsible: true
+    fields:
+    - name: id
+      label: Element ID (do not change)
+      type: string
+      readonly: true
+    - name: label
+      label: What this controls
+      type: string
+      readonly: true
+    - name: kind
+      label: Type (do not change)
+      type: string
+      readonly: true
+    - name: value
+      label: Text, image path or link
+      type: text
+- name: mens
+  label: Mens page
+  type: file
+  path: content/pages/mens.json
+  format: json
+  fields:
+  - name: items
+    label: Editable text, image and links
+    type: object
+    list:
+      collapsible: true
+    fields:
+    - name: id
+      label: Element ID (do not change)
+      type: string
+      readonly: true
+    - name: label
+      label: What this controls
+      type: string
+      readonly: true
+    - name: kind
+      label: Type (do not change)
+      type: string
+      readonly: true
+    - name: value
+      label: Text, image path or link
+      type: text
+- name: bone
+  label: Bone page
+  type: file
+  path: content/pages/bone.json
+  format: json
+  fields:
+  - name: items
+    label: Editable text, image and links
+    type: object
+    list:
+      collapsible: true
+    fields:
+    - name: id
+      label: Element ID (do not change)
+      type: string
+      readonly: true
+    - name: label
+      label: What this controls
+      type: string
+      readonly: true
+    - name: kind
+      label: Type (do not change)
+      type: string
+      readonly: true
+    - name: value
+      label: Text, image path or link
+      type: text
+- name: adrenal
+  label: Adrenal page
+  type: file
+  path: content/pages/adrenal.json
+  format: json
+  fields:
+  - name: items
+    label: Editable text, image and links
+    type: object
+    list:
+      collapsible: true
+    fields:
+    - name: id
+      label: Element ID (do not change)
+      type: string
+      readonly: true
+    - name: label
+      label: What this controls
+      type: string
+      readonly: true
+    - name: kind
+      label: Type (do not change)
+      type: string
+      readonly: true
+    - name: value
+      label: Text, image path or link
+      type: text
+- name: growth
+  label: Growth page
+  type: file
+  path: content/pages/growth.json
+  format: json
+  fields:
+  - name: items
+    label: Editable text, image and links
+    type: object
+    list:
+      collapsible: true
+    fields:
+    - name: id
+      label: Element ID (do not change)
+      type: string
+      readonly: true
+    - name: label
+      label: What this controls
+      type: string
+      readonly: true
+    - name: kind
+      label: Type (do not change)
+      type: string
+      readonly: true
+    - name: value
+      label: Text, image path or link
+      type: text
+- name: menopause
+  label: Menopause page
+  type: file
+  path: content/pages/menopause.json
+  format: json
+  fields:
+  - name: items
+    label: Editable text, image and links
+    type: object
+    list:
+      collapsible: true
+    fields:
+    - name: id
+      label: Element ID (do not change)
+      type: string
+      readonly: true
+    - name: label
+      label: What this controls
+      type: string
+      readonly: true
+    - name: kind
+      label: Type (do not change)
+      type: string
+      readonly: true
+    - name: value
+      label: Text, image path or link
+      type: text
+- name: privacy-policy
+  label: Privacy Policy page
+  type: file
+  path: content/pages/privacy-policy.json
+  format: json
+  fields:
+  - name: items
+    label: Editable text, image and links
+    type: object
+    list:
+      collapsible: true
+    fields:
+    - name: id
+      label: Element ID (do not change)
+      type: string
+      readonly: true
+    - name: label
+      label: What this controls
+      type: string
+      readonly: true
+    - name: kind
+      label: Type (do not change)
+      type: string
+      readonly: true
+    - name: value
+      label: Text, image path or link
+      type: text
+- name: medical-disclaimer
+  label: Medical Disclaimer page
+  type: file
+  path: content/pages/medical-disclaimer.json
+  format: json
+  fields:
+  - name: items
+    label: Editable text, image and links
+    type: object
+    list:
+      collapsible: true
+    fields:
+    - name: id
+      label: Element ID (do not change)
+      type: string
+      readonly: true
+    - name: label
+      label: What this controls
+      type: string
+      readonly: true
+    - name: kind
+      label: Type (do not change)
+      type: string
+      readonly: true
+    - name: value
+      label: Text, image path or link
+      type: text
